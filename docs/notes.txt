@@ -1,0 +1,66 @@
+ADATGYŰJTÉS
+Manuális mintagyűjtés: 
+- pcap fájlok
+- mind az 5 applikációból kellene min. 5 inkább 10 minta (referencia). (YouTube, Facebook, WhatsApp, Instagram, TikTok)
+- kell valami a validációhoz (Telekomtól)
+- böngészős / applikációs ugyanolyan-e? ha nem: androidos vm
+- FONTOS: DNS cache-t flush-olni, minden egyes teszt előtt
+
+EGYÉB
+Applikációk változnak, statisztikai módszerek nem követik le
+Deep learning állítólag megoldja
+Balázs problémája a learning-gel: semi-supervised and unsupervised kéne
+Gépi tanuláshoz utána kéne néznie, hogy volt-e valami nagy breakthrough
+Olyan modell kéne, ami VGA nélkül megoldható (lehet, de végső megoldás, inkább CPU-s)
+Mindenképp kerüljük el, hogy kézileg kelljen label-özni több 1000 mintát.
+
+STATISZTIKAI MÓDSZEREK
+- ~2-5 nap rászánás megérteni
+- Utánanézni 
+- Szerdára letisztázni, hogy mi lesz az út
+- 19. oldal táblázat
+
+GÉPI TANULÁS
+- be kell húzni a modellt (libek, paraméterek stb.)
+- feature engineering: nyers adat átdolgozása hogy megkaphassa a modell
+- utánaolvasni: hogyan értékelik ki ezeket a modelleket?
+
+Következő megbeszélés: irány választása, lista: legutóbb átbeszélt feladatok - mostani átbeszélt feladatok összegyűjteni
+
+-> irány: semi-supervised adatok, classic machine learning (random forest?), rule-based (heurisztikus)
+manuálisan gyűjtött datasettel (5*10 minta)
+
+feature vector:
+X = [
+    ip addresses,
+    duration,
+    packet_count,
+    byte_count,
+    protocol,
+    avg_packet_size,
+    packets_per_second,
+    bytes_per_second,
+    direction_ratio
+]
+
+Papírról: 
+ebpf -> IP+IMSI, socket-adg -> c++ db -> CDR
+1 ebpf socket kimenet
+2 ebpf adg formatter
+3 klasszifikációs applikációs logika
+_______
+4 skálázhatóság thread-ekkel
+5 adatbázis olvasás
+
+mennyi címkézett adat kell szerinte a random forest-hez?
+kiválasztani mondjuk 3-5 különböző algoritmust, pythonnal proof of context appot csinálni belőlük
+(random forest, cnn, ...) olyan kell amihez van python lib
+test bed: ami volt 187-es gépen, környezet ami fel tudja dolgozni és a json-öket elő tudja állítani
+kell valós minta is, Balázs megcsinálja
+
+tasks:
+minták
+json-t szerzi Balázs
+ki kéne választani három módszert
+python appok
+feature engineering-et csak akkor kezdjük el, ha megvannak a minták és az algoritmusok
