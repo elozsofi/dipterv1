@@ -1,0 +1,139 @@
+"filename", "language", "C++", "C", "Markdown", "Makefile", "Shell Script", "Python", "YAML", "reStructuredText", "pip requirements", "Diff", "Docker", "comment", "blank", "total"
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/bpf/bpf.h", "C++", 238, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 144, 57, 439
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/bpf/bpf_core_read.h", "C++", 217, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 222, 46, 485
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/bpf/bpf_endian.h", "C++", 68, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 8, 100
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/bpf/bpf_helper_defs.h", "C++", 249, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4149, 212, 4610
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/bpf/bpf_helpers.h", "C++", 161, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 97, 32, 290
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/bpf/bpf_tracing.h", "C++", 417, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 77, 70, 564
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/bpf/btf.h", "C++", 343, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 144, 89, 576
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/bpf/libbpf.h", "C++", 579, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 686, 158, 1423
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/bpf/libbpf_common.h", "C++", 33, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 29, 12, 74
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/bpf/libbpf_legacy.h", "C++", 38, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 87, 16, 141
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/bpf/libbpf_util.h", "C++", 32, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 7, 48
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/bpf/libbpf_version.h", "C++", 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 3, 10
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/bpf/skel_internal.h", "C++", 263, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 40, 49, 352
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/bpf/usdt.bpf.h", "C++", 155, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 62, 31, 248
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/bpf/xsk.h", "C++", 175, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 31, 50, 256
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/.github/actions/build-selftests/action.yml", "YAML", 0, 0, 0, 0, 0, 0, 29, 0, 0, 0, 0, 0, 2, 31
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/.github/actions/build-selftests/build_selftests.sh", "Shell Script", 0, 0, 0, 0, 32, 0, 0, 0, 0, 0, 0, 1, 10, 43
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/.github/actions/build-selftests/helpers.sh", "Shell Script", 0, 0, 0, 0, 26, 0, 0, 0, 0, 0, 0, 7, 4, 37
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/.github/actions/build-selftests/prepare_selftests-4.9.0.sh", "Shell Script", 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 2, 4
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/.github/actions/build-selftests/prepare_selftests-5.5.0.sh", "Shell Script", 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 2, 4
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/.github/actions/build-selftests/vmlinux.h", "C++", 82943, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10904, 93847
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/.github/actions/debian/action.yml", "YAML", 0, 0, 0, 0, 0, 0, 15, 0, 0, 0, 0, 0, 2, 17
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/.github/actions/setup/action.yml", "YAML", 0, 0, 0, 0, 0, 0, 20, 0, 0, 0, 0, 2, 2, 24
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/.github/actions/vmtest/action.yml", "YAML", 0, 0, 0, 0, 0, 0, 82, 0, 0, 0, 0, 7, 1, 90
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/.github/workflows/build.yml", "YAML", 0, 0, 0, 0, 0, 0, 76, 0, 0, 0, 0, 0, 6, 82
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/.github/workflows/cifuzz.yml", "YAML", 0, 0, 0, 0, 0, 0, 39, 0, 0, 0, 0, 1, 1, 41
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/.github/workflows/coverity.yml", "YAML", 0, 0, 0, 0, 0, 0, 28, 0, 0, 0, 0, 0, 4, 32
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/.github/workflows/ondemand.yml", "YAML", 0, 0, 0, 0, 0, 0, 34, 0, 0, 0, 0, 0, 3, 37
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/.github/workflows/pahole.yml", "YAML", 0, 0, 0, 0, 0, 0, 17, 0, 0, 0, 0, 0, 4, 21
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/.github/workflows/test.yml", "YAML", 0, 0, 0, 0, 0, 0, 39, 0, 0, 0, 0, 0, 4, 43
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/.lgtm.yml", "YAML", 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 5, 1, 15
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/.readthedocs.yaml", "YAML", 0, 0, 0, 0, 0, 0, 12, 0, 0, 0, 0, 6, 4, 22
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/README.md", "Markdown", 0, 0, 150, 0, 0, 0, 0, 0, 0, 0, 0, 0, 36, 186
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/ci/diffs/001-fix-oob-write-in-test_verifier.diff", "Diff", 0, 0, 0, 0, 0, 0, 0, 0, 0, 26, 0, 6, 4, 36
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/ci/managers/debian.sh", "Shell Script", 0, 0, 0, 0, 80, 0, 0, 0, 0, 0, 0, 1, 10, 91
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/ci/managers/test_compile.sh", "Shell Script", 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 3, 4, 16
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/ci/managers/travis_wait.bash", "Shell Script", 0, 0, 0, 0, 45, 0, 0, 0, 0, 0, 0, 3, 14, 62
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/ci/managers/ubuntu.sh", "Shell Script", 0, 0, 0, 0, 18, 0, 0, 0, 0, 0, 0, 1, 6, 25
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/ci/rootfs/mkrootfs_arch.sh", "Shell Script", 0, 0, 0, 0, 79, 0, 0, 0, 0, 0, 0, 11, 18, 108
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/ci/rootfs/mkrootfs_debian.sh", "Shell Script", 0, 0, 0, 0, 30, 0, 0, 0, 0, 0, 0, 14, 9, 53
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/ci/rootfs/mkrootfs_tweak.sh", "Shell Script", 0, 0, 0, 0, 39, 0, 0, 0, 0, 0, 0, 7, 16, 62
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/ci/rootfs/s390x-self-hosted-builder/README.md", "Markdown", 0, 0, 78, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 108
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/ci/rootfs/s390x-self-hosted-builder/actions-runner-libbpf.Dockerfile", "Docker", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 37, 7, 7, 51
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/ci/vmtest/helpers.sh", "Shell Script", 0, 0, 0, 0, 26, 0, 0, 0, 0, 0, 0, 7, 4, 37
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/ci/vmtest/run_selftests.sh", "Shell Script", 0, 0, 0, 0, 58, 0, 0, 0, 0, 0, 0, 4, 15, 77
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/docs/api.rst", "reStructuredText", 0, 0, 0, 0, 0, 0, 0, 56, 0, 0, 0, 13, 25, 94
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/docs/conf.py", "Python", 0, 0, 0, 0, 0, 22, 0, 0, 0, 0, 0, 10, 9, 41
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/docs/index.rst", "reStructuredText", 0, 0, 0, 0, 0, 0, 0, 14, 0, 0, 0, 2, 6, 22
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/docs/libbpf_build.rst", "reStructuredText", 0, 0, 0, 0, 0, 0, 0, 21, 0, 0, 0, 4, 12, 37
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/docs/libbpf_naming_convention.rst", "reStructuredText", 0, 0, 0, 0, 0, 0, 0, 137, 0, 0, 0, 5, 52, 194
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/docs/sphinx/Makefile", "Makefile", 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 3, 10
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/docs/sphinx/requirements.txt", "pip requirements", 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/fuzz/bpf-object-fuzzer.c", "C", 0, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 24
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/include/asm/barrier.h", "C++", 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 8
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/include/linux/compiler.h", "C++", 52, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 18, 71
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/include/linux/err.h", "C++", 27, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 11, 39
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/include/linux/filter.h", "C++", 114, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 20, 135
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/include/linux/kernel.h", "C++", 35, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 9, 45
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/include/linux/list.h", "C++", 56, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 22, 14, 92
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/include/linux/overflow.h", "C++", 57, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 15, 91
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/include/linux/ring_buffer.h", "C++", 13, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5, 19
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/include/linux/types.h", "C++", 23, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 10, 34
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/include/uapi/linux/bpf.h", "C++", 1435, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5266, 176, 6877
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/include/uapi/linux/bpf_common.h", "C++", 46, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 7, 58
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/include/uapi/linux/btf.h", "C++", 106, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 70, 25, 201
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/include/uapi/linux/if_link.h", "C++", 856, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 282, 145, 1283
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/include/uapi/linux/if_xdp.h", "C++", 68, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 25, 19, 112
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/include/uapi/linux/netlink.h", "C++", 151, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 68, 34, 253
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/include/uapi/linux/perf_event.h", "C++", 552, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 718, 129, 1399
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/include/uapi/linux/pkt_cls.h", "C++", 459, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 51, 103, 613
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/include/uapi/linux/pkt_sched.h", "C++", 871, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 108, 186, 1165
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/scripts/build-fuzzers.sh", "Shell Script", 0, 0, 0, 0, 47, 0, 0, 0, 0, 0, 0, 17, 18, 82
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/scripts/coverity.sh", "Shell Script", 0, 0, 0, 0, 77, 0, 0, 0, 0, 0, 0, 16, 13, 106
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/scripts/sync-kernel.sh", "Shell Script", 0, 0, 0, 0, 271, 0, 0, 0, 0, 0, 0, 39, 41, 351
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/src/Makefile", "Makefile", 0, 0, 0, 139, 0, 0, 0, 0, 0, 0, 0, 6, 38, 183
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/src/bpf.c", "C", 0, 863, 0, 0, 0, 0, 0, 0, 0, 0, 0, 63, 200, 1126
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/src/bpf.h", "C++", 238, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 144, 57, 439
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/src/bpf_core_read.h", "C++", 217, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 222, 46, 485
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/src/bpf_endian.h", "C++", 68, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 8, 100
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/src/bpf_gen_internal.h", "C++", 62, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 7, 73
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/src/bpf_helper_defs.h", "C++", 249, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4149, 212, 4610
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/src/bpf_helpers.h", "C++", 161, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 97, 32, 290
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/src/bpf_prog_linfo.c", "C", 0, 179, 0, 0, 0, 0, 0, 0, 0, 0, 0, 25, 43, 247
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/src/bpf_tracing.h", "C++", 417, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 77, 70, 564
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/src/btf.c", "C", 0, 3201, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1011, 690, 4902
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/src/btf.h", "C++", 343, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 144, 89, 576
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/src/btf_dump.c", "C", 0, 1695, 0, 0, 0, 0, 0, 0, 0, 0, 0, 428, 281, 2404
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/src/gen_loader.c", "C", 0, 871, 0, 0, 0, 0, 0, 0, 0, 0, 0, 138, 113, 1122
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/src/hashmap.c", "C", 0, 186, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 45, 241
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/src/hashmap.h", "C++", 119, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 50, 27, 196
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/src/libbpf.c", "C", 0, 9693, 0, 0, 0, 0, 0, 0, 0, 0, 0, 947, 1796, 12436
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/src/libbpf.h", "C++", 579, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 686, 158, 1423
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/src/libbpf_common.h", "C++", 33, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 29, 12, 74
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/src/libbpf_errno.c", "C", 0, 46, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 14, 68
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/src/libbpf_internal.h", "C++", 396, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 104, 80, 580
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/src/libbpf_legacy.h", "C++", 38, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 87, 16, 141
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/src/libbpf_probes.c", "C", 0, 300, 0, 0, 0, 0, 0, 0, 0, 0, 0, 27, 36, 363
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/src/libbpf_version.h", "C++", 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 3, 10
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/src/linker.c", "C", 0, 2129, 0, 0, 0, 0, 0, 0, 0, 0, 0, 291, 481, 2901
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/src/netlink.c", "C", 0, 672, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 139, 814
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/src/nlattr.c", "C", 0, 119, 0, 0, 0, 0, 0, 0, 0, 0, 0, 40, 37, 196
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/src/nlattr.h", "C++", 102, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 35, 28, 165
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/src/relo_core.c", "C", 0, 1188, 0, 0, 0, 0, 0, 0, 0, 0, 0, 296, 207, 1691
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/src/relo_core.h", "C++", 61, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 23, 16, 100
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/src/ringbuf.c", "C", 0, 230, 0, 0, 0, 0, 0, 0, 0, 0, 0, 28, 45, 303
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/src/skel_internal.h", "C++", 263, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 40, 49, 352
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/src/str_error.c", "C", 0, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 3, 22
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/src/str_error.h", "C++", 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 7
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/src/strset.c", "C", 0, 116, 0, 0, 0, 0, 0, 0, 0, 0, 0, 31, 31, 178
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/src/strset.h", "C++", 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 8, 22
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/src/usdt.bpf.h", "C++", 155, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 62, 31, 248
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/src/usdt.c", "C", 0, 996, 0, 0, 0, 0, 0, 0, 0, 0, 0, 327, 197, 1520
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/travis-ci/diffs/001-fix-oob-write-in-test_verifier.diff", "Diff", 0, 0, 0, 0, 0, 0, 0, 0, 0, 26, 0, 6, 4, 36
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/travis-ci/managers/debian.sh", "Shell Script", 0, 0, 0, 0, 80, 0, 0, 0, 0, 0, 0, 1, 10, 91
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/travis-ci/managers/test_compile.sh", "Shell Script", 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 3, 4, 16
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/travis-ci/managers/travis_wait.bash", "Shell Script", 0, 0, 0, 0, 45, 0, 0, 0, 0, 0, 0, 3, 14, 62
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/travis-ci/managers/ubuntu.sh", "Shell Script", 0, 0, 0, 0, 18, 0, 0, 0, 0, 0, 0, 1, 6, 25
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/travis-ci/rootfs/mkrootfs_arch.sh", "Shell Script", 0, 0, 0, 0, 79, 0, 0, 0, 0, 0, 0, 11, 18, 108
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/travis-ci/rootfs/mkrootfs_debian.sh", "Shell Script", 0, 0, 0, 0, 30, 0, 0, 0, 0, 0, 0, 14, 9, 53
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/travis-ci/rootfs/mkrootfs_tweak.sh", "Shell Script", 0, 0, 0, 0, 39, 0, 0, 0, 0, 0, 0, 7, 16, 62
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/travis-ci/rootfs/s390x-self-hosted-builder/README.md", "Markdown", 0, 0, 78, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 108
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/travis-ci/rootfs/s390x-self-hosted-builder/actions-runner-libbpf.Dockerfile", "Docker", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 37, 7, 7, 51
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/travis-ci/vmtest/helpers.sh", "Shell Script", 0, 0, 0, 0, 26, 0, 0, 0, 0, 0, 0, 7, 4, 37
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/libbpf/travis-ci/vmtest/run_selftests.sh", "Shell Script", 0, 0, 0, 0, 58, 0, 0, 0, 0, 0, 0, 4, 15, 77
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/load.sh", "Shell Script", 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 1, 4, 10
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/mapinmap.skel.h", "C++", 3097, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 33, 3134
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/.output/unload.sh", "Shell Script", 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 1, 1, 4
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/Makefile", "Makefile", 0, 0, 0, 53, 0, 0, 0, 0, 0, 0, 0, 9, 14, 76
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/README.md", "Markdown", 0, 0, 58, 0, 0, 0, 0, 0, 0, 0, 0, 0, 28, 86
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/common.h", "C++", 144, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 23, 175
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/mapinmap.bpf.c", "C", 0, 731, 0, 0, 0, 0, 0, 0, 0, 0, 0, 44, 129, 904
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/mapinmap.c", "C", 0, 779, 0, 0, 0, 0, 0, 0, 0, 0, 0, 112, 156, 1047
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/misc.c", "C", 0, 73, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 8, 85
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/scripts/convert_add.py", "Python", 0, 0, 0, 0, 0, 11, 0, 0, 0, 0, 0, 5, 5, 21
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/scripts/dist_ip.py", "Python", 0, 0, 0, 0, 0, 40, 0, 0, 0, 0, 0, 6, 8, 54
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/scripts/distribution.py", "Python", 0, 0, 0, 0, 0, 20, 0, 0, 0, 0, 0, 8, 6, 34
+"/home/zsofi/Dokumentumok/Aitia/aitia/ÉZsófi/user-data-monitoring/src/scripts/validator.py", "Python", 0, 0, 0, 0, 0, 25, 0, 0, 0, 0, 0, 3, 6, 34
+"Total", "-", 97604, 24097, 364, 199, 1230, 118, 400, 228, 1, 52, 74, 22582, 18988, 165937
