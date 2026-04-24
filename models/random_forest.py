@@ -1,10 +1,10 @@
-from sklearn.ensemble import RandomForestClassifier
+from features.encoder import dict_to_vector
 
+def train_random_forest(X, y):
+    X_vec = [dict_to_vector(x) for x in X]
 
-def train_random_forest(X_train, y_train):
-    model = RandomForestClassifier(
-        n_estimators=100,
-        random_state=42
-    )
-    model.fit(X_train, y_train)
+    from sklearn.ensemble import RandomForestClassifier
+    model = RandomForestClassifier()
+
+    model.fit(X_vec, y)
     return model
