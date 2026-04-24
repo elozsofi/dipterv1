@@ -1,12 +1,43 @@
 # features = [
-#    duration,
-#    packet_count,
-#    byte_count,
-#    avg_packet_size,
-#    packets_per_second,
-#    bytes_per_second,
-#    protocol,              # encode later
-#    direction_ratio        # uplink / downlink
+#     # traffic volume
+#     rx_bytes,
+#     tx_bytes,
+#     rx_packets,
+#     tx_packets,
+# 
+#     # derived
+#     total_bytes,
+#     total_packets,
+# 
+#     # time
+#     duration,
+# 
+#     # rates
+#     bytes_per_second,
+#     packets_per_second,
+#     rx_bytes_per_second,
+#     tx_bytes_per_second,
+# 
+#     # ratios
+#     direction_ratio_bytes,
+#     direction_ratio_packets,
+# 
+#     # qos
+#     jitter,
+#     rtt,
+#     packet_loss_ratio,
+# 
+#     # distribution proxy
+#     avg_packet_size,
+#     packet_size_variance_proxy,
+# 
+#     # network
+#     protocol,
+#     dst_port,
+# 
+#     # sni
+#     sni_present,
+#     sni_length
 # ]
 
 from scapy.all import rdpcap
