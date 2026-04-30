@@ -1,0 +1,149 @@
+{
+  "UserIP": "::",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {}
+}
+{
+  "UserIP": "2606:4700:20::681a:112",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:59588 TCP": {
+      "RX first timestamp": "2026-04-29T21:30:15.719210681Z",
+      "RX latest timestamp": "2026-04-29T21:30:15.719210681Z",
+      "RX bytes": 75,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 36,
+      "RTT (ms)": 36,
+      "SNI present": true,
+      "SNI length": 13,
+      "Round-trip time (ms)": 74,
+      "SNI": "unknown"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:192.168.100.26",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:34.226.75.103:443 TCP": {
+      "RX first timestamp": "2026-04-29T21:30:16.626843692Z",
+      "RX latest timestamp": "2026-04-29T21:30:16.749036541Z",
+      "RX bytes": 154,
+      "TX bytes": 0,
+      "RX packets": 2,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 10,
+      "RTT (ms)": 116,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 35,
+      "SNI": "instagram.com"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:34.226.75.103",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:59373 TCP": {
+      "RX first timestamp": "2026-04-29T21:30:16.627294258Z",
+      "RX latest timestamp": "2026-04-29T21:30:16.627294258Z",
+      "RX bytes": 97,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 20,
+      "RTT (ms)": 84,
+      "SNI present": true,
+      "SNI length": 19,
+      "Round-trip time (ms)": 50,
+      "SNI": "local"
+    }
+  }
+}
+{
+  "UserIP": "2a03:2880:f007:1:face:b00c:0:1",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:59030 TCP": {
+      "RX first timestamp": "2026-04-29T21:30:16.511938128Z",
+      "RX latest timestamp": "2026-04-29T21:30:16.602815036Z",
+      "RX bytes": 180,
+      "TX bytes": 0,
+      "RX packets": 2,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 36,
+      "RTT (ms)": 26,
+      "SNI present": true,
+      "SNI length": 17,
+      "Round-trip time (ms)": 74,
+      "SNI": "unknown"
+    },
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:59028 TCP": {
+      "RX first timestamp": "2026-04-29T21:30:16.512121707Z",
+      "RX latest timestamp": "2026-04-29T21:30:16.603014975Z",
+      "RX bytes": 180,
+      "TX bytes": 0,
+      "RX packets": 2,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 35,
+      "RTT (ms)": 143,
+      "SNI present": true,
+      "SNI length": 19,
+      "Round-trip time (ms)": 72,
+      "SNI": "unknown"
+    }
+  }
+}
+{
+  "UserIP": "2a00:1450:400d:811::200a",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:63869 UDP": {
+      "RX first timestamp": "2026-04-29T21:30:12.491157544Z",
+      "RX latest timestamp": "2026-04-29T21:30:13.551829331Z",
+      "RX bytes": 285,
+      "TX bytes": 0,
+      "RX packets": 3,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 64,
+      "RTT (ms)": 54,
+      "SNI present": true,
+      "SNI length": 19,
+      "Round-trip time (ms)": 116,
+      "SNI": "instagram.com"
+    }
+  }
+}

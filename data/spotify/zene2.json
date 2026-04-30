@@ -1,0 +1,295 @@
+{
+  "UserIP": "::ffff:20.42.73.31",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:58897 TCP": {
+      "RX first timestamp": "2026-04-29T21:42:07.571806092Z",
+      "RX latest timestamp": "2026-04-29T21:42:08.336141808Z",
+      "RX bytes": 2987,
+      "TX bytes": 0,
+      "RX packets": 14,
+      "TX packets": 0,
+      "RX packet loss": 3,
+      "TX packet loss": 0,
+      "Jitter (ms)": 43,
+      "RTT (ms)": 59,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 73,
+      "SNI": "local"
+    }
+  }
+}
+{
+  "UserIP": "2a00:1450:400c:c0b::bc",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58240 TCP": {
+      "RX first timestamp": "2026-04-29T21:42:08.316881661Z",
+      "RX latest timestamp": "2026-04-29T21:42:08.316881661Z",
+      "RX bytes": 75,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 28,
+      "RTT (ms)": 144,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 51,
+      "SNI": "spclient.wg.spotify.com"
+    }
+  }
+}
+{
+  "UserIP": "::",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {}
+}
+{
+  "UserIP": "2001:4860:4829:7700::",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:61411 UDP": {
+      "RX first timestamp": "2026-04-29T21:42:11.273077895Z",
+      "RX latest timestamp": "2026-04-29T21:42:11.343967383Z",
+      "RX bytes": 6525,
+      "TX bytes": 0,
+      "RX packets": 11,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 5,
+      "RTT (ms)": 90,
+      "SNI present": true,
+      "SNI length": 20,
+      "Round-trip time (ms)": 30,
+      "SNI": "api.spotify.com"
+    }
+  }
+}
+{
+  "UserIP": "2620:1ec:33:1::12",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58895 TCP": {
+      "RX first timestamp": "2026-04-29T21:42:12.674041816Z",
+      "RX latest timestamp": "2026-04-29T21:42:12.674041816Z",
+      "RX bytes": 74,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 26,
+      "RTT (ms)": 58,
+      "SNI present": true,
+      "SNI length": 11,
+      "Round-trip time (ms)": 46,
+      "SNI": "unknown"
+    }
+  }
+}
+{
+  "UserIP": "2a01:368:1fe:703::5b53:e4b",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58863 TCP": {
+      "RX first timestamp": "2026-04-29T21:42:20.752438937Z",
+      "RX latest timestamp": "2026-04-29T21:42:20.752438937Z",
+      "RX bytes": 75,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 15,
+      "RTT (ms)": 80,
+      "SNI present": true,
+      "SNI length": 15,
+      "Round-trip time (ms)": 33,
+      "SNI": "spotify.com"
+    }
+  }
+}
+{
+  "UserIP": "2a00:1450:400d:809::200a",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:56975 UDP": {
+      "RX first timestamp": "2026-04-29T21:42:19.185522473Z",
+      "RX latest timestamp": "2026-04-29T21:42:19.185522473Z",
+      "RX bytes": 95,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 9,
+      "RTT (ms)": 82,
+      "SNI present": true,
+      "SNI length": 11,
+      "Round-trip time (ms)": 29,
+      "SNI": "spclient.wg.spotify.com"
+    }
+  }
+}
+{
+  "UserIP": "2a01:36d:111:61dd:55a:c321:f8e6:863d",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a06:98c1:58::175:443 TCP": {
+      "RX first timestamp": "2026-04-29T21:42:10.329950037Z",
+      "RX latest timestamp": "2026-04-29T21:42:16.010683158Z",
+      "RX bytes": 10342459,
+      "TX bytes": 0,
+      "RX packets": 7220,
+      "TX packets": 0,
+      "RX packet loss": 2257,
+      "TX packet loss": 0,
+      "Jitter (ms)": 0,
+      "RTT (ms)": 89,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 33,
+      "SNI": "unknown"
+    },
+    "2600:1901:1:5a5:::443 UDP": {
+      "RX first timestamp": "2026-04-29T21:42:10.402396714Z",
+      "RX latest timestamp": "2026-04-29T21:42:19.142277859Z",
+      "RX bytes": 24007,
+      "TX bytes": 0,
+      "RX packets": 58,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 310,
+      "RTT (ms)": 98,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 394,
+      "SNI": "unknown"
+    },
+    "2a00:1450:400d:809::200a:443 UDP": {
+      "RX first timestamp": "2026-04-29T21:42:10.515588611Z",
+      "RX latest timestamp": "2026-04-29T21:42:21.051526715Z",
+      "RX bytes": 1755,
+      "TX bytes": 0,
+      "RX packets": 7,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 435,
+      "RTT (ms)": 89,
+      "SNI present": true,
+      "SNI length": 11,
+      "Round-trip time (ms)": 400,
+      "SNI": "spclient.wg.spotify.com"
+    },
+    "2a03:2880:f007:1:face:b00c:0:1:443 TCP": {
+      "RX first timestamp": "2026-04-29T21:42:10.736640247Z",
+      "RX latest timestamp": "2026-04-29T21:42:11.224376576Z",
+      "RX bytes": 306,
+      "TX bytes": 0,
+      "RX packets": 3,
+      "TX packets": 0,
+      "RX packet loss": 1,
+      "TX packet loss": 0,
+      "Jitter (ms)": 30,
+      "RTT (ms)": 74,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 61,
+      "SNI": "spotify.com"
+    },
+    "2a03:2880:f007:7:face:b00c:0:6206:443 TCP": {
+      "RX first timestamp": "2026-04-29T21:42:11.195231278Z",
+      "RX latest timestamp": "2026-04-29T21:42:11.313309326Z",
+      "RX bytes": 795,
+      "TX bytes": 0,
+      "RX packets": 9,
+      "TX packets": 0,
+      "RX packet loss": 1,
+      "TX packet loss": 0,
+      "Jitter (ms)": 9,
+      "RTT (ms)": 82,
+      "SNI present": true,
+      "SNI length": 15,
+      "Round-trip time (ms)": 32,
+      "SNI": "api.spotify.com"
+    },
+    "2a00:1450:400d:812::200e:443 UDP": {
+      "RX first timestamp": "2026-04-29T21:42:11.210846684Z",
+      "RX latest timestamp": "2026-04-29T21:42:13.595646677Z",
+      "RX bytes": 2636,
+      "TX bytes": 0,
+      "RX packets": 15,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 234,
+      "RTT (ms)": 54,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 297,
+      "SNI": "googlevideo.com"
+    },
+    "2a01:368:1fe:703::5b53:e4b:443 TCP": {
+      "RX first timestamp": "2026-04-29T21:42:20.754478985Z",
+      "RX latest timestamp": "2026-04-29T21:42:20.754478985Z",
+      "RX bytes": 74,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 22,
+      "RTT (ms)": 52,
+      "SNI present": true,
+      "SNI length": 20,
+      "Round-trip time (ms)": 45,
+      "SNI": "api.spotify.com"
+    },
+    "2001:4860:4829:7700:::443 UDP": {
+      "RX first timestamp": "2026-04-29T21:42:11.279226892Z",
+      "RX latest timestamp": "2026-04-29T21:42:11.371153598Z",
+      "RX bytes": 4039,
+      "TX bytes": 0,
+      "RX packets": 12,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 6,
+      "RTT (ms)": 62,
+      "SNI present": true,
+      "SNI length": 20,
+      "Round-trip time (ms)": 22,
+      "SNI": "googlevideo.com"
+    }
+  }
+}

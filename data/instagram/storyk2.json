@@ -1,0 +1,33 @@
+{
+  "UserIP": "2a03:2880:f007:7:face:b00c:0:6206",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:59610 TCP": {
+      "RX first timestamp": "2026-04-29T21:31:54.597199265Z",
+      "RX latest timestamp": "2026-04-29T21:31:54.597199265Z",
+      "RX bytes": 74,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 46,
+      "RTT (ms)": 101,
+      "SNI present": true,
+      "SNI length": 17,
+      "Round-trip time (ms)": 89,
+      "SNI": "unknown"
+    }
+  }
+}
+{
+  "UserIP": "::",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {}
+}

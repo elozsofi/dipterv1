@@ -1,0 +1,3151 @@
+{
+  "UserIP": "::ffff:18.172.242.89",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:58572 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:05.859508505Z",
+      "RX latest timestamp": "2026-04-29T22:17:05.859508505Z",
+      "RX bytes": 55,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 29,
+      "RTT (ms)": 61,
+      "SNI present": true,
+      "SNI length": 15,
+      "Round-trip time (ms)": 63,
+      "SNI": "local"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:34.102.146.192",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:58582 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:05.582394130Z",
+      "RX latest timestamp": "2026-04-29T22:17:05.582394130Z",
+      "RX bytes": 55,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 21,
+      "RTT (ms)": 130,
+      "SNI present": true,
+      "SNI length": 15,
+      "Round-trip time (ms)": 57,
+      "SNI": "r3---sn.googlevideo.com"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:34.120.133.55",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:58592 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:06.267878314Z",
+      "RX latest timestamp": "2026-04-29T22:17:06.267878314Z",
+      "RX bytes": 55,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 15,
+      "RTT (ms)": 77,
+      "SNI present": true,
+      "SNI length": 15,
+      "Round-trip time (ms)": 46,
+      "SNI": "local"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:34.107.254.252",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:58653 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:06.579624492Z",
+      "RX latest timestamp": "2026-04-29T22:17:06.596398162Z",
+      "RX bytes": 108,
+      "TX bytes": 0,
+      "RX packets": 2,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 86,
+      "RTT (ms)": 74,
+      "SNI present": true,
+      "SNI length": 20,
+      "Round-trip time (ms)": 142,
+      "SNI": "r1---sn.googlevideo.com"
+    },
+    "::ffff:192.168.100.26:58604 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:06.683474647Z",
+      "RX latest timestamp": "2026-04-29T22:17:06.683474647Z",
+      "RX bytes": 55,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 30,
+      "RTT (ms)": 62,
+      "SNI present": true,
+      "SNI length": 20,
+      "Round-trip time (ms)": 61,
+      "SNI": "youtube.com"
+    }
+  }
+}
+{
+  "UserIP": "::",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {}
+}
+{
+  "UserIP": "::ffff:35.186.247.156",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:58567 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:04.129439612Z",
+      "RX latest timestamp": "2026-04-29T22:17:04.129439612Z",
+      "RX bytes": 55,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 38,
+      "RTT (ms)": 49,
+      "SNI present": true,
+      "SNI length": 20,
+      "Round-trip time (ms)": 95,
+      "SNI": "youtubei.googleapis.com"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:18.239.255.43",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:58581 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:05.504492164Z",
+      "RX latest timestamp": "2026-04-29T22:17:05.504492164Z",
+      "RX bytes": 55,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 22,
+      "RTT (ms)": 34,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 77,
+      "SNI": "r1---sn.googlevideo.com"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:18.239.255.63",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:58568 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:05.396550014Z",
+      "RX latest timestamp": "2026-04-29T22:17:05.396550014Z",
+      "RX bytes": 55,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 12,
+      "RTT (ms)": 21,
+      "SNI present": true,
+      "SNI length": 20,
+      "Round-trip time (ms)": 49,
+      "SNI": "i.ytimg.com"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:34.98.64.218",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:58589 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:26.384464104Z",
+      "RX latest timestamp": "2026-04-29T22:17:11.400996737Z",
+      "RX bytes": 110,
+      "TX bytes": 0,
+      "RX packets": 2,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 14,
+      "RTT (ms)": 126,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 58,
+      "SNI": "googlevideo.com"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:34.160.229.218",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:58609 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:07.042970209Z",
+      "RX latest timestamp": "2026-04-29T22:17:07.042970209Z",
+      "RX bytes": 55,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 47,
+      "RTT (ms)": 31,
+      "SNI present": true,
+      "SNI length": 15,
+      "Round-trip time (ms)": 95,
+      "SNI": "local"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:35.190.91.160",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:58578 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:04.979058784Z",
+      "RX latest timestamp": "2026-04-29T22:17:04.979058784Z",
+      "RX bytes": 55,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 5,
+      "RTT (ms)": 79,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 40,
+      "SNI": "youtubei.googleapis.com"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:35.206.11.92",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:58696 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:06.580167169Z",
+      "RX latest timestamp": "2026-04-29T22:17:13.700829442Z",
+      "RX bytes": 3328,
+      "TX bytes": 0,
+      "RX packets": 14,
+      "TX packets": 0,
+      "RX packet loss": 2,
+      "TX packet loss": 0,
+      "Jitter (ms)": 731,
+      "RTT (ms)": 67,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 800,
+      "SNI": "i.ytimg.com"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:35.214.136.108",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:58627 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:25.963903407Z",
+      "RX latest timestamp": "2026-04-29T22:17:10.989699389Z",
+      "RX bytes": 110,
+      "TX bytes": 0,
+      "RX packets": 2,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 70,
+      "RTT (ms)": 91,
+      "SNI present": true,
+      "SNI length": 11,
+      "Round-trip time (ms)": 138,
+      "SNI": "googlevideo.com"
+    },
+    "::ffff:192.168.100.26:58636 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:26.333956784Z",
+      "RX latest timestamp": "2026-04-29T22:17:11.357950531Z",
+      "RX bytes": 110,
+      "TX bytes": 0,
+      "RX packets": 2,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 68,
+      "RTT (ms)": 103,
+      "SNI present": true,
+      "SNI length": 20,
+      "Round-trip time (ms)": 133,
+      "SNI": "r3---sn.googlevideo.com"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:35.241.9.51",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:58601 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:06.554778984Z",
+      "RX latest timestamp": "2026-04-29T22:17:06.554778984Z",
+      "RX bytes": 55,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 22,
+      "RTT (ms)": 129,
+      "SNI present": true,
+      "SNI length": 15,
+      "Round-trip time (ms)": 66,
+      "SNI": "youtube.com"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:63.183.24.17",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:58622 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:26.440160476Z",
+      "RX latest timestamp": "2026-04-29T22:17:11.468932565Z",
+      "RX bytes": 110,
+      "TX bytes": 0,
+      "RX packets": 2,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 69,
+      "RTT (ms)": 65,
+      "SNI present": true,
+      "SNI length": 11,
+      "Round-trip time (ms)": 135,
+      "SNI": "m.youtube.com"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:98.66.133.185",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:58078 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:00.815218083Z",
+      "RX latest timestamp": "2026-04-29T22:17:00.815218083Z",
+      "RX bytes": 55,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 49,
+      "RTT (ms)": 70,
+      "SNI present": true,
+      "SNI length": 20,
+      "Round-trip time (ms)": 100,
+      "SNI": "local"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:100.29.231.193",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:58698 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:12.946355906Z",
+      "RX latest timestamp": "2026-04-29T22:17:13.483208345Z",
+      "RX bytes": 4076,
+      "TX bytes": 0,
+      "RX packets": 13,
+      "TX packets": 0,
+      "RX packet loss": 3,
+      "TX packet loss": 0,
+      "Jitter (ms)": 41,
+      "RTT (ms)": 101,
+      "SNI present": true,
+      "SNI length": 11,
+      "Round-trip time (ms)": 101,
+      "SNI": "googlevideo.com"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:104.16.56.40",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:58692 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:24.398939379Z",
+      "RX latest timestamp": "2026-04-29T22:17:24.614092939Z",
+      "RX bytes": 1954,
+      "TX bytes": 0,
+      "RX packets": 9,
+      "TX packets": 0,
+      "RX packet loss": 2,
+      "TX packet loss": 0,
+      "Jitter (ms)": 3747,
+      "RTT (ms)": 87,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 800,
+      "SNI": "youtube.com"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:104.18.41.183",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:58695 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:24.426639033Z",
+      "RX latest timestamp": "2026-04-29T22:16:24.460239726Z",
+      "RX bytes": 2071,
+      "TX bytes": 0,
+      "RX packets": 7,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 2,
+      "RTT (ms)": 33,
+      "SNI present": true,
+      "SNI length": 15,
+      "Round-trip time (ms)": 45,
+      "SNI": "m.youtube.com"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:104.18.156.37",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:58683 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:24.344258606Z",
+      "RX latest timestamp": "2026-04-29T22:17:24.381144445Z",
+      "RX bytes": 2051,
+      "TX bytes": 0,
+      "RX packets": 7,
+      "TX packets": 0,
+      "RX packet loss": 3,
+      "TX packet loss": 0,
+      "Jitter (ms)": 3746,
+      "RTT (ms)": 40,
+      "SNI present": true,
+      "SNI length": 15,
+      "Round-trip time (ms)": 800,
+      "SNI": "i.ytimg.com"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:146.75.2.114",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:58561 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:05.844807596Z",
+      "RX latest timestamp": "2026-04-29T22:17:05.844807596Z",
+      "RX bytes": 55,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 45,
+      "RTT (ms)": 113,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 105,
+      "SNI": "r1---sn.googlevideo.com"
+    },
+    "::ffff:192.168.100.26:58564 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:04.871008642Z",
+      "RX latest timestamp": "2026-04-29T22:17:04.871008642Z",
+      "RX bytes": 55,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 17,
+      "RTT (ms)": 94,
+      "SNI present": true,
+      "SNI length": 15,
+      "Round-trip time (ms)": 72,
+      "SNI": "m.youtube.com"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:172.64.146.73",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:58530 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:24.422091327Z",
+      "RX latest timestamp": "2026-04-29T22:16:43.357334531Z",
+      "RX bytes": 378,
+      "TX bytes": 0,
+      "RX packets": 7,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 551,
+      "RTT (ms)": 34,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 742,
+      "SNI": "local"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:199.232.17.91",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:58574 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:04.669884903Z",
+      "RX latest timestamp": "2026-04-29T22:17:04.669884903Z",
+      "RX bytes": 55,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 45,
+      "RTT (ms)": 107,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 88,
+      "SNI": "ytimg.com"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:192.168.100.1",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:54689 UDP": {
+      "RX first timestamp": "2026-04-29T22:16:24.392410468Z",
+      "RX latest timestamp": "2026-04-29T22:16:24.392410468Z",
+      "RX bytes": 78,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 32,
+      "RTT (ms)": 103,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 80,
+      "SNI": "r3---sn.googlevideo.com"
+    },
+    "::ffff:192.168.100.26:63040 UDP": {
+      "RX first timestamp": "2026-04-29T22:16:45.590263222Z",
+      "RX latest timestamp": "2026-04-29T22:16:45.590263222Z",
+      "RX bytes": 76,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 21,
+      "RTT (ms)": 69,
+      "SNI present": true,
+      "SNI length": 15,
+      "Round-trip time (ms)": 64,
+      "SNI": "r3---sn.googlevideo.com"
+    },
+    "::ffff:192.168.100.26:58470 UDP": {
+      "RX first timestamp": "2026-04-29T22:16:24.293893290Z",
+      "RX latest timestamp": "2026-04-29T22:16:24.293893290Z",
+      "RX bytes": 81,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 49,
+      "RTT (ms)": 127,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 101,
+      "SNI": "youtube.com"
+    },
+    "::ffff:192.168.100.26:65467 UDP": {
+      "RX first timestamp": "2026-04-29T22:17:09.524177201Z",
+      "RX latest timestamp": "2026-04-29T22:17:09.524177201Z",
+      "RX bytes": 76,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 45,
+      "RTT (ms)": 62,
+      "SNI present": true,
+      "SNI length": 20,
+      "Round-trip time (ms)": 97,
+      "SNI": "ytimg.com"
+    },
+    "::ffff:192.168.100.26:60424 UDP": {
+      "RX first timestamp": "2026-04-29T22:17:06.572371741Z",
+      "RX latest timestamp": "2026-04-29T22:17:06.572371741Z",
+      "RX bytes": 78,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 50,
+      "RTT (ms)": 51,
+      "SNI present": true,
+      "SNI length": 20,
+      "Round-trip time (ms)": 91,
+      "SNI": "local"
+    },
+    "::ffff:192.168.100.26:63179 UDP": {
+      "RX first timestamp": "2026-04-29T22:16:45.590366837Z",
+      "RX latest timestamp": "2026-04-29T22:16:45.590366837Z",
+      "RX bytes": 76,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 17,
+      "RTT (ms)": 68,
+      "SNI present": true,
+      "SNI length": 20,
+      "Round-trip time (ms)": 46,
+      "SNI": "youtubei.googleapis.com"
+    },
+    "::ffff:192.168.100.26:64503 UDP": {
+      "RX first timestamp": "2026-04-29T22:17:09.523692685Z",
+      "RX latest timestamp": "2026-04-29T22:17:09.523692685Z",
+      "RX bytes": 76,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 34,
+      "RTT (ms)": 62,
+      "SNI present": true,
+      "SNI length": 11,
+      "Round-trip time (ms)": 69,
+      "SNI": "googlevideo.com"
+    },
+    "::ffff:192.168.100.26:64014 UDP": {
+      "RX first timestamp": "2026-04-29T22:16:24.423169513Z",
+      "RX latest timestamp": "2026-04-29T22:16:24.423169513Z",
+      "RX bytes": 81,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 24,
+      "RTT (ms)": 95,
+      "SNI present": true,
+      "SNI length": 11,
+      "Round-trip time (ms)": 66,
+      "SNI": "m.youtube.com"
+    },
+    "::ffff:192.168.100.26:61031 UDP": {
+      "RX first timestamp": "2026-04-29T22:17:06.572252208Z",
+      "RX latest timestamp": "2026-04-29T22:17:06.572252208Z",
+      "RX bytes": 78,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 18,
+      "RTT (ms)": 62,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 71,
+      "SNI": "youtube.com"
+    },
+    "::ffff:192.168.100.26:52766 UDP": {
+      "RX first timestamp": "2026-04-29T22:16:45.590085664Z",
+      "RX latest timestamp": "2026-04-29T22:16:45.590085664Z",
+      "RX bytes": 76,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 48,
+      "RTT (ms)": 19,
+      "SNI present": true,
+      "SNI length": 20,
+      "Round-trip time (ms)": 108,
+      "SNI": "local"
+    },
+    "::ffff:192.168.100.26:50429 UDP": {
+      "RX first timestamp": "2026-04-29T22:16:24.293733511Z",
+      "RX latest timestamp": "2026-04-29T22:16:24.293733511Z",
+      "RX bytes": 81,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 19,
+      "RTT (ms)": 102,
+      "SNI present": true,
+      "SNI length": 15,
+      "Round-trip time (ms)": 55,
+      "SNI": "googlevideo.com"
+    },
+    "::ffff:192.168.100.26:57179 UDP": {
+      "RX first timestamp": "2026-04-29T22:17:06.572113015Z",
+      "RX latest timestamp": "2026-04-29T22:17:06.572113015Z",
+      "RX bytes": 78,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 12,
+      "RTT (ms)": 125,
+      "SNI present": true,
+      "SNI length": 11,
+      "Round-trip time (ms)": 50,
+      "SNI": "youtubei.googleapis.com"
+    },
+    "::ffff:192.168.100.26:57136 UDP": {
+      "RX first timestamp": "2026-04-29T22:17:09.523971242Z",
+      "RX latest timestamp": "2026-04-29T22:17:09.523971242Z",
+      "RX bytes": 76,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 40,
+      "RTT (ms)": 61,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 94,
+      "SNI": "local"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:192.168.100.26",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.1:53 UDP": {
+      "RX first timestamp": "2026-04-29T22:16:24.299749976Z",
+      "RX latest timestamp": "2026-04-29T22:17:09.533861070Z",
+      "RX bytes": 1819,
+      "TX bytes": 0,
+      "RX packets": 13,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 3932,
+      "RTT (ms)": 51,
+      "SNI present": true,
+      "SNI length": 11,
+      "Round-trip time (ms)": 800,
+      "SNI": "m.youtube.com"
+    },
+    "::ffff:34.107.254.252:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:06.596341213Z",
+      "RX latest timestamp": "2026-04-29T22:17:06.699281073Z",
+      "RX bytes": 126,
+      "TX bytes": 0,
+      "RX packets": 2,
+      "TX packets": 0,
+      "RX packet loss": 1,
+      "TX packet loss": 0,
+      "Jitter (ms)": 73,
+      "RTT (ms)": 61,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 140,
+      "SNI": "m.youtube.com"
+    },
+    "::ffff:216.58.206.194:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:25.888482874Z",
+      "RX latest timestamp": "2026-04-29T22:17:10.976682248Z",
+      "RX bytes": 264,
+      "TX bytes": 0,
+      "RX packets": 4,
+      "TX packets": 0,
+      "RX packet loss": 1,
+      "TX packet loss": 0,
+      "Jitter (ms)": 5430,
+      "RTT (ms)": 120,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 800,
+      "SNI": "r3---sn.googlevideo.com"
+    },
+    "::ffff:104.18.36.199:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:24.040319620Z",
+      "RX latest timestamp": "2026-04-29T22:17:24.040319620Z",
+      "RX bytes": 66,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 49,
+      "RTT (ms)": 64,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 101,
+      "SNI": "m.youtube.com"
+    },
+    "::ffff:34.120.133.55:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:06.283746962Z",
+      "RX latest timestamp": "2026-04-29T22:17:06.283746962Z",
+      "RX bytes": 66,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 25,
+      "RTT (ms)": 131,
+      "SNI present": true,
+      "SNI length": 11,
+      "Round-trip time (ms)": 67,
+      "SNI": "i.ytimg.com"
+    },
+    "::ffff:34.102.146.192:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:05.598178014Z",
+      "RX latest timestamp": "2026-04-29T22:17:05.598178014Z",
+      "RX bytes": 66,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 38,
+      "RTT (ms)": 112,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 98,
+      "SNI": "ytimg.com"
+    },
+    "::ffff:18.239.255.63:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:05.398470179Z",
+      "RX latest timestamp": "2026-04-29T22:17:05.398470179Z",
+      "RX bytes": 66,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 35,
+      "RTT (ms)": 29,
+      "SNI present": true,
+      "SNI length": 20,
+      "Round-trip time (ms)": 92,
+      "SNI": "googlevideo.com"
+    },
+    "::ffff:104.16.56.40:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:24.401388567Z",
+      "RX latest timestamp": "2026-04-29T22:17:24.615875105Z",
+      "RX bytes": 6332,
+      "TX bytes": 0,
+      "RX packets": 9,
+      "TX packets": 0,
+      "RX packet loss": 2,
+      "TX packet loss": 0,
+      "Jitter (ms)": 3750,
+      "RTT (ms)": 71,
+      "SNI present": true,
+      "SNI length": 20,
+      "Round-trip time (ms)": 800,
+      "SNI": "unknown"
+    },
+    "::ffff:18.239.255.43:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:05.506405214Z",
+      "RX latest timestamp": "2026-04-29T22:17:05.506405214Z",
+      "RX bytes": 66,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 38,
+      "RTT (ms)": 105,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 97,
+      "SNI": "googlevideo.com"
+    },
+    "::ffff:34.98.64.218:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:26.400091659Z",
+      "RX latest timestamp": "2026-04-29T22:17:11.420560659Z",
+      "RX bytes": 132,
+      "TX bytes": 0,
+      "RX packets": 2,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 93,
+      "RTT (ms)": 72,
+      "SNI present": true,
+      "SNI length": 15,
+      "Round-trip time (ms)": 167,
+      "SNI": "youtubei.googleapis.com"
+    },
+    "::ffff:35.190.91.160:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:04.997964949Z",
+      "RX latest timestamp": "2026-04-29T22:17:04.997964949Z",
+      "RX bytes": 66,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 2,
+      "RTT (ms)": 62,
+      "SNI present": true,
+      "SNI length": 20,
+      "Round-trip time (ms)": 45,
+      "SNI": "youtubei.googleapis.com"
+    },
+    "::ffff:104.18.41.183:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:24.429171366Z",
+      "RX latest timestamp": "2026-04-29T22:16:24.460215431Z",
+      "RX bytes": 4768,
+      "TX bytes": 0,
+      "RX packets": 8,
+      "TX packets": 0,
+      "RX packet loss": 1,
+      "TX packet loss": 0,
+      "Jitter (ms)": 3,
+      "RTT (ms)": 123,
+      "SNI present": true,
+      "SNI length": 20,
+      "Round-trip time (ms)": 25,
+      "SNI": "googlevideo.com"
+    },
+    "::ffff:35.214.136.108:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:25.988148343Z",
+      "RX latest timestamp": "2026-04-29T22:17:11.384681070Z",
+      "RX bytes": 264,
+      "TX bytes": 0,
+      "RX packets": 4,
+      "TX packets": 0,
+      "RX packet loss": 2,
+      "TX packet loss": 0,
+      "Jitter (ms)": 5362,
+      "RTT (ms)": 31,
+      "SNI present": true,
+      "SNI length": 20,
+      "Round-trip time (ms)": 800,
+      "SNI": "googlevideo.com"
+    },
+    "::ffff:146.75.2.114:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:04.881915764Z",
+      "RX latest timestamp": "2026-04-29T22:17:05.855887038Z",
+      "RX bytes": 132,
+      "TX bytes": 0,
+      "RX packets": 2,
+      "TX packets": 0,
+      "RX packet loss": 1,
+      "TX packet loss": 0,
+      "Jitter (ms)": 78,
+      "RTT (ms)": 44,
+      "SNI present": true,
+      "SNI length": 20,
+      "Round-trip time (ms)": 147,
+      "SNI": "m.youtube.com"
+    },
+    "::ffff:98.66.133.185:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:00.837733832Z",
+      "RX latest timestamp": "2026-04-29T22:17:00.837733832Z",
+      "RX bytes": 66,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 41,
+      "RTT (ms)": 62,
+      "SNI present": true,
+      "SNI length": 15,
+      "Round-trip time (ms)": 86,
+      "SNI": "youtubei.googleapis.com"
+    },
+    "::ffff:35.241.9.51:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:06.570622759Z",
+      "RX latest timestamp": "2026-04-29T22:17:06.570622759Z",
+      "RX bytes": 66,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 43,
+      "RTT (ms)": 94,
+      "SNI present": true,
+      "SNI length": 11,
+      "Round-trip time (ms)": 84,
+      "SNI": "m.youtube.com"
+    },
+    "::ffff:18.172.242.89:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:05.861295673Z",
+      "RX latest timestamp": "2026-04-29T22:17:05.861295673Z",
+      "RX bytes": 66,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 36,
+      "RTT (ms)": 125,
+      "SNI present": true,
+      "SNI length": 11,
+      "Round-trip time (ms)": 85,
+      "SNI": "youtubei.googleapis.com"
+    },
+    "::ffff:63.183.24.17:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:26.454194500Z",
+      "RX latest timestamp": "2026-04-29T22:17:11.498372562Z",
+      "RX bytes": 132,
+      "TX bytes": 0,
+      "RX packets": 2,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 6,
+      "RTT (ms)": 55,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 53,
+      "SNI": "googlevideo.com"
+    },
+    "::ffff:34.160.229.218:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:07.058682188Z",
+      "RX latest timestamp": "2026-04-29T22:17:07.058682188Z",
+      "RX bytes": 66,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 27,
+      "RTT (ms)": 125,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 71,
+      "SNI": "r3---sn.googlevideo.com"
+    },
+    "::ffff:35.206.11.92:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:06.705173450Z",
+      "RX latest timestamp": "2026-04-29T22:17:13.701244845Z",
+      "RX bytes": 5888,
+      "TX bytes": 0,
+      "RX packets": 16,
+      "TX packets": 0,
+      "RX packet loss": 3,
+      "TX packet loss": 0,
+      "Jitter (ms)": 649,
+      "RTT (ms)": 81,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 800,
+      "SNI": "youtube.com"
+    },
+    "::ffff:35.186.247.156:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:04.144979368Z",
+      "RX latest timestamp": "2026-04-29T22:17:04.144979368Z",
+      "RX bytes": 66,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 29,
+      "RTT (ms)": 67,
+      "SNI present": true,
+      "SNI length": 11,
+      "Round-trip time (ms)": 61,
+      "SNI": "youtube.com"
+    },
+    "::ffff:104.18.156.37:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:24.350555250Z",
+      "RX latest timestamp": "2026-04-29T22:17:24.383305633Z",
+      "RX bytes": 4772,
+      "TX bytes": 0,
+      "RX packets": 6,
+      "TX packets": 0,
+      "RX packet loss": 2,
+      "TX packet loss": 0,
+      "Jitter (ms)": 3749,
+      "RTT (ms)": 42,
+      "SNI present": true,
+      "SNI length": 20,
+      "Round-trip time (ms)": 800,
+      "SNI": "i.ytimg.com"
+    },
+    "::ffff:199.232.17.91:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:04.675564182Z",
+      "RX latest timestamp": "2026-04-29T22:17:04.675564182Z",
+      "RX bytes": 66,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 37,
+      "RTT (ms)": 126,
+      "SNI present": true,
+      "SNI length": 11,
+      "Round-trip time (ms)": 82,
+      "SNI": "r3---sn.googlevideo.com"
+    },
+    "::ffff:100.29.231.193:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:13.079844391Z",
+      "RX latest timestamp": "2026-04-29T22:17:13.659380598Z",
+      "RX bytes": 1426,
+      "TX bytes": 0,
+      "RX packets": 12,
+      "TX packets": 0,
+      "RX packet loss": 3,
+      "TX packet loss": 0,
+      "Jitter (ms)": 39,
+      "RTT (ms)": 87,
+      "SNI present": true,
+      "SNI length": 20,
+      "Round-trip time (ms)": 74,
+      "SNI": "youtube.com"
+    }
+  }
+}
+{
+  "UserIP": "2001:4860:4802:34::178",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58579 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:05.381843710Z",
+      "RX latest timestamp": "2026-04-29T22:17:05.381843710Z",
+      "RX bytes": 75,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 10,
+      "RTT (ms)": 68,
+      "SNI present": true,
+      "SNI length": 11,
+      "Round-trip time (ms)": 60,
+      "SNI": "ytimg.com"
+    }
+  }
+}
+{
+  "UserIP": "2001:4860:4829:7700::",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:64496 UDP": {
+      "RX first timestamp": "2026-04-29T22:16:30.672900669Z",
+      "RX latest timestamp": "2026-04-29T22:17:09.524348601Z",
+      "RX bytes": 21790,
+      "TX bytes": 0,
+      "RX packets": 43,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 1141,
+      "RTT (ms)": 112,
+      "SNI present": true,
+      "SNI length": 15,
+      "Round-trip time (ms)": 800,
+      "SNI": "youtubei.googleapis.com"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:104.18.36.199",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:58686 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:24.038353495Z",
+      "RX latest timestamp": "2026-04-29T22:17:24.038353495Z",
+      "RX bytes": 55,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 33,
+      "RTT (ms)": 57,
+      "SNI present": true,
+      "SNI length": 15,
+      "Round-trip time (ms)": 79,
+      "SNI": "googlevideo.com"
+    }
+  }
+}
+{
+  "UserIP": "2600:9000:26a1:3000:16:708:31c0:93a1",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58642 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:26.506434157Z",
+      "RX latest timestamp": "2026-04-29T22:17:11.509235000Z",
+      "RX bytes": 150,
+      "TX bytes": 0,
+      "RX packets": 2,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 10,
+      "RTT (ms)": 33,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 34,
+      "SNI": "r3---sn.googlevideo.com"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:216.58.206.194",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:58624 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:25.963921649Z",
+      "RX latest timestamp": "2026-04-29T22:17:10.974864297Z",
+      "RX bytes": 110,
+      "TX bytes": 0,
+      "RX packets": 2,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 25,
+      "RTT (ms)": 67,
+      "SNI present": true,
+      "SNI length": 15,
+      "Round-trip time (ms)": 63,
+      "SNI": "r1---sn.googlevideo.com"
+    },
+    "::ffff:192.168.100.26:58628 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:25.886671827Z",
+      "RX latest timestamp": "2026-04-29T22:17:10.889300227Z",
+      "RX bytes": 110,
+      "TX bytes": 0,
+      "RX packets": 2,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 2,
+      "RTT (ms)": 119,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 46,
+      "SNI": "youtubei.googleapis.com"
+    }
+  }
+}
+{
+  "UserIP": "2600:9000:26a1:8000:f:1dcc:7540:93a1",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58597 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:07.594203204Z",
+      "RX latest timestamp": "2026-04-29T22:17:07.594203204Z",
+      "RX bytes": 75,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 14,
+      "RTT (ms)": 127,
+      "SNI present": true,
+      "SNI length": 11,
+      "Round-trip time (ms)": 41,
+      "SNI": "unknown"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:239.255.255.250",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.1:52700 UDP": {
+      "RX first timestamp": "2026-04-29T22:17:07.422822782Z",
+      "RX latest timestamp": "2026-04-29T22:17:09.242803996Z",
+      "RX bytes": 698,
+      "TX bytes": 0,
+      "RX packets": 4,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 126,
+      "RTT (ms)": 102,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 189,
+      "SNI": "googlevideo.com"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:255.255.255.255",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:49254 UDP": {
+      "RX first timestamp": "2026-04-29T22:16:54.535971324Z",
+      "RX latest timestamp": "2026-04-29T22:16:54.535971324Z",
+      "RX bytes": 166,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 19,
+      "RTT (ms)": 94,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 68,
+      "SNI": "r1---sn.googlevideo.com"
+    },
+    "::ffff:192.168.100.26:49255 UDP": {
+      "RX first timestamp": "2026-04-29T22:16:54.536015126Z",
+      "RX latest timestamp": "2026-04-29T22:16:54.536015126Z",
+      "RX bytes": 166,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 24,
+      "RTT (ms)": 16,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 73,
+      "SNI": "local"
+    }
+  }
+}
+{
+  "UserIP": "2600:9000:26a2:8400:1d:8c8c:47c0:93a1",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58573 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:04.654161057Z",
+      "RX latest timestamp": "2026-04-29T22:17:04.654161057Z",
+      "RX bytes": 75,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 1,
+      "RTT (ms)": 85,
+      "SNI present": true,
+      "SNI length": 11,
+      "Round-trip time (ms)": 28,
+      "SNI": "googlevideo.com"
+    }
+  }
+}
+{
+  "UserIP": "2001:4860:4802:32::36",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58607 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:06.673479000Z",
+      "RX latest timestamp": "2026-04-29T22:17:06.673479000Z",
+      "RX bytes": 75,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 17,
+      "RTT (ms)": 25,
+      "SNI present": true,
+      "SNI length": 20,
+      "Round-trip time (ms)": 46,
+      "SNI": "youtubei.googleapis.com"
+    }
+  }
+}
+{
+  "UserIP": "2606:4700::6812:562a",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58577 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:05.859489867Z",
+      "RX latest timestamp": "2026-04-29T22:17:05.859489867Z",
+      "RX bytes": 75,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 6,
+      "RTT (ms)": 64,
+      "SNI present": true,
+      "SNI length": 15,
+      "Round-trip time (ms)": 53,
+      "SNI": "r1---sn.googlevideo.com"
+    },
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58563 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:05.520468105Z",
+      "RX latest timestamp": "2026-04-29T22:17:05.520468105Z",
+      "RX bytes": 75,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 9,
+      "RTT (ms)": 86,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 42,
+      "SNI": "youtube.com"
+    }
+  }
+}
+{
+  "UserIP": "2606:4700:10::6814:170d",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58583 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:05.628557801Z",
+      "RX latest timestamp": "2026-04-29T22:17:05.628557801Z",
+      "RX bytes": 75,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 38,
+      "RTT (ms)": 105,
+      "SNI present": true,
+      "SNI length": 15,
+      "Round-trip time (ms)": 92,
+      "SNI": "youtubei.googleapis.com"
+    }
+  }
+}
+{
+  "UserIP": "2620:1ec:42::132",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58656 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:25.901659226Z",
+      "RX latest timestamp": "2026-04-29T22:16:25.901659226Z",
+      "RX bytes": 75,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 46,
+      "RTT (ms)": 98,
+      "SNI present": true,
+      "SNI length": 15,
+      "Round-trip time (ms)": 89,
+      "SNI": "i.ytimg.com"
+    }
+  }
+}
+{
+  "UserIP": "2a00:1288:f03d:1fa::4000",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58630 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:27.141919236Z",
+      "RX latest timestamp": "2026-04-29T22:17:06.579929403Z",
+      "RX bytes": 223,
+      "TX bytes": 0,
+      "RX packets": 3,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 2464,
+      "RTT (ms)": 139,
+      "SNI present": true,
+      "SNI length": 15,
+      "Round-trip time (ms)": 800,
+      "SNI": "m.youtube.com"
+    }
+  }
+}
+{
+  "UserIP": "2a00:1450:4001:c21::54",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58617 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:07.574098389Z",
+      "RX latest timestamp": "2026-04-29T22:17:13.007864516Z",
+      "RX bytes": 223,
+      "TX bytes": 0,
+      "RX packets": 3,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 336,
+      "RTT (ms)": 93,
+      "SNI present": true,
+      "SNI length": 15,
+      "Round-trip time (ms)": 469,
+      "SNI": "r1---sn.googlevideo.com"
+    },
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58576 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:05.273386798Z",
+      "RX latest timestamp": "2026-04-29T22:17:21.665391724Z",
+      "RX bytes": 223,
+      "TX bytes": 0,
+      "RX packets": 3,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 1022,
+      "RTT (ms)": 75,
+      "SNI present": true,
+      "SNI length": 20,
+      "Round-trip time (ms)": 800,
+      "SNI": "youtube.com"
+    }
+  }
+}
+{
+  "UserIP": "2a00:1450:4001:c21::9b",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58590 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:06.673410179Z",
+      "RX latest timestamp": "2026-04-29T22:17:06.673410179Z",
+      "RX bytes": 75,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 17,
+      "RTT (ms)": 39,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 59,
+      "SNI": "ytimg.com"
+    }
+  }
+}
+{
+  "UserIP": "2a00:1450:400c:c0b::bc",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58240 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:42.453472546Z",
+      "RX latest timestamp": "2026-04-29T22:16:42.453472546Z",
+      "RX bytes": 75,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 33,
+      "RTT (ms)": 111,
+      "SNI present": true,
+      "SNI length": 15,
+      "Round-trip time (ms)": 84,
+      "SNI": "r3---sn.googlevideo.com"
+    }
+  }
+}
+{
+  "UserIP": "2a00:1450:400d:802::200e",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:53913 UDP": {
+      "RX first timestamp": "2026-04-29T22:16:24.160839663Z",
+      "RX latest timestamp": "2026-04-29T22:16:24.242451222Z",
+      "RX bytes": 8077,
+      "TX bytes": 0,
+      "RX packets": 11,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 4,
+      "RTT (ms)": 133,
+      "SNI present": true,
+      "SNI length": 20,
+      "Round-trip time (ms)": 46,
+      "SNI": "i.ytimg.com"
+    },
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:53841 UDP": {
+      "RX first timestamp": "2026-04-29T22:16:45.466094937Z",
+      "RX latest timestamp": "2026-04-29T22:17:09.650001494Z",
+      "RX bytes": 24578,
+      "TX bytes": 0,
+      "RX packets": 38,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 2016,
+      "RTT (ms)": 95,
+      "SNI present": true,
+      "SNI length": 20,
+      "Round-trip time (ms)": 800,
+      "SNI": "googlevideo.com"
+    }
+  }
+}
+{
+  "UserIP": "2a00:1450:400d:803::2003",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58610 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:06.874824360Z",
+      "RX latest timestamp": "2026-04-29T22:17:06.874824360Z",
+      "RX bytes": 75,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 24,
+      "RTT (ms)": 147,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 74,
+      "SNI": "r3---sn.googlevideo.com"
+    },
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58603 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:06.484294567Z",
+      "RX latest timestamp": "2026-04-29T22:17:06.484294567Z",
+      "RX bytes": 75,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 35,
+      "RTT (ms)": 50,
+      "SNI present": true,
+      "SNI length": 15,
+      "Round-trip time (ms)": 90,
+      "SNI": "unknown"
+    }
+  }
+}
+{
+  "UserIP": "2a00:1450:400d:809::200a",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:60338 UDP": {
+      "RX first timestamp": "2026-04-29T22:16:45.474340112Z",
+      "RX latest timestamp": "2026-04-29T22:16:45.564313098Z",
+      "RX bytes": 11361,
+      "TX bytes": 0,
+      "RX packets": 18,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 2,
+      "RTT (ms)": 99,
+      "SNI present": true,
+      "SNI length": 11,
+      "Round-trip time (ms)": 23,
+      "SNI": "ytimg.com"
+    }
+  }
+}
+{
+  "UserIP": "2a00:1450:400d:809::2011",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58662 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:42.004527053Z",
+      "RX latest timestamp": "2026-04-29T22:16:42.004527053Z",
+      "RX bytes": 75,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 41,
+      "RTT (ms)": 103,
+      "SNI present": true,
+      "SNI length": 11,
+      "Round-trip time (ms)": 95,
+      "SNI": "unknown"
+    }
+  }
+}
+{
+  "UserIP": "2a00:1450:400d:80f::2008",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58575 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:06.298584051Z",
+      "RX latest timestamp": "2026-04-29T22:17:06.298584051Z",
+      "RX bytes": 75,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 5,
+      "RTT (ms)": 107,
+      "SNI present": true,
+      "SNI length": 20,
+      "Round-trip time (ms)": 35,
+      "SNI": "youtube.com"
+    }
+  }
+}
+{
+  "UserIP": "2600:9000:26a1:fa00:1f:af3f:8a40:93a1",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58618 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:07.889095600Z",
+      "RX latest timestamp": "2026-04-29T22:17:07.889095600Z",
+      "RX bytes": 75,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 8,
+      "RTT (ms)": 117,
+      "SNI present": true,
+      "SNI length": 20,
+      "Round-trip time (ms)": 31,
+      "SNI": "i.ytimg.com"
+    }
+  }
+}
+{
+  "UserIP": "2a00:1450:400d:810::2003",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58608 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:06.683481426Z",
+      "RX latest timestamp": "2026-04-29T22:17:06.683481426Z",
+      "RX bytes": 75,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 26,
+      "RTT (ms)": 113,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 82,
+      "SNI": "m.youtube.com"
+    },
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:63976 UDP": {
+      "RX first timestamp": "2026-04-29T22:16:52.459346549Z",
+      "RX latest timestamp": "2026-04-29T22:16:52.508337436Z",
+      "RX bytes": 5493,
+      "TX bytes": 0,
+      "RX packets": 9,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 2,
+      "RTT (ms)": 129,
+      "SNI present": true,
+      "SNI length": 11,
+      "Round-trip time (ms)": 31,
+      "SNI": "r3---sn.googlevideo.com"
+    },
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:60866 UDP": {
+      "RX first timestamp": "2026-04-29T22:16:38.406382352Z",
+      "RX latest timestamp": "2026-04-29T22:16:38.432167895Z",
+      "RX bytes": 261,
+      "TX bytes": 0,
+      "RX packets": 2,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 35,
+      "RTT (ms)": 42,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 76,
+      "SNI": "i.ytimg.com"
+    },
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:49348 UDP": {
+      "RX first timestamp": "2026-04-29T22:17:08.478483858Z",
+      "RX latest timestamp": "2026-04-29T22:17:08.555443293Z",
+      "RX bytes": 7895,
+      "TX bytes": 0,
+      "RX packets": 12,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 6,
+      "RTT (ms)": 132,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 32,
+      "SNI": "unknown"
+    }
+  }
+}
+{
+  "UserIP": "2603:1063:27:2::14",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58655 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:26.195846415Z",
+      "RX latest timestamp": "2026-04-29T22:16:26.195846415Z",
+      "RX bytes": 75,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 12,
+      "RTT (ms)": 59,
+      "SNI present": true,
+      "SNI length": 15,
+      "Round-trip time (ms)": 48,
+      "SNI": "m.youtube.com"
+    }
+  }
+}
+{
+  "UserIP": "2a00:1450:400d:80f::200e",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:54759 UDP": {
+      "RX first timestamp": "2026-04-29T22:16:31.243885325Z",
+      "RX latest timestamp": "2026-04-29T22:17:22.719424864Z",
+      "RX bytes": 470,
+      "TX bytes": 0,
+      "RX packets": 5,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 781,
+      "RTT (ms)": 37,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 800,
+      "SNI": "r3---sn.googlevideo.com"
+    }
+  }
+}
+{
+  "UserIP": "2a00:1450:400d:811::2001",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58658 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:33.703530466Z",
+      "RX latest timestamp": "2026-04-29T22:17:06.581759299Z",
+      "RX bytes": 223,
+      "TX bytes": 0,
+      "RX packets": 3,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 2054,
+      "RTT (ms)": 28,
+      "SNI present": true,
+      "SNI length": 20,
+      "Round-trip time (ms)": 800,
+      "SNI": "googlevideo.com"
+    },
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58659 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:33.703499545Z",
+      "RX latest timestamp": "2026-04-29T22:17:06.581859522Z",
+      "RX bytes": 223,
+      "TX bytes": 0,
+      "RX packets": 3,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 2054,
+      "RTT (ms)": 85,
+      "SNI present": true,
+      "SNI length": 11,
+      "Round-trip time (ms)": 800,
+      "SNI": "googlevideo.com"
+    },
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58619 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:08.089158714Z",
+      "RX latest timestamp": "2026-04-29T22:17:08.089158714Z",
+      "RX bytes": 75,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 38,
+      "RTT (ms)": 124,
+      "SNI present": true,
+      "SNI length": 11,
+      "Round-trip time (ms)": 84,
+      "SNI": "ytimg.com"
+    }
+  }
+}
+{
+  "UserIP": "2a00:1450:400d:812::2003",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:49253 UDP": {
+      "RX first timestamp": "2026-04-29T22:16:53.555369475Z",
+      "RX latest timestamp": "2026-04-29T22:16:53.583983593Z",
+      "RX bytes": 5056,
+      "TX bytes": 0,
+      "RX packets": 11,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 1,
+      "RTT (ms)": 57,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 22,
+      "SNI": "unknown"
+    },
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58660 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:36.477773747Z",
+      "RX latest timestamp": "2026-04-29T22:16:53.582152440Z",
+      "RX bytes": 1141,
+      "TX bytes": 0,
+      "RX packets": 8,
+      "TX packets": 0,
+      "RX packet loss": 1,
+      "TX packet loss": 0,
+      "Jitter (ms)": 775,
+      "RTT (ms)": 81,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 800,
+      "SNI": "unknown"
+    },
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:57192 UDP": {
+      "RX first timestamp": "2026-04-29T22:17:06.520965265Z",
+      "RX latest timestamp": "2026-04-29T22:17:06.574461411Z",
+      "RX bytes": 5809,
+      "TX bytes": 0,
+      "RX packets": 13,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 3,
+      "RTT (ms)": 105,
+      "SNI present": true,
+      "SNI length": 11,
+      "Round-trip time (ms)": 47,
+      "SNI": "googlevideo.com"
+    }
+  }
+}
+{
+  "UserIP": "2a00:1450:400d:814::2003",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58697 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:09.549237965Z",
+      "RX latest timestamp": "2026-04-29T22:17:09.619197879Z",
+      "RX bytes": 2330,
+      "TX bytes": 0,
+      "RX packets": 7,
+      "TX packets": 0,
+      "RX packet loss": 1,
+      "TX packet loss": 0,
+      "Jitter (ms)": 5,
+      "RTT (ms)": 50,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 44,
+      "SNI": "unknown"
+    },
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:53578 UDP": {
+      "RX first timestamp": "2026-04-29T22:17:09.534948553Z",
+      "RX latest timestamp": "2026-04-29T22:17:09.615078868Z",
+      "RX bytes": 5621,
+      "TX bytes": 0,
+      "RX packets": 14,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 4,
+      "RTT (ms)": 74,
+      "SNI present": true,
+      "SNI length": 20,
+      "Round-trip time (ms)": 44,
+      "SNI": "youtubei.googleapis.com"
+    }
+  }
+}
+{
+  "UserIP": "2a01:368:b:4::e",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58112 UDP": {
+      "RX first timestamp": "2026-04-29T22:16:46.620940453Z",
+      "RX latest timestamp": "2026-04-29T22:17:13.369917986Z",
+      "RX bytes": 403783,
+      "TX bytes": 0,
+      "RX packets": 4084,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 1,
+      "RTT (ms)": 77,
+      "SNI present": true,
+      "SNI length": 15,
+      "Round-trip time (ms)": 40,
+      "SNI": "i.ytimg.com"
+    }
+  }
+}
+{
+  "UserIP": "2a01:368:1fe:703::5b53:e20",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58657 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:26.629461940Z",
+      "RX latest timestamp": "2026-04-29T22:16:56.592043967Z",
+      "RX bytes": 223,
+      "TX bytes": 0,
+      "RX packets": 3,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 1872,
+      "RTT (ms)": 120,
+      "SNI present": true,
+      "SNI length": 20,
+      "Round-trip time (ms)": 800,
+      "SNI": "ytimg.com"
+    }
+  }
+}
+{
+  "UserIP": "2a00:1450:400d:80f::200a",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58661 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:36.712577376Z",
+      "RX latest timestamp": "2026-04-29T22:17:06.582167367Z",
+      "RX bytes": 223,
+      "TX bytes": 0,
+      "RX packets": 3,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 1866,
+      "RTT (ms)": 22,
+      "SNI present": true,
+      "SNI length": 20,
+      "Round-trip time (ms)": 800,
+      "SNI": "r3---sn.googlevideo.com"
+    },
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58664 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:41.560183609Z",
+      "RX latest timestamp": "2026-04-29T22:16:41.560183609Z",
+      "RX bytes": 75,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 31,
+      "RTT (ms)": 110,
+      "SNI present": true,
+      "SNI length": 11,
+      "Round-trip time (ms)": 68,
+      "SNI": "unknown"
+    }
+  }
+}
+{
+  "UserIP": "2a01:368:1fe:c1f1:face:b00c:0:a7",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:63287 UDP": {
+      "RX first timestamp": "2026-04-29T22:16:46.112067771Z",
+      "RX latest timestamp": "2026-04-29T22:16:46.166896288Z",
+      "RX bytes": 7640,
+      "TX bytes": 0,
+      "RX packets": 23,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 2,
+      "RTT (ms)": 53,
+      "SNI present": true,
+      "SNI length": 11,
+      "Round-trip time (ms)": 30,
+      "SNI": "unknown"
+    }
+  }
+}
+{
+  "UserIP": "2a03:2880:f007:1:face:b00c:0:1",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58265 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:45.584587422Z",
+      "RX latest timestamp": "2026-04-29T22:17:20.170031055Z",
+      "RX bytes": 360,
+      "TX bytes": 0,
+      "RX packets": 4,
+      "TX packets": 0,
+      "RX packet loss": 1,
+      "TX packet loss": 0,
+      "Jitter (ms)": 4157,
+      "RTT (ms)": 88,
+      "SNI present": true,
+      "SNI length": 15,
+      "Round-trip time (ms)": 800,
+      "SNI": "m.youtube.com"
+    },
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58267 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:45.584702949Z",
+      "RX latest timestamp": "2026-04-29T22:17:20.170013957Z",
+      "RX bytes": 360,
+      "TX bytes": 0,
+      "RX packets": 4,
+      "TX packets": 0,
+      "RX packet loss": 1,
+      "TX packet loss": 0,
+      "Jitter (ms)": 4157,
+      "RTT (ms)": 45,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 800,
+      "SNI": "ytimg.com"
+    },
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58292 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:37.460899396Z",
+      "RX latest timestamp": "2026-04-29T22:17:22.658501592Z",
+      "RX bytes": 720,
+      "TX bytes": 0,
+      "RX packets": 8,
+      "TX packets": 0,
+      "RX packet loss": 1,
+      "TX packet loss": 0,
+      "Jitter (ms)": 4776,
+      "RTT (ms)": 112,
+      "SNI present": true,
+      "SNI length": 20,
+      "Round-trip time (ms)": 800,
+      "SNI": "youtubei.googleapis.com"
+    }
+  }
+}
+{
+  "UserIP": "2a01:36d:111:61dd:55a:c321:f8e6:863d",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2606:4700:10::6814:170d:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:05.630703589Z",
+      "RX latest timestamp": "2026-04-29T22:17:05.630703589Z",
+      "RX bytes": 86,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 0,
+      "RTT (ms)": 87,
+      "SNI present": true,
+      "SNI length": 15,
+      "Round-trip time (ms)": 20,
+      "SNI": "googlevideo.com"
+    },
+    "2a00:1450:400d:80f::200e:443 UDP": {
+      "RX first timestamp": "2026-04-29T22:16:31.237206206Z",
+      "RX latest timestamp": "2026-04-29T22:17:22.703351977Z",
+      "RX bytes": 473,
+      "TX bytes": 0,
+      "RX packets": 5,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 785,
+      "RTT (ms)": 86,
+      "SNI present": true,
+      "SNI length": 11,
+      "Round-trip time (ms)": 800,
+      "SNI": "unknown"
+    },
+    "2a00:1450:400d:803::2003:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:06.486271010Z",
+      "RX latest timestamp": "2026-04-29T22:17:06.877682860Z",
+      "RX bytes": 172,
+      "TX bytes": 0,
+      "RX packets": 2,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 18,
+      "RTT (ms)": 24,
+      "SNI present": true,
+      "SNI length": 11,
+      "Round-trip time (ms)": 48,
+      "SNI": "r1---sn.googlevideo.com"
+    },
+    "2a00:1450:400d:810::2003:443 UDP": {
+      "RX first timestamp": "2026-04-29T22:16:38.431865974Z",
+      "RX latest timestamp": "2026-04-29T22:17:08.555921944Z",
+      "RX bytes": 16404,
+      "TX bytes": 0,
+      "RX packets": 30,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 1179,
+      "RTT (ms)": 60,
+      "SNI present": true,
+      "SNI length": 11,
+      "Round-trip time (ms)": 800,
+      "SNI": "googlevideo.com"
+    },
+    "2a03:2880:f207:c2:face:b00c:0:1cc9:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:38.014851011Z",
+      "RX latest timestamp": "2026-04-29T22:17:15.845653148Z",
+      "RX bytes": 290,
+      "TX bytes": 0,
+      "RX packets": 2,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 55,
+      "RTT (ms)": 79,
+      "SNI present": true,
+      "SNI length": 11,
+      "Round-trip time (ms)": 94,
+      "SNI": "unknown"
+    },
+    "2a06:98c1:310d::6812:29b7:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:24.306408093Z",
+      "RX latest timestamp": "2026-04-29T22:16:24.344116201Z",
+      "RX bytes": 4989,
+      "TX bytes": 0,
+      "RX packets": 9,
+      "TX packets": 0,
+      "RX packet loss": 2,
+      "TX packet loss": 0,
+      "Jitter (ms)": 3,
+      "RTT (ms)": 70,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 47,
+      "SNI": "m.youtube.com"
+    },
+    "2a00:1450:4001:c21::9b:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:06.689134757Z",
+      "RX latest timestamp": "2026-04-29T22:17:06.689134757Z",
+      "RX bytes": 86,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 18,
+      "RTT (ms)": 124,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 50,
+      "SNI": "r1---sn.googlevideo.com"
+    },
+    "2620:1ec:42::132:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:25.907910850Z",
+      "RX latest timestamp": "2026-04-29T22:16:56.607252674Z",
+      "RX bytes": 160,
+      "TX bytes": 0,
+      "RX packets": 2,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 78,
+      "RTT (ms)": 86,
+      "SNI present": true,
+      "SNI length": 15,
+      "Round-trip time (ms)": 140,
+      "SNI": "unknown"
+    },
+    "2a00:1450:400d:810::200a:443 UDP": {
+      "RX first timestamp": "2026-04-29T22:16:34.445931754Z",
+      "RX latest timestamp": "2026-04-29T22:17:23.037456467Z",
+      "RX bytes": 13946,
+      "TX bytes": 0,
+      "RX packets": 43,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 1821,
+      "RTT (ms)": 66,
+      "SNI present": true,
+      "SNI length": 20,
+      "Round-trip time (ms)": 800,
+      "SNI": "i.ytimg.com"
+    },
+    "2a00:1450:400c:c0b::bc:5228 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:42.476140751Z",
+      "RX latest timestamp": "2026-04-29T22:16:42.476140751Z",
+      "RX bytes": 86,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 46,
+      "RTT (ms)": 129,
+      "SNI present": true,
+      "SNI length": 15,
+      "Round-trip time (ms)": 92,
+      "SNI": "unknown"
+    },
+    "2a01:368:1fe:703::5b53:e4b:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:34.404568893Z",
+      "RX latest timestamp": "2026-04-29T22:17:19.406202620Z",
+      "RX bytes": 172,
+      "TX bytes": 0,
+      "RX packets": 2,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 100,
+      "RTT (ms)": 81,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 150,
+      "SNI": "r1---sn.googlevideo.com"
+    },
+    "2a00:1450:400d:814::2003:443 UDP": {
+      "RX first timestamp": "2026-04-29T22:17:09.537305428Z",
+      "RX latest timestamp": "2026-04-29T22:17:09.614825965Z",
+      "RX bytes": 10168,
+      "TX bytes": 0,
+      "RX packets": 15,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 7,
+      "RTT (ms)": 75,
+      "SNI present": true,
+      "SNI length": 11,
+      "Round-trip time (ms)": 59,
+      "SNI": "youtube.com"
+    },
+    "2a00:1450:400d:809::2011:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:42.006489106Z",
+      "RX latest timestamp": "2026-04-29T22:16:42.006489106Z",
+      "RX bytes": 86,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 27,
+      "RTT (ms)": 91,
+      "SNI present": true,
+      "SNI length": 20,
+      "Round-trip time (ms)": 60,
+      "SNI": "youtube.com"
+    },
+    "2001:4860:4829:7700:::443 UDP": {
+      "RX first timestamp": "2026-04-29T22:16:30.676158814Z",
+      "RX latest timestamp": "2026-04-29T22:17:09.523102376Z",
+      "RX bytes": 15193,
+      "TX bytes": 0,
+      "RX packets": 49,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 1128,
+      "RTT (ms)": 103,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 800,
+      "SNI": "ytimg.com"
+    },
+    "2a00:1450:400d:810::200a:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:41.624703315Z",
+      "RX latest timestamp": "2026-04-29T22:16:41.624703315Z",
+      "RX bytes": 86,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 6,
+      "RTT (ms)": 31,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 41,
+      "SNI": "googlevideo.com"
+    },
+    "2a00:1450:400d:812::2003:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:36.479767967Z",
+      "RX latest timestamp": "2026-04-29T22:16:53.585386285Z",
+      "RX bytes": 854,
+      "TX bytes": 0,
+      "RX packets": 9,
+      "TX packets": 0,
+      "RX packet loss": 1,
+      "TX packet loss": 0,
+      "Jitter (ms)": 727,
+      "RTT (ms)": 51,
+      "SNI present": true,
+      "SNI length": 11,
+      "Round-trip time (ms)": 800,
+      "SNI": "youtube.com"
+    },
+    "2a00:1450:400d:812::2003:443 UDP": {
+      "RX first timestamp": "2026-04-29T22:16:53.557950253Z",
+      "RX latest timestamp": "2026-04-29T22:17:06.574320412Z",
+      "RX bytes": 17729,
+      "TX bytes": 0,
+      "RX packets": 30,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 638,
+      "RTT (ms)": 53,
+      "SNI present": true,
+      "SNI length": 11,
+      "Round-trip time (ms)": 800,
+      "SNI": "unknown"
+    },
+    "2606:4700::6811:6c13:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:05.930625278Z",
+      "RX latest timestamp": "2026-04-29T22:17:06.610545691Z",
+      "RX bytes": 172,
+      "TX bytes": 0,
+      "RX packets": 2,
+      "TX packets": 0,
+      "RX packet loss": 1,
+      "TX packet loss": 0,
+      "Jitter (ms)": 47,
+      "RTT (ms)": 58,
+      "SNI present": true,
+      "SNI length": 15,
+      "Round-trip time (ms)": 101,
+      "SNI": "m.youtube.com"
+    },
+    "2a03:2880:f007:7:face:b00c:0:6206:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:45.592051373Z",
+      "RX latest timestamp": "2026-04-29T22:17:22.683667039Z",
+      "RX bytes": 42395,
+      "TX bytes": 0,
+      "RX packets": 46,
+      "TX packets": 0,
+      "RX packet loss": 18,
+      "TX packet loss": 0,
+      "Jitter (ms)": 505,
+      "RTT (ms)": 58,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 700,
+      "SNI": "i.ytimg.com"
+    },
+    "2600:9000:26a1:fa00:1f:af3f:8a40:93a1:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:07.890830352Z",
+      "RX latest timestamp": "2026-04-29T22:17:07.890830352Z",
+      "RX bytes": 86,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 30,
+      "RTT (ms)": 116,
+      "SNI present": true,
+      "SNI length": 20,
+      "Round-trip time (ms)": 63,
+      "SNI": "unknown"
+    },
+    "2001:4860:4802:34::178:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:05.383750489Z",
+      "RX latest timestamp": "2026-04-29T22:17:05.383750489Z",
+      "RX bytes": 86,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 26,
+      "RTT (ms)": 101,
+      "SNI present": true,
+      "SNI length": 11,
+      "Round-trip time (ms)": 79,
+      "SNI": "youtubei.googleapis.com"
+    },
+    "2603:1063:27:2::14:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:26.201627001Z",
+      "RX latest timestamp": "2026-04-29T22:17:00.140241672Z",
+      "RX bytes": 160,
+      "TX bytes": 0,
+      "RX packets": 2,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 68,
+      "RTT (ms)": 46,
+      "SNI present": true,
+      "SNI length": 11,
+      "Round-trip time (ms)": 122,
+      "SNI": "unknown"
+    },
+    "2600:9000:26a1:8000:f:1dcc:7540:93a1:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:07.596127523Z",
+      "RX latest timestamp": "2026-04-29T22:17:07.596127523Z",
+      "RX bytes": 86,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 23,
+      "RTT (ms)": 73,
+      "SNI present": true,
+      "SNI length": 15,
+      "Round-trip time (ms)": 66,
+      "SNI": "youtube.com"
+    },
+    "2606:4700::6812:562a:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:05.522337355Z",
+      "RX latest timestamp": "2026-04-29T22:17:05.861462743Z",
+      "RX bytes": 172,
+      "TX bytes": 0,
+      "RX packets": 2,
+      "TX packets": 0,
+      "RX packet loss": 1,
+      "TX packet loss": 0,
+      "Jitter (ms)": 92,
+      "RTT (ms)": 49,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 146,
+      "SNI": "ytimg.com"
+    },
+    "2001:4860:4802:32::36:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:06.675499755Z",
+      "RX latest timestamp": "2026-04-29T22:17:06.675499755Z",
+      "RX bytes": 86,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 31,
+      "RTT (ms)": 120,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 61,
+      "SNI": "youtube.com"
+    },
+    "2600:9000:26a1:3000:16:708:31c0:93a1:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:26.508291995Z",
+      "RX latest timestamp": "2026-04-29T22:17:11.515060039Z",
+      "RX bytes": 172,
+      "TX bytes": 0,
+      "RX packets": 2,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 22,
+      "RTT (ms)": 138,
+      "SNI present": true,
+      "SNI length": 11,
+      "Round-trip time (ms)": 49,
+      "SNI": "r3---sn.googlevideo.com"
+    },
+    "2a03:2880:f107:83:face:b00c:0:25de:443 UDP": {
+      "RX first timestamp": "2026-04-29T22:16:45.608751719Z",
+      "RX latest timestamp": "2026-04-29T22:16:45.897689556Z",
+      "RX bytes": 13411,
+      "TX bytes": 0,
+      "RX packets": 21,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 19,
+      "RTT (ms)": 136,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 49,
+      "SNI": "unknown"
+    },
+    "2a00:1450:400d:809::200a:443 UDP": {
+      "RX first timestamp": "2026-04-29T22:16:45.476936605Z",
+      "RX latest timestamp": "2026-04-29T22:16:45.564080561Z",
+      "RX bytes": 8934,
+      "TX bytes": 0,
+      "RX packets": 18,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 6,
+      "RTT (ms)": 70,
+      "SNI present": true,
+      "SNI length": 11,
+      "Round-trip time (ms)": 41,
+      "SNI": "i.ytimg.com"
+    },
+    "2a00:1450:400d:80f::2008:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:06.300585941Z",
+      "RX latest timestamp": "2026-04-29T22:17:06.300585941Z",
+      "RX bytes": 86,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 27,
+      "RTT (ms)": 68,
+      "SNI present": true,
+      "SNI length": 11,
+      "Round-trip time (ms)": 65,
+      "SNI": "ytimg.com"
+    },
+    "2a00:1450:400d:810::2003:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:06.685491074Z",
+      "RX latest timestamp": "2026-04-29T22:17:06.685491074Z",
+      "RX bytes": 86,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 1,
+      "RTT (ms)": 48,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 33,
+      "SNI": "r3---sn.googlevideo.com"
+    },
+    "2a00:1450:400d:814::2003:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:09.551199215Z",
+      "RX latest timestamp": "2026-04-29T22:17:09.578686867Z",
+      "RX bytes": 6956,
+      "TX bytes": 0,
+      "RX packets": 8,
+      "TX packets": 0,
+      "RX packet loss": 4,
+      "TX packet loss": 0,
+      "Jitter (ms)": 2,
+      "RTT (ms)": 23,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 24,
+      "SNI": "youtube.com"
+    },
+    "2a00:1450:400d:80f::200a:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:36.714486984Z",
+      "RX latest timestamp": "2026-04-29T22:17:06.582135323Z",
+      "RX bytes": 246,
+      "TX bytes": 0,
+      "RX packets": 3,
+      "TX packets": 0,
+      "RX packet loss": 1,
+      "TX packet loss": 0,
+      "Jitter (ms)": 1260,
+      "RTT (ms)": 106,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 800,
+      "SNI": "m.youtube.com"
+    },
+    "2a01:368:1fe:703::5b53:e20:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:26.631655529Z",
+      "RX latest timestamp": "2026-04-29T22:16:56.594099582Z",
+      "RX bytes": 332,
+      "TX bytes": 0,
+      "RX packets": 4,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 1755,
+      "RTT (ms)": 84,
+      "SNI present": true,
+      "SNI length": 20,
+      "Round-trip time (ms)": 800,
+      "SNI": "unknown"
+    },
+    "2a00:1450:400d:811::2001:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:33.705599600Z",
+      "RX latest timestamp": "2026-04-29T22:17:08.091176306Z",
+      "RX bytes": 406,
+      "TX bytes": 0,
+      "RX packets": 5,
+      "TX packets": 0,
+      "RX packet loss": 2,
+      "TX packet loss": 0,
+      "Jitter (ms)": 3826,
+      "RTT (ms)": 117,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 800,
+      "SNI": "googlevideo.com"
+    },
+    "2a00:1288:f03d:1fa::4000:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:27.147452625Z",
+      "RX latest timestamp": "2026-04-29T22:17:06.585502759Z",
+      "RX bytes": 148,
+      "TX bytes": 0,
+      "RX packets": 2,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 48,
+      "RTT (ms)": 90,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 100,
+      "SNI": "googlevideo.com"
+    },
+    "2a01:368:b:4::e:443 UDP": {
+      "RX first timestamp": "2026-04-29T22:16:46.624137118Z",
+      "RX latest timestamp": "2026-04-29T22:17:13.369367580Z",
+      "RX bytes": 51797956,
+      "TX bytes": 0,
+      "RX packets": 40103,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 0,
+      "RTT (ms)": 100,
+      "SNI present": true,
+      "SNI length": 15,
+      "Round-trip time (ms)": 35,
+      "SNI": "r1---sn.googlevideo.com"
+    },
+    "2a00:1450:400d:802::200e:443 UDP": {
+      "RX first timestamp": "2026-04-29T22:16:24.164620673Z",
+      "RX latest timestamp": "2026-04-29T22:17:09.677567221Z",
+      "RX bytes": 19479,
+      "TX bytes": 0,
+      "RX packets": 53,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 2279,
+      "RTT (ms)": 64,
+      "SNI present": true,
+      "SNI length": 20,
+      "Round-trip time (ms)": 800,
+      "SNI": "r3---sn.googlevideo.com"
+    },
+    "2a03:2880:f007:1:face:b00c:0:1:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:37.496877526Z",
+      "RX latest timestamp": "2026-04-29T22:17:22.612553425Z",
+      "RX bytes": 816,
+      "TX bytes": 0,
+      "RX packets": 8,
+      "TX packets": 0,
+      "RX packet loss": 3,
+      "TX packet loss": 0,
+      "Jitter (ms)": 2147,
+      "RTT (ms)": 83,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 800,
+      "SNI": "googlevideo.com"
+    },
+    "2a00:1450:400d:812::200a:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:05.800668565Z",
+      "RX latest timestamp": "2026-04-29T22:17:05.800668565Z",
+      "RX bytes": 86,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 14,
+      "RTT (ms)": 84,
+      "SNI present": true,
+      "SNI length": 20,
+      "Round-trip time (ms)": 50,
+      "SNI": "ytimg.com"
+    },
+    "2a00:1450:4001:c21::54:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:05.289337766Z",
+      "RX latest timestamp": "2026-04-29T22:17:21.665340948Z",
+      "RX bytes": 614,
+      "TX bytes": 0,
+      "RX packets": 6,
+      "TX packets": 0,
+      "RX packet loss": 2,
+      "TX packet loss": 0,
+      "Jitter (ms)": 1495,
+      "RTT (ms)": 120,
+      "SNI present": true,
+      "SNI length": 20,
+      "Round-trip time (ms)": 800,
+      "SNI": "youtubei.googleapis.com"
+    },
+    "2a01:368:1fe:c1f1:face:b00c:0:a7:443 UDP": {
+      "RX first timestamp": "2026-04-29T22:16:46.116083901Z",
+      "RX latest timestamp": "2026-04-29T22:16:46.166690891Z",
+      "RX bytes": 16000,
+      "TX bytes": 0,
+      "RX packets": 31,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 3,
+      "RTT (ms)": 95,
+      "SNI present": true,
+      "SNI length": 15,
+      "Round-trip time (ms)": 39,
+      "SNI": "unknown"
+    },
+    "2600:9000:26a2:8400:1d:8c8c:47c0:93a1:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:04.656119219Z",
+      "RX latest timestamp": "2026-04-29T22:17:04.656119219Z",
+      "RX bytes": 86,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 43,
+      "RTT (ms)": 39,
+      "SNI present": true,
+      "SNI length": 15,
+      "Round-trip time (ms)": 84,
+      "SNI": "m.youtube.com"
+    }
+  }
+}
+{
+  "UserIP": "2a00:1450:400d:810::200a",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58665 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:41.622858066Z",
+      "RX latest timestamp": "2026-04-29T22:16:41.622858066Z",
+      "RX bytes": 75,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 23,
+      "RTT (ms)": 77,
+      "SNI present": true,
+      "SNI length": 15,
+      "Round-trip time (ms)": 68,
+      "SNI": "m.youtube.com"
+    },
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:49690 UDP": {
+      "RX first timestamp": "2026-04-29T22:16:34.448003415Z",
+      "RX latest timestamp": "2026-04-29T22:17:23.047173306Z",
+      "RX bytes": 5024,
+      "TX bytes": 0,
+      "RX packets": 30,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 2074,
+      "RTT (ms)": 62,
+      "SNI present": true,
+      "SNI length": 15,
+      "Round-trip time (ms)": 800,
+      "SNI": "unknown"
+    }
+  }
+}
+{
+  "UserIP": "2a00:1450:400d:812::200a",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58580 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:05.798635314Z",
+      "RX latest timestamp": "2026-04-29T22:17:05.798635314Z",
+      "RX bytes": 75,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 11,
+      "RTT (ms)": 64,
+      "SNI present": true,
+      "SNI length": 15,
+      "Round-trip time (ms)": 34,
+      "SNI": "youtube.com"
+    }
+  }
+}
+{
+  "UserIP": "2a01:368:1fe:703::5b53:e4b",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58559 TCP": {
+      "RX first timestamp": "2026-04-29T22:16:34.402341554Z",
+      "RX latest timestamp": "2026-04-29T22:17:19.404175922Z",
+      "RX bytes": 150,
+      "TX bytes": 0,
+      "RX packets": 2,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 9,
+      "RTT (ms)": 58,
+      "SNI present": true,
+      "SNI length": 20,
+      "Round-trip time (ms)": 45,
+      "SNI": "youtubei.googleapis.com"
+    }
+  }
+}
+{
+  "UserIP": "2606:4700::6811:6c13",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58562 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:05.928726803Z",
+      "RX latest timestamp": "2026-04-29T22:17:05.928726803Z",
+      "RX bytes": 75,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 29,
+      "RTT (ms)": 86,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 73,
+      "SNI": "m.youtube.com"
+    },
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58606 TCP": {
+      "RX first timestamp": "2026-04-29T22:17:06.608747557Z",
+      "RX latest timestamp": "2026-04-29T22:17:06.608747557Z",
+      "RX bytes": 75,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 9,
+      "RTT (ms)": 130,
+      "SNI present": true,
+      "SNI length": 11,
+      "Round-trip time (ms)": 46,
+      "SNI": "unknown"
+    }
+  }
+}

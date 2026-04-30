@@ -972,8 +972,8 @@ static __always_inline int gtpu_decoder(struct __sk_buff* skb, struct gtp1_heade
 
     unsigned char examined_bit = gtpu->flags & 0x10; // check protocol type
     if (examined_bit == 0) { // if PT is 0, GTP' is discarded
-        prog_stats(DONTCARE_CTR);
-        return TC_ACT_OK;
+        //prog_stats(DONTCARE_CTR);
+        //return TC_ACT_OK;
     }
 
     examined_bit = gtpu->flags & 0x1; // check N-PDU flag
@@ -1090,8 +1090,8 @@ static __always_inline int packet_interesting(struct __sk_buff *skb){
     
     // Valid node sums: 5: 4G+HR, 6: 5G+HR, 11: 2G+HR, 16: 4G+R, 19: 2G+R, other is uninteresting
     if ( (node_sum != 5 ) && (node_sum != 6 ) && (node_sum != 11 ) && (node_sum != 16 ) && (node_sum != 19 )){
-        prog_stats(DONTCARE_CTR);
-        return TC_ACT_OK;
+        //prog_stats(DONTCARE_CTR);
+        //return TC_ACT_OK;
     }
 
     offset += sizeof(struct udphdr);
@@ -1135,8 +1135,8 @@ static __always_inline int packet_interesting(struct __sk_buff *skb){
     }
 
     if ((udp->dest != GTP1U_PORT) ) {
-        prog_stats(DONTCARE_CTR);
-        return TC_ACT_OK;
+        //prog_stats(DONTCARE_CTR);
+        //return TC_ACT_OK;
     }
 
     offset += sizeof(struct gtp1_header);
@@ -1152,8 +1152,8 @@ static __always_inline int packet_interesting(struct __sk_buff *skb){
     }
 
     if (gtpu->type != 0xFF){ // G-PDU is 255 msg type
-        prog_stats(DONTCARE_CTR);
-        return TC_ACT_OK;
+        //prog_stats(DONTCARE_CTR);
+        //return TC_ACT_OK;
     }
 
     return gtpu_decoder(skb, gtpu, skb->len, data_end, direction, node_sum);

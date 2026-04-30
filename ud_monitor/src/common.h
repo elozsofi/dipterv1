@@ -49,7 +49,7 @@
 #define SNI_SIZE        20
 #define ARRAY_MAP_MAX_ENTRIES 32
 #define MAPID_THREADS   20 // GC threads
-#define AGGR_TIME       20 // clear users every 20 seconds
+#define AGGR_TIME       6000 // clear users every 20 seconds
 
 //Misc
 #define ZERO 0

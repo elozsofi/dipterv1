@@ -1,0 +1,199 @@
+{
+  "UserIP": "2001:4860:4802:38::223",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:59986 UDP": {
+      "RX first timestamp": "2026-04-29T21:28:07.466884019Z",
+      "RX latest timestamp": "2026-04-29T21:28:07.649468069Z",
+      "RX bytes": 786,
+      "TX bytes": 0,
+      "RX packets": 7,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 10,
+      "RTT (ms)": 77,
+      "SNI present": true,
+      "SNI length": 13,
+      "Round-trip time (ms)": 35,
+      "SNI": "unknown"
+    }
+  }
+}
+{
+  "UserIP": "::",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {}
+}
+{
+  "UserIP": "2a00:1450:400d:813::200e",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:65453 UDP": {
+      "RX first timestamp": "2026-04-29T21:28:06.935919690Z",
+      "RX latest timestamp": "2026-04-29T21:28:07.063678293Z",
+      "RX bytes": 9145,
+      "TX bytes": 0,
+      "RX packets": 14,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 8,
+      "RTT (ms)": 73,
+      "SNI present": true,
+      "SNI length": 19,
+      "Round-trip time (ms)": 32,
+      "SNI": "instagram"
+    }
+  }
+}
+{
+  "UserIP": "2a01:368:1fe:c1f1:face:b00c:3333:a3f",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:57823 UDP": {
+      "RX first timestamp": "2026-04-29T21:28:07.076474396Z",
+      "RX latest timestamp": "2026-04-29T21:28:07.252108879Z",
+      "RX bytes": 16919,
+      "TX bytes": 0,
+      "RX packets": 165,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 1,
+      "RTT (ms)": 87,
+      "SNI present": true,
+      "SNI length": 19,
+      "Round-trip time (ms)": 21,
+      "SNI": "unknown"
+    }
+  }
+}
+{
+  "UserIP": "2a00:1450:400d:811::200a",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:63869 UDP": {
+      "RX first timestamp": "2026-04-29T21:28:08.334451588Z",
+      "RX latest timestamp": "2026-04-29T21:28:08.334451588Z",
+      "RX bytes": 98,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 48,
+      "RTT (ms)": 96,
+      "SNI present": true,
+      "SNI length": 13,
+      "Round-trip time (ms)": 92,
+      "SNI": "unknown"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:192.168.100.26",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.1:53 UDP": {
+      "RX first timestamp": "2026-04-29T21:28:08.067690134Z",
+      "RX latest timestamp": "2026-04-29T21:28:08.072789989Z",
+      "RX bytes": 214,
+      "TX bytes": 0,
+      "RX packets": 2,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 43,
+      "RTT (ms)": 51,
+      "SNI present": true,
+      "SNI length": 17,
+      "Round-trip time (ms)": 84,
+      "SNI": "local"
+    }
+  }
+}
+{
+  "UserIP": "2001:4860:482d:7700::",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:65110 UDP": {
+      "RX first timestamp": "2026-04-29T21:28:07.475901403Z",
+      "RX latest timestamp": "2026-04-29T21:28:07.475901403Z",
+      "RX bytes": 91,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 33,
+      "RTT (ms)": 40,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 69,
+      "SNI": "unknown"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:192.168.100.1",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:61674 UDP": {
+      "RX first timestamp": "2026-04-29T21:28:08.064692310Z",
+      "RX latest timestamp": "2026-04-29T21:28:08.064692310Z",
+      "RX bytes": 85,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 16,
+      "RTT (ms)": 38,
+      "SNI present": true,
+      "SNI length": 17,
+      "Round-trip time (ms)": 44,
+      "SNI": "local"
+    },
+    "::ffff:192.168.100.26:51045 UDP": {
+      "RX first timestamp": "2026-04-29T21:28:08.064484523Z",
+      "RX latest timestamp": "2026-04-29T21:28:08.064484523Z",
+      "RX bytes": 85,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 13,
+      "RTT (ms)": 119,
+      "SNI present": true,
+      "SNI length": 13,
+      "Round-trip time (ms)": 39,
+      "SNI": "local"
+    }
+  }
+}

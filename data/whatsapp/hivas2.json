@@ -1,0 +1,1943 @@
+{
+  "UserIP": "::ffff:31.13.84.48",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:49486 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:28.298793743Z",
+      "RX latest timestamp": "2026-04-29T22:07:42.904726401Z",
+      "RX bytes": 2344,
+      "TX bytes": 0,
+      "RX packets": 12,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 1060,
+      "RTT (ms)": 35,
+      "SNI present": true,
+      "SNI length": 12,
+      "Round-trip time (ms)": 1000,
+      "SNI": "mmg.whatsapp.net"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:34.226.75.103",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:59373 TCP": {
+      "RX first timestamp": "2026-04-29T22:07:13.583344968Z",
+      "RX latest timestamp": "2026-04-29T22:07:43.584304208Z",
+      "RX bytes": 194,
+      "TX bytes": 0,
+      "RX packets": 2,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 82,
+      "RTT (ms)": 69,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 164,
+      "SNI": "web.whatsapp.com"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:40.126.31.130",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:59826 TCP": {
+      "RX first timestamp": "2026-04-29T22:07:38.532755846Z",
+      "RX latest timestamp": "2026-04-29T22:07:38.801840675Z",
+      "RX bytes": 1375,
+      "TX bytes": 0,
+      "RX packets": 10,
+      "TX packets": 0,
+      "RX packet loss": 2,
+      "TX packet loss": 0,
+      "Jitter (ms)": 19,
+      "RTT (ms)": 16,
+      "SNI present": true,
+      "SNI length": 16,
+      "Round-trip time (ms)": 77,
+      "SNI": "edge-mqtt.facebook.com"
+    }
+  }
+}
+{
+  "UserIP": "::",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {}
+}
+{
+  "UserIP": "::ffff:4.231.128.59",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:59827 TCP": {
+      "RX first timestamp": "2026-04-29T22:07:38.848536367Z",
+      "RX latest timestamp": "2026-04-29T22:07:39.147673184Z",
+      "RX bytes": 2366,
+      "TX bytes": 0,
+      "RX packets": 12,
+      "TX packets": 0,
+      "RX packet loss": 2,
+      "TX packet loss": 0,
+      "Jitter (ms)": 14,
+      "RTT (ms)": 126,
+      "SNI present": true,
+      "SNI length": 16,
+      "Round-trip time (ms)": 46,
+      "SNI": "whatsapp.com"
+    },
+    "::ffff:192.168.100.26:59828 TCP": {
+      "RX first timestamp": "2026-04-29T22:07:39.737252204Z",
+      "RX latest timestamp": "2026-04-29T22:07:40.039954609Z",
+      "RX bytes": 1379,
+      "TX bytes": 0,
+      "RX packets": 12,
+      "TX packets": 0,
+      "RX packet loss": 3,
+      "TX packet loss": 0,
+      "Jitter (ms)": 15,
+      "RTT (ms)": 48,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 69,
+      "SNI": "web.whatsapp.com"
+    },
+    "::ffff:192.168.100.26:59829 TCP": {
+      "RX first timestamp": "2026-04-29T22:07:40.790438275Z",
+      "RX latest timestamp": "2026-04-29T22:07:41.075553252Z",
+      "RX bytes": 1962,
+      "TX bytes": 0,
+      "RX packets": 12,
+      "TX packets": 0,
+      "RX packet loss": 2,
+      "TX packet loss": 0,
+      "Jitter (ms)": 14,
+      "RTT (ms)": 78,
+      "SNI present": true,
+      "SNI length": 5,
+      "Round-trip time (ms)": 71,
+      "SNI": "web.whatsapp.com"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:57.144.113.54",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:49486 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:28.298881546Z",
+      "RX latest timestamp": "2026-04-29T22:07:42.904775433Z",
+      "RX bytes": 2344,
+      "TX bytes": 0,
+      "RX packets": 12,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 1064,
+      "RTT (ms)": 41,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 1000,
+      "SNI": "api.whatsapp.com"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:23.209.16.235",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:59823 TCP": {
+      "RX first timestamp": "2026-04-29T22:07:37.901046836Z",
+      "RX latest timestamp": "2026-04-29T22:07:37.937935349Z",
+      "RX bytes": 1233,
+      "TX bytes": 0,
+      "RX packets": 12,
+      "TX packets": 0,
+      "RX packet loss": 2,
+      "TX packet loss": 0,
+      "Jitter (ms)": 2,
+      "RTT (ms)": 105,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 61,
+      "SNI": "api.whatsapp.com"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:77.234.91.227",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:49486 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:28.298637241Z",
+      "RX latest timestamp": "2026-04-29T22:07:42.904663060Z",
+      "RX bytes": 2810,
+      "TX bytes": 0,
+      "RX packets": 19,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 404,
+      "RTT (ms)": 80,
+      "SNI present": true,
+      "SNI length": 16,
+      "Round-trip time (ms)": 637,
+      "SNI": "static.whatsapp.net"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:104.16.56.40",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:59800 TCP": {
+      "RX first timestamp": "2026-04-29T22:07:06.309230845Z",
+      "RX latest timestamp": "2026-04-29T22:07:06.309230845Z",
+      "RX bytes": 55,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 26,
+      "RTT (ms)": 60,
+      "SNI present": true,
+      "SNI length": 5,
+      "Round-trip time (ms)": 71,
+      "SNI": "graph.facebook.com"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:192.168.100.135",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:49486 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:32.735821238Z",
+      "RX latest timestamp": "2026-04-29T22:07:34.649204855Z",
+      "RX bytes": 794,
+      "TX bytes": 0,
+      "RX packets": 9,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 72,
+      "RTT (ms)": 132,
+      "SNI present": true,
+      "SNI length": 5,
+      "Round-trip time (ms)": 162,
+      "SNI": "local"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:192.168.100.1",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:49567 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:47.456548078Z",
+      "RX latest timestamp": "2026-04-29T22:07:47.456548078Z",
+      "RX bytes": 96,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 3,
+      "RTT (ms)": 46,
+      "SNI present": true,
+      "SNI length": 16,
+      "Round-trip time (ms)": 40,
+      "SNI": "static.whatsapp.net"
+    },
+    "::ffff:192.168.100.26:51699 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:38.525172695Z",
+      "RX latest timestamp": "2026-04-29T22:07:38.525172695Z",
+      "RX bytes": 74,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 15,
+      "RTT (ms)": 79,
+      "SNI present": true,
+      "SNI length": 5,
+      "Round-trip time (ms)": 80,
+      "SNI": "static.whatsapp.net"
+    },
+    "::ffff:192.168.100.26:54864 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:42.888499336Z",
+      "RX latest timestamp": "2026-04-29T22:07:42.888499336Z",
+      "RX bytes": 79,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 19,
+      "RTT (ms)": 91,
+      "SNI present": true,
+      "SNI length": 16,
+      "Round-trip time (ms)": 57,
+      "SNI": "local"
+    },
+    "::ffff:192.168.100.26:52918 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:08.376749137Z",
+      "RX latest timestamp": "2026-04-29T22:07:08.376749137Z",
+      "RX bytes": 82,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 9,
+      "RTT (ms)": 60,
+      "SNI present": true,
+      "SNI length": 12,
+      "Round-trip time (ms)": 67,
+      "SNI": "local"
+    },
+    "::ffff:192.168.100.26:49255 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:42.888256742Z",
+      "RX latest timestamp": "2026-04-29T22:07:42.888256742Z",
+      "RX bytes": 79,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 17,
+      "RTT (ms)": 47,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 53,
+      "SNI": "graph.facebook.com"
+    },
+    "::ffff:192.168.100.26:63742 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:38.838756848Z",
+      "RX latest timestamp": "2026-04-29T22:07:38.838756848Z",
+      "RX bytes": 91,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 10,
+      "RTT (ms)": 150,
+      "SNI present": true,
+      "SNI length": 16,
+      "Round-trip time (ms)": 43,
+      "SNI": "local"
+    },
+    "::ffff:192.168.100.26:56779 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:08.342417500Z",
+      "RX latest timestamp": "2026-04-29T22:07:08.342417500Z",
+      "RX bytes": 76,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 48,
+      "RTT (ms)": 76,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 119,
+      "SNI": "static.whatsapp.net"
+    },
+    "::ffff:192.168.100.26:50531 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:38.525013062Z",
+      "RX latest timestamp": "2026-04-29T22:07:38.525013062Z",
+      "RX bytes": 74,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 40,
+      "RTT (ms)": 65,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 84,
+      "SNI": "api.whatsapp.com"
+    },
+    "::ffff:192.168.100.26:56985 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:38.121702287Z",
+      "RX latest timestamp": "2026-04-29T22:07:38.121702287Z",
+      "RX bytes": 85,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 16,
+      "RTT (ms)": 59,
+      "SNI present": true,
+      "SNI length": 16,
+      "Round-trip time (ms)": 53,
+      "SNI": "static.whatsapp.net"
+    },
+    "::ffff:192.168.100.26:50077 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:08.342580216Z",
+      "RX latest timestamp": "2026-04-29T22:07:08.342580216Z",
+      "RX bytes": 76,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 3,
+      "RTT (ms)": 62,
+      "SNI present": true,
+      "SNI length": 16,
+      "Round-trip time (ms)": 24,
+      "SNI": "graph.facebook.com"
+    },
+    "::ffff:192.168.100.26:62823 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:47.456797444Z",
+      "RX latest timestamp": "2026-04-29T22:07:47.456797444Z",
+      "RX bytes": 96,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 15,
+      "RTT (ms)": 91,
+      "SNI present": true,
+      "SNI length": 12,
+      "Round-trip time (ms)": 70,
+      "SNI": "graph.facebook.com"
+    },
+    "::ffff:192.168.100.26:51971 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:08.342730893Z",
+      "RX latest timestamp": "2026-04-29T22:07:08.342730893Z",
+      "RX bytes": 76,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 19,
+      "RTT (ms)": 90,
+      "SNI present": true,
+      "SNI length": 16,
+      "Round-trip time (ms)": 64,
+      "SNI": "static.whatsapp.net"
+    },
+    "::ffff:192.168.100.26:62470 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:38.838927157Z",
+      "RX latest timestamp": "2026-04-29T22:07:38.838927157Z",
+      "RX bytes": 91,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 50,
+      "RTT (ms)": 84,
+      "SNI present": true,
+      "SNI length": 5,
+      "Round-trip time (ms)": 115,
+      "SNI": "local"
+    },
+    "::ffff:192.168.100.26:60737 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:38.121898039Z",
+      "RX latest timestamp": "2026-04-29T22:07:38.121898039Z",
+      "RX bytes": 85,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 24,
+      "RTT (ms)": 94,
+      "SNI present": true,
+      "SNI length": 16,
+      "Round-trip time (ms)": 83,
+      "SNI": "static.whatsapp.net"
+    },
+    "::ffff:192.168.100.26:49736 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:08.376559827Z",
+      "RX latest timestamp": "2026-04-29T22:07:08.376559827Z",
+      "RX bytes": 82,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 29,
+      "RTT (ms)": 107,
+      "SNI present": true,
+      "SNI length": 5,
+      "Round-trip time (ms)": 76,
+      "SNI": "static.whatsapp.net"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:192.168.100.26",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:4.231.128.59:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:07:38.888005572Z",
+      "RX latest timestamp": "2026-04-29T22:07:41.075548063Z",
+      "RX bytes": 14814,
+      "TX bytes": 0,
+      "RX packets": 33,
+      "TX packets": 0,
+      "RX packet loss": 10,
+      "TX packet loss": 0,
+      "Jitter (ms)": 105,
+      "RTT (ms)": 41,
+      "SNI present": true,
+      "SNI length": 12,
+      "Round-trip time (ms)": 198,
+      "SNI": "unknown"
+    },
+    "::ffff:57.144.113.54:3478 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:28.316090939Z",
+      "RX latest timestamp": "2026-04-29T22:07:42.346340276Z",
+      "RX bytes": 962,
+      "TX bytes": 0,
+      "RX packets": 11,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 968,
+      "RTT (ms)": 59,
+      "SNI present": true,
+      "SNI length": 12,
+      "Round-trip time (ms)": 1000,
+      "SNI": "unknown"
+    },
+    "::ffff:40.126.31.130:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:07:38.572434127Z",
+      "RX latest timestamp": "2026-04-29T22:07:38.801813228Z",
+      "RX bytes": 16085,
+      "TX bytes": 0,
+      "RX packets": 16,
+      "TX packets": 0,
+      "RX packet loss": 5,
+      "TX packet loss": 0,
+      "Jitter (ms)": 8,
+      "RTT (ms)": 94,
+      "SNI present": true,
+      "SNI length": 12,
+      "Round-trip time (ms)": 59,
+      "SNI": "unknown"
+    },
+    "::ffff:104.18.157.37:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:07:06.063890809Z",
+      "RX latest timestamp": "2026-04-29T22:07:06.063890809Z",
+      "RX bytes": 66,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 21,
+      "RTT (ms)": 69,
+      "SNI present": true,
+      "SNI length": 12,
+      "Round-trip time (ms)": 72,
+      "SNI": "graph.facebook.com"
+    },
+    "::ffff:172.64.151.57:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:07:05.696715931Z",
+      "RX latest timestamp": "2026-04-29T22:07:05.696715931Z",
+      "RX bytes": 66,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 1,
+      "RTT (ms)": 67,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 61,
+      "SNI": "edge-mqtt.facebook.com"
+    },
+    "::ffff:192.168.100.1:53 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:08.346166679Z",
+      "RX latest timestamp": "2026-04-29T22:07:47.464923298Z",
+      "RX bytes": 3036,
+      "TX bytes": 0,
+      "RX packets": 15,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 3195,
+      "RTT (ms)": 121,
+      "SNI present": true,
+      "SNI length": 12,
+      "Round-trip time (ms)": 1000,
+      "SNI": "local"
+    },
+    "::ffff:199.232.169.140:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:07:06.526774681Z",
+      "RX latest timestamp": "2026-04-29T22:07:06.526774681Z",
+      "RX bytes": 66,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 29,
+      "RTT (ms)": 101,
+      "SNI present": true,
+      "SNI length": 16,
+      "Round-trip time (ms)": 73,
+      "SNI": "whatsapp.com"
+    },
+    "::ffff:34.226.75.103:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:07:13.582759016Z",
+      "RX latest timestamp": "2026-04-29T22:07:43.677699201Z",
+      "RX bytes": 308,
+      "TX bytes": 0,
+      "RX packets": 4,
+      "TX packets": 0,
+      "RX packet loss": 1,
+      "TX packet loss": 0,
+      "Jitter (ms)": 3610,
+      "RTT (ms)": 36,
+      "SNI present": true,
+      "SNI length": 16,
+      "Round-trip time (ms)": 1000,
+      "SNI": "static.whatsapp.net"
+    },
+    "::ffff:31.13.84.48:3478 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:28.305633285Z",
+      "RX latest timestamp": "2026-04-29T22:07:42.334946963Z",
+      "RX bytes": 962,
+      "TX bytes": 0,
+      "RX packets": 11,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 969,
+      "RTT (ms)": 88,
+      "SNI present": true,
+      "SNI length": 12,
+      "Round-trip time (ms)": 1000,
+      "SNI": "unknown"
+    },
+    "::ffff:192.168.100.135:52519 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:32.701669990Z",
+      "RX latest timestamp": "2026-04-29T22:07:35.714716358Z",
+      "RX bytes": 4242,
+      "TX bytes": 0,
+      "RX packets": 47,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 46,
+      "RTT (ms)": 119,
+      "SNI present": true,
+      "SNI length": 5,
+      "Round-trip time (ms)": 125,
+      "SNI": "whatsapp.com"
+    },
+    "::ffff:23.209.16.235:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:07:37.907998122Z",
+      "RX latest timestamp": "2026-04-29T22:07:37.981684454Z",
+      "RX bytes": 4927,
+      "TX bytes": 0,
+      "RX packets": 12,
+      "TX packets": 0,
+      "RX packet loss": 2,
+      "TX packet loss": 0,
+      "Jitter (ms)": 4,
+      "RTT (ms)": 138,
+      "SNI present": true,
+      "SNI length": 12,
+      "Round-trip time (ms)": 46,
+      "SNI": "unknown"
+    },
+    "::ffff:77.234.91.227:3478 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:28.302287394Z",
+      "RX latest timestamp": "2026-04-29T22:07:42.872223606Z",
+      "RX bytes": 11205,
+      "TX bytes": 0,
+      "RX packets": 73,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 86,
+      "RTT (ms)": 58,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 159,
+      "SNI": "unknown"
+    },
+    "::ffff:104.16.56.40:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:07:06.311071638Z",
+      "RX latest timestamp": "2026-04-29T22:07:06.311071638Z",
+      "RX bytes": 66,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 39,
+      "RTT (ms)": 107,
+      "SNI present": true,
+      "SNI length": 12,
+      "Round-trip time (ms)": 98,
+      "SNI": "whatsapp.com"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:199.232.169.140",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:59740 TCP": {
+      "RX first timestamp": "2026-04-29T22:07:06.503234744Z",
+      "RX latest timestamp": "2026-04-29T22:07:06.503234744Z",
+      "RX bytes": 55,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 36,
+      "RTT (ms)": 43,
+      "SNI present": true,
+      "SNI length": 16,
+      "Round-trip time (ms)": 90,
+      "SNI": "static.whatsapp.net"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:172.64.151.57",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:59791 TCP": {
+      "RX first timestamp": "2026-04-29T22:07:05.694835774Z",
+      "RX latest timestamp": "2026-04-29T22:07:05.694835774Z",
+      "RX bytes": 55,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 48,
+      "RTT (ms)": 101,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 111,
+      "SNI": "api.whatsapp.com"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:224.0.0.251",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.135:5353 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:14.759628376Z",
+      "RX latest timestamp": "2026-04-29T22:07:18.765565446Z",
+      "RX bytes": 321,
+      "TX bytes": 0,
+      "RX packets": 3,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 0,
+      "RTT (ms)": 121,
+      "SNI present": true,
+      "SNI length": 16,
+      "Round-trip time (ms)": 67,
+      "SNI": "graph.facebook.com"
+    },
+    "::ffff:192.168.100.177:5353 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:02.821015365Z",
+      "RX latest timestamp": "2026-04-29T22:07:21.310673811Z",
+      "RX bytes": 400,
+      "TX bytes": 0,
+      "RX packets": 4,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 1873,
+      "RTT (ms)": 75,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 1000,
+      "SNI": "local"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:239.255.255.250",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.1:52700 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:40.856389603Z",
+      "RX latest timestamp": "2026-04-29T22:07:42.676899502Z",
+      "RX bytes": 698,
+      "TX bytes": 0,
+      "RX packets": 4,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 125,
+      "RTT (ms)": 112,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 220,
+      "SNI": "local"
+    }
+  }
+}
+{
+  "UserIP": "2603:1026:3000:150::5",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:59825 TCP": {
+      "RX first timestamp": "2026-04-29T22:07:38.134136262Z",
+      "RX latest timestamp": "2026-04-29T22:07:38.420991716Z",
+      "RX bytes": 5082,
+      "TX bytes": 0,
+      "RX packets": 14,
+      "TX packets": 0,
+      "RX packet loss": 3,
+      "TX packet loss": 0,
+      "Jitter (ms)": 9,
+      "RTT (ms)": 107,
+      "SNI present": true,
+      "SNI length": 5,
+      "Round-trip time (ms)": 37,
+      "SNI": "edge-mqtt.facebook.com"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:104.18.157.37",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:59788 TCP": {
+      "RX first timestamp": "2026-04-29T22:07:06.061940137Z",
+      "RX latest timestamp": "2026-04-29T22:07:06.061940137Z",
+      "RX bytes": 55,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 41,
+      "RTT (ms)": 49,
+      "SNI present": true,
+      "SNI length": 12,
+      "Round-trip time (ms)": 106,
+      "SNI": "mmg.whatsapp.net"
+    }
+  }
+}
+{
+  "UserIP": "2a00:1450:4001:c21::54",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:50221 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:42.899496190Z",
+      "RX latest timestamp": "2026-04-29T22:07:43.656860426Z",
+      "RX bytes": 8450,
+      "TX bytes": 0,
+      "RX packets": 16,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 73,
+      "RTT (ms)": 46,
+      "SNI present": true,
+      "SNI length": 16,
+      "Round-trip time (ms)": 160,
+      "SNI": "static.whatsapp.net"
+    }
+  }
+}
+{
+  "UserIP": "2a00:1450:400c:c0b::bc",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58240 TCP": {
+      "RX first timestamp": "2026-04-29T22:07:14.043316697Z",
+      "RX latest timestamp": "2026-04-29T22:07:14.043316697Z",
+      "RX bytes": 75,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 19,
+      "RTT (ms)": 88,
+      "SNI present": true,
+      "SNI length": 5,
+      "Round-trip time (ms)": 79,
+      "SNI": "edge-mqtt.facebook.com"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:255.255.255.255",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:62751 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:31.534593964Z",
+      "RX latest timestamp": "2026-04-29T22:07:31.534593964Z",
+      "RX bytes": 166,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 43,
+      "RTT (ms)": 33,
+      "SNI present": true,
+      "SNI length": 5,
+      "Round-trip time (ms)": 93,
+      "SNI": "static.whatsapp.net"
+    },
+    "::ffff:192.168.100.26:62750 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:31.534602635Z",
+      "RX latest timestamp": "2026-04-29T22:07:31.534602635Z",
+      "RX bytes": 166,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 38,
+      "RTT (ms)": 62,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 78,
+      "SNI": "api.whatsapp.com"
+    }
+  }
+}
+{
+  "UserIP": "2a00:1450:400d:802::2003",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:59782 TCP": {
+      "RX first timestamp": "2026-04-29T22:07:03.946427566Z",
+      "RX latest timestamp": "2026-04-29T22:07:03.948364792Z",
+      "RX bytes": 148,
+      "TX bytes": 0,
+      "RX packets": 2,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 13,
+      "RTT (ms)": 71,
+      "SNI present": true,
+      "SNI length": 12,
+      "Round-trip time (ms)": 71,
+      "SNI": "static.whatsapp.net"
+    }
+  }
+}
+{
+  "UserIP": "2a00:1450:400d:803::200e",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58452 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:20.678266372Z",
+      "RX latest timestamp": "2026-04-29T22:07:20.806048962Z",
+      "RX bytes": 17096,
+      "TX bytes": 0,
+      "RX packets": 22,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 4,
+      "RTT (ms)": 56,
+      "SNI present": true,
+      "SNI length": 12,
+      "Round-trip time (ms)": 52,
+      "SNI": "mmg.whatsapp.net"
+    }
+  }
+}
+{
+  "UserIP": "2a00:1450:400d:808::200a",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:56284 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:02.530775943Z",
+      "RX latest timestamp": "2026-04-29T22:07:43.282028471Z",
+      "RX bytes": 855,
+      "TX bytes": 0,
+      "RX packets": 9,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 1004,
+      "RTT (ms)": 34,
+      "SNI present": true,
+      "SNI length": 16,
+      "Round-trip time (ms)": 1000,
+      "SNI": "graph.facebook.com"
+    }
+  }
+}
+{
+  "UserIP": "2a00:1450:400d:80b::2003",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:52770 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:20.810012817Z",
+      "RX latest timestamp": "2026-04-29T22:07:20.863755266Z",
+      "RX bytes": 8809,
+      "TX bytes": 0,
+      "RX packets": 13,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 3,
+      "RTT (ms)": 96,
+      "SNI present": true,
+      "SNI length": 5,
+      "Round-trip time (ms)": 51,
+      "SNI": "whatsapp.com"
+    },
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:59780 TCP": {
+      "RX first timestamp": "2026-04-29T22:07:10.245343916Z",
+      "RX latest timestamp": "2026-04-29T22:07:10.247465046Z",
+      "RX bytes": 148,
+      "TX bytes": 0,
+      "RX packets": 2,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 3,
+      "RTT (ms)": 111,
+      "SNI present": true,
+      "SNI length": 5,
+      "Round-trip time (ms)": 25,
+      "SNI": "unknown"
+    }
+  }
+}
+{
+  "UserIP": "2a00:1450:400d:80b::200a",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:56021 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:47.466122837Z",
+      "RX latest timestamp": "2026-04-29T22:07:47.625431547Z",
+      "RX bytes": 9984,
+      "TX bytes": 0,
+      "RX packets": 15,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 12,
+      "RTT (ms)": 63,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 61,
+      "SNI": "graph.facebook.com"
+    },
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:54434 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:47.630634590Z",
+      "RX latest timestamp": "2026-04-29T22:07:47.898547615Z",
+      "RX bytes": 12808,
+      "TX bytes": 0,
+      "RX packets": 19,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 28,
+      "RTT (ms)": 144,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 100,
+      "SNI": "api.whatsapp.com"
+    }
+  }
+}
+{
+  "UserIP": "2a00:1450:400d:808::200e",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58495 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:24.413469120Z",
+      "RX latest timestamp": "2026-04-29T22:07:47.499183248Z",
+      "RX bytes": 12101,
+      "TX bytes": 0,
+      "RX packets": 19,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 2148,
+      "RTT (ms)": 13,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 1000,
+      "SNI": "whatsapp.com"
+    }
+  }
+}
+{
+  "UserIP": "2a00:1450:400d:812::2003",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:58427 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:32.406353187Z",
+      "RX latest timestamp": "2026-04-29T22:07:32.453812458Z",
+      "RX bytes": 5494,
+      "TX bytes": 0,
+      "RX packets": 9,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 3,
+      "RTT (ms)": 73,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 43,
+      "SNI": "api.whatsapp.com"
+    }
+  }
+}
+{
+  "UserIP": "2a01:368:1fe:703::5b53:e4b",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:59815 TCP": {
+      "RX first timestamp": "2026-04-29T22:07:44.122973695Z",
+      "RX latest timestamp": "2026-04-29T22:07:44.122973695Z",
+      "RX bytes": 75,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 43,
+      "RTT (ms)": 69,
+      "SNI present": true,
+      "SNI length": 5,
+      "Round-trip time (ms)": 120,
+      "SNI": "api.whatsapp.com"
+    }
+  }
+}
+{
+  "UserIP": "2a01:368:1fe:c2f1:face:b00c:3333:4df0",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:49486 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:28.298982971Z",
+      "RX latest timestamp": "2026-04-29T22:07:28.298982971Z",
+      "RX bytes": 82,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 30,
+      "RTT (ms)": 35,
+      "SNI present": true,
+      "SNI length": 12,
+      "Round-trip time (ms)": 80,
+      "SNI": "mmg.whatsapp.net"
+    }
+  }
+}
+{
+  "UserIP": "2a03:2880:f007:1:face:b00c:0:1",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:59670 TCP": {
+      "RX first timestamp": "2026-04-29T22:07:04.406315930Z",
+      "RX latest timestamp": "2026-04-29T22:07:36.470962969Z",
+      "RX bytes": 540,
+      "TX bytes": 0,
+      "RX packets": 6,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 3601,
+      "RTT (ms)": 32,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 1000,
+      "SNI": "edge-mqtt.facebook.com"
+    },
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:59669 TCP": {
+      "RX first timestamp": "2026-04-29T22:07:04.406266050Z",
+      "RX latest timestamp": "2026-04-29T22:07:36.469924287Z",
+      "RX bytes": 540,
+      "TX bytes": 0,
+      "RX packets": 6,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 3601,
+      "RTT (ms)": 128,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 1000,
+      "SNI": "edge-mqtt.facebook.com"
+    }
+  }
+}
+{
+  "UserIP": "2a01:36d:111:61dd:55a:c321:f8e6:863d",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a03:2880:f207:c5:face:b00c:0:167:443 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:25.028372384Z",
+      "RX latest timestamp": "2026-04-29T22:07:29.186167807Z",
+      "RX bytes": 12671,
+      "TX bytes": 0,
+      "RX packets": 24,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 338,
+      "RTT (ms)": 67,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 544,
+      "SNI": "graph.facebook.com"
+    },
+    "2a00:1450:400c:c0b::bc:5228 TCP": {
+      "RX first timestamp": "2026-04-29T22:07:14.065492128Z",
+      "RX latest timestamp": "2026-04-29T22:07:14.065492128Z",
+      "RX bytes": 86,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 19,
+      "RTT (ms)": 56,
+      "SNI present": true,
+      "SNI length": 5,
+      "Round-trip time (ms)": 60,
+      "SNI": "graph.facebook.com"
+    },
+    "2a03:2880:f007:1:face:b00c:0:1:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:07:04.442617280Z",
+      "RX latest timestamp": "2026-04-29T22:07:36.430376366Z",
+      "RX bytes": 612,
+      "TX bytes": 0,
+      "RX packets": 6,
+      "TX packets": 0,
+      "RX packet loss": 3,
+      "TX packet loss": 0,
+      "Jitter (ms)": 3638,
+      "RTT (ms)": 92,
+      "SNI present": true,
+      "SNI length": 5,
+      "Round-trip time (ms)": 1000,
+      "SNI": "whatsapp.com"
+    },
+    "2a00:1450:400d:808::200e:443 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:24.416737922Z",
+      "RX latest timestamp": "2026-04-29T22:07:47.526631631Z",
+      "RX bytes": 8697,
+      "TX bytes": 0,
+      "RX packets": 20,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 2150,
+      "RTT (ms)": 45,
+      "SNI present": true,
+      "SNI length": 16,
+      "Round-trip time (ms)": 1000,
+      "SNI": "unknown"
+    },
+    "2a02:26f0:f700:9::58dd:5c2a:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:07:37.908003239Z",
+      "RX latest timestamp": "2026-04-29T22:07:38.007845801Z",
+      "RX bytes": 8091,
+      "TX bytes": 0,
+      "RX packets": 13,
+      "TX packets": 0,
+      "RX packet loss": 3,
+      "TX packet loss": 0,
+      "Jitter (ms)": 9,
+      "RTT (ms)": 29,
+      "SNI present": true,
+      "SNI length": 12,
+      "Round-trip time (ms)": 69,
+      "SNI": "graph.facebook.com"
+    },
+    "2a01:368:1fe:703::5b53:e4b:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:07:44.125085651Z",
+      "RX latest timestamp": "2026-04-29T22:07:44.125085651Z",
+      "RX bytes": 86,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 25,
+      "RTT (ms)": 112,
+      "SNI present": true,
+      "SNI length": 12,
+      "Round-trip time (ms)": 84,
+      "SNI": "whatsapp.com"
+    },
+    "2a03:2880:f330:136:face:b00c:0:b1:3478 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:28.314380455Z",
+      "RX latest timestamp": "2026-04-29T22:07:28.314380455Z",
+      "RX bytes": 82,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 45,
+      "RTT (ms)": 82,
+      "SNI present": true,
+      "SNI length": 12,
+      "Round-trip time (ms)": 117,
+      "SNI": "unknown"
+    },
+    "2a00:1450:400d:80b::2003:443 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:20.812150024Z",
+      "RX latest timestamp": "2026-04-29T22:07:20.863546046Z",
+      "RX bytes": 9177,
+      "TX bytes": 0,
+      "RX packets": 15,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 3,
+      "RTT (ms)": 70,
+      "SNI present": true,
+      "SNI length": 5,
+      "Round-trip time (ms)": 41,
+      "SNI": "whatsapp.com"
+    },
+    "2a00:1450:400d:803::200e:443 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:20.680527677Z",
+      "RX latest timestamp": "2026-04-29T22:07:20.833672819Z",
+      "RX bytes": 11929,
+      "TX bytes": 0,
+      "RX packets": 22,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 13,
+      "RTT (ms)": 57,
+      "SNI present": true,
+      "SNI length": 5,
+      "Round-trip time (ms)": 69,
+      "SNI": "unknown"
+    },
+    "2a03:2880:f207:c5:face:b00c:0:167:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:07:00.602286005Z",
+      "RX latest timestamp": "2026-04-29T22:07:51.040775018Z",
+      "RX bytes": 34201,
+      "TX bytes": 0,
+      "RX packets": 156,
+      "TX packets": 0,
+      "RX packet loss": 43,
+      "TX packet loss": 0,
+      "Jitter (ms)": 552,
+      "RTT (ms)": 100,
+      "SNI present": true,
+      "SNI length": 16,
+      "Round-trip time (ms)": 886,
+      "SNI": "web.whatsapp.com"
+    },
+    "2a00:1450:4001:c21::54:443 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:42.915909849Z",
+      "RX latest timestamp": "2026-04-29T22:07:43.671504884Z",
+      "RX bytes": 8571,
+      "TX bytes": 0,
+      "RX packets": 19,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 65,
+      "RTT (ms)": 64,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 140,
+      "SNI": "graph.facebook.com"
+    },
+    "2a00:1450:400d:80b::2003:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:07:10.245165148Z",
+      "RX latest timestamp": "2026-04-29T22:07:10.247427500Z",
+      "RX bytes": 221,
+      "TX bytes": 0,
+      "RX packets": 2,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 46,
+      "RTT (ms)": 98,
+      "SNI present": true,
+      "SNI length": 12,
+      "Round-trip time (ms)": 124,
+      "SNI": "whatsapp.com"
+    },
+    "2a00:1450:400d:80b::200a:443 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:47.468368575Z",
+      "RX latest timestamp": "2026-04-29T22:07:47.899763148Z",
+      "RX bytes": 22092,
+      "TX bytes": 0,
+      "RX packets": 35,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 28,
+      "RTT (ms)": 56,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 90,
+      "SNI": "graph.facebook.com"
+    },
+    "2603:1026:3000:150::5:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:07:38.167676488Z",
+      "RX latest timestamp": "2026-04-29T22:07:38.374218579Z",
+      "RX bytes": 6975,
+      "TX bytes": 0,
+      "RX packets": 12,
+      "TX packets": 0,
+      "RX packet loss": 3,
+      "TX packet loss": 0,
+      "Jitter (ms)": 18,
+      "RTT (ms)": 100,
+      "SNI present": true,
+      "SNI length": 5,
+      "Round-trip time (ms)": 51,
+      "SNI": "graph.facebook.com"
+    },
+    "2a03:2880:f007:7:face:b00c:0:6206:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:07:02.429779096Z",
+      "RX latest timestamp": "2026-04-29T22:07:49.499750415Z",
+      "RX bytes": 18455,
+      "TX bytes": 0,
+      "RX packets": 40,
+      "TX packets": 0,
+      "RX packet loss": 14,
+      "TX packet loss": 0,
+      "Jitter (ms)": 1940,
+      "RTT (ms)": 71,
+      "SNI present": true,
+      "SNI length": 5,
+      "Round-trip time (ms)": 1000,
+      "SNI": "edge-mqtt.facebook.com"
+    },
+    "2a00:1450:400d:808::200a:443 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:02.528440185Z",
+      "RX latest timestamp": "2026-04-29T22:07:43.278280634Z",
+      "RX bytes": 1277,
+      "TX bytes": 0,
+      "RX packets": 9,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 1006,
+      "RTT (ms)": 104,
+      "SNI present": true,
+      "SNI length": 16,
+      "Round-trip time (ms)": 1000,
+      "SNI": "graph.facebook.com"
+    },
+    "2a00:1450:400d:812::2003:443 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:32.408633505Z",
+      "RX latest timestamp": "2026-04-29T22:07:32.455883479Z",
+      "RX bytes": 6402,
+      "TX bytes": 0,
+      "RX packets": 12,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 3,
+      "RTT (ms)": 113,
+      "SNI present": true,
+      "SNI length": 5,
+      "Round-trip time (ms)": 24,
+      "SNI": "unknown"
+    },
+    "2a03:2880:f207:c3:face:b00c:0:177:3478 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:28.304551210Z",
+      "RX latest timestamp": "2026-04-29T22:07:28.304551210Z",
+      "RX bytes": 82,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 9,
+      "RTT (ms)": 108,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 47,
+      "SNI": "whatsapp.com"
+    },
+    "2a01:368:1fe:c2f1:face:b00c:3333:4df0:3478 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:28.301338161Z",
+      "RX latest timestamp": "2026-04-29T22:07:28.301338161Z",
+      "RX bytes": 82,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 2,
+      "RTT (ms)": 96,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 27,
+      "SNI": "web.whatsapp.com"
+    },
+    "2a00:1450:400d:802::2003:443 TCP": {
+      "RX first timestamp": "2026-04-29T22:07:03.946198241Z",
+      "RX latest timestamp": "2026-04-29T22:07:03.948328442Z",
+      "RX bytes": 221,
+      "TX bytes": 0,
+      "RX packets": 2,
+      "TX packets": 0,
+      "RX packet loss": 1,
+      "TX packet loss": 0,
+      "Jitter (ms)": 49,
+      "RTT (ms)": 76,
+      "SNI present": true,
+      "SNI length": 5,
+      "Round-trip time (ms)": 124,
+      "SNI": "mmg.whatsapp.net"
+    }
+  }
+}
+{
+  "UserIP": "2a03:2880:f207:c5:face:b00c:0:167",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:59822 TCP": {
+      "RX first timestamp": "2026-04-29T22:07:08.386751593Z",
+      "RX latest timestamp": "2026-04-29T22:07:08.538830024Z",
+      "RX bytes": 1438,
+      "TX bytes": 0,
+      "RX packets": 10,
+      "TX packets": 0,
+      "RX packet loss": 2,
+      "TX packet loss": 0,
+      "Jitter (ms)": 13,
+      "RTT (ms)": 109,
+      "SNI present": true,
+      "SNI length": 5,
+      "Round-trip time (ms)": 67,
+      "SNI": "mmg.whatsapp.net"
+    },
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:59821 TCP": {
+      "RX first timestamp": "2026-04-29T22:07:08.352068707Z",
+      "RX latest timestamp": "2026-04-29T22:07:46.868690933Z",
+      "RX bytes": 19378,
+      "TX bytes": 0,
+      "RX packets": 57,
+      "TX packets": 0,
+      "RX packet loss": 15,
+      "TX packet loss": 0,
+      "Jitter (ms)": 1078,
+      "RTT (ms)": 64,
+      "SNI present": true,
+      "SNI length": 16,
+      "Round-trip time (ms)": 1000,
+      "SNI": "edge-mqtt.facebook.com"
+    },
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:59820 TCP": {
+      "RX first timestamp": "2026-04-29T22:07:40.329732315Z",
+      "RX latest timestamp": "2026-04-29T22:07:45.277456601Z",
+      "RX bytes": 222,
+      "TX bytes": 0,
+      "RX packets": 3,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 309,
+      "RTT (ms)": 94,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 492,
+      "SNI": "unknown"
+    },
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:59747 TCP": {
+      "RX first timestamp": "2026-04-29T22:07:00.556210608Z",
+      "RX latest timestamp": "2026-04-29T22:07:48.930797840Z",
+      "RX bytes": 13394,
+      "TX bytes": 0,
+      "RX packets": 64,
+      "TX packets": 0,
+      "RX packet loss": 17,
+      "TX packet loss": 0,
+      "Jitter (ms)": 1034,
+      "RTT (ms)": 57,
+      "SNI present": true,
+      "SNI length": 16,
+      "Round-trip time (ms)": 1000,
+      "SNI": "static.whatsapp.net"
+    },
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:51901 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:25.020976764Z",
+      "RX latest timestamp": "2026-04-29T22:07:29.155175767Z",
+      "RX bytes": 10855,
+      "TX bytes": 0,
+      "RX packets": 20,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 333,
+      "RTT (ms)": 121,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 536,
+      "SNI": "web.whatsapp.com"
+    }
+  }
+}
+{
+  "UserIP": "ff02::c",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "fe80::1:33871 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:40.336476857Z",
+      "RX latest timestamp": "2026-04-29T22:07:42.156471217Z",
+      "RX bytes": 754,
+      "TX bytes": 0,
+      "RX packets": 4,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 125,
+      "RTT (ms)": 83,
+      "SNI present": true,
+      "SNI length": 5,
+      "Round-trip time (ms)": 230,
+      "SNI": "web.whatsapp.com"
+    }
+  }
+}
+{
+  "UserIP": "ff02::fb",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "fe80::d82e:39ff:febe:25d1:5353 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:14.759913587Z",
+      "RX latest timestamp": "2026-04-29T22:07:18.765942116Z",
+      "RX bytes": 381,
+      "TX bytes": 0,
+      "RX packets": 3,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 0,
+      "RTT (ms)": 123,
+      "SNI present": true,
+      "SNI length": 12,
+      "Round-trip time (ms)": 52,
+      "SNI": "api.whatsapp.com"
+    },
+    "fe80::e812:daff:fecc:f4e9:5353 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:01.120544375Z",
+      "RX latest timestamp": "2026-04-29T22:07:01.120544375Z",
+      "RX bytes": 107,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 8,
+      "RTT (ms)": 45,
+      "SNI present": true,
+      "SNI length": 12,
+      "Round-trip time (ms)": 57,
+      "SNI": "unknown"
+    },
+    "fe80::1892:3243:68bb:a762:5353 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:02.821363065Z",
+      "RX latest timestamp": "2026-04-29T22:07:21.311050548Z",
+      "RX bytes": 480,
+      "TX bytes": 0,
+      "RX packets": 4,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 1873,
+      "RTT (ms)": 33,
+      "SNI present": true,
+      "SNI length": 16,
+      "Round-trip time (ms)": 1000,
+      "SNI": "api.whatsapp.com"
+    }
+  }
+}
+{
+  "UserIP": "2a02:26f0:f700:9::58dd:5c2a",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:59824 TCP": {
+      "RX first timestamp": "2026-04-29T22:07:37.902661573Z",
+      "RX latest timestamp": "2026-04-29T22:07:38.007863587Z",
+      "RX bytes": 3163,
+      "TX bytes": 0,
+      "RX packets": 17,
+      "TX packets": 0,
+      "RX packet loss": 2,
+      "TX packet loss": 0,
+      "Jitter (ms)": 10,
+      "RTT (ms)": 74,
+      "SNI present": true,
+      "SNI length": 12,
+      "Round-trip time (ms)": 74,
+      "SNI": "static.whatsapp.net"
+    }
+  }
+}
+{
+  "UserIP": "ff05::c",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "fe80::1:33871 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:39.816383640Z",
+      "RX latest timestamp": "2026-04-29T22:07:41.636221155Z",
+      "RX bytes": 754,
+      "TX bytes": 0,
+      "RX packets": 4,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 126,
+      "RTT (ms)": 130,
+      "SNI present": true,
+      "SNI length": 16,
+      "Round-trip time (ms)": 234,
+      "SNI": "api.whatsapp.com"
+    }
+  }
+}
+{
+  "UserIP": "2a03:2880:f007:7:face:b00c:0:6206",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:59029 TCP": {
+      "RX first timestamp": "2026-04-29T22:07:05.500924745Z",
+      "RX latest timestamp": "2026-04-29T22:07:49.549790206Z",
+      "RX bytes": 892,
+      "TX bytes": 0,
+      "RX packets": 10,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 4325,
+      "RTT (ms)": 50,
+      "SNI present": true,
+      "SNI length": 16,
+      "Round-trip time (ms)": 1000,
+      "SNI": "web.whatsapp.com"
+    },
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:59031 TCP": {
+      "RX first timestamp": "2026-04-29T22:07:02.393174431Z",
+      "RX latest timestamp": "2026-04-29T22:07:48.488199138Z",
+      "RX bytes": 3044,
+      "TX bytes": 0,
+      "RX packets": 19,
+      "TX packets": 0,
+      "RX packet loss": 1,
+      "TX packet loss": 0,
+      "Jitter (ms)": 4456,
+      "RTT (ms)": 45,
+      "SNI present": true,
+      "SNI length": 16,
+      "Round-trip time (ms)": 1000,
+      "SNI": "edge-mqtt.facebook.com"
+    },
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:59027 TCP": {
+      "RX first timestamp": "2026-04-29T22:07:09.395856453Z",
+      "RX latest timestamp": "2026-04-29T22:07:42.499388399Z",
+      "RX bytes": 708,
+      "TX bytes": 0,
+      "RX packets": 8,
+      "TX packets": 0,
+      "RX packet loss": 1,
+      "TX packet loss": 0,
+      "Jitter (ms)": 3477,
+      "RTT (ms)": 83,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 1000,
+      "SNI": "api.whatsapp.com"
+    }
+  }
+}
+{
+  "UserIP": "2a03:2880:f207:c3:face:b00c:0:177",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:49486 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:28.299068704Z",
+      "RX latest timestamp": "2026-04-29T22:07:28.299068704Z",
+      "RX bytes": 82,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 1,
+      "RTT (ms)": 128,
+      "SNI present": true,
+      "SNI length": 12,
+      "Round-trip time (ms)": 58,
+      "SNI": "api.whatsapp.com"
+    }
+  }
+}
+{
+  "UserIP": "2a03:2880:f330:136:face:b00c:0:b1",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:55a:c321:f8e6:863d:49486 UDP": {
+      "RX first timestamp": "2026-04-29T22:07:28.299170215Z",
+      "RX latest timestamp": "2026-04-29T22:07:28.299170215Z",
+      "RX bytes": 82,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 28,
+      "RTT (ms)": 51,
+      "SNI present": true,
+      "SNI length": 5,
+      "Round-trip time (ms)": 91,
+      "SNI": "whatsapp.com"
+    }
+  }
+}

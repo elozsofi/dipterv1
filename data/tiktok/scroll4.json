@@ -1,0 +1,404 @@
+{
+  "UserIP": "::ffff:156.146.40.27",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:50106 TCP": {
+      "RX first timestamp": "2026-04-29T21:59:04.817367685Z",
+      "RX latest timestamp": "2026-04-29T21:59:06.227045820Z",
+      "RX bytes": 2700,
+      "TX bytes": 0,
+      "RX packets": 50,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 57,
+      "RTT (ms)": 50,
+      "SNI present": true,
+      "SNI length": 10,
+      "Round-trip time (ms)": 127,
+      "SNI": "pull-hls-l1.tiktokcdn.com"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:224.0.0.252",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.15:51676 UDP": {
+      "RX first timestamp": "2026-04-29T21:59:04.903266943Z",
+      "RX latest timestamp": "2026-04-29T21:59:04.903266943Z",
+      "RX bytes": 75,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 10,
+      "RTT (ms)": 91,
+      "SNI present": true,
+      "SNI length": 14,
+      "Round-trip time (ms)": 67,
+      "SNI": "api.tiktokv.com"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:192.168.100.26",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:156.146.40.27:443 TCP": {
+      "RX first timestamp": "2026-04-29T21:59:04.817342680Z",
+      "RX latest timestamp": "2026-04-29T21:59:06.227027939Z",
+      "RX bytes": 194168,
+      "TX bytes": 0,
+      "RX packets": 139,
+      "TX packets": 0,
+      "RX packet loss": 70,
+      "TX packet loss": 0,
+      "Jitter (ms)": 18,
+      "RTT (ms)": 78,
+      "SNI present": true,
+      "SNI length": 10,
+      "Round-trip time (ms)": 59,
+      "SNI": "unknown"
+    },
+    "::ffff:2.23.154.145:443 TCP": {
+      "RX first timestamp": "2026-04-29T21:59:05.796458541Z",
+      "RX latest timestamp": "2026-04-29T21:59:06.077765838Z",
+      "RX bytes": 2622,
+      "TX bytes": 0,
+      "RX packets": 11,
+      "TX packets": 0,
+      "RX packet loss": 2,
+      "TX packet loss": 0,
+      "Jitter (ms)": 29,
+      "RTT (ms)": 98,
+      "SNI present": true,
+      "SNI length": 10,
+      "Round-trip time (ms)": 79,
+      "SNI": "unknown"
+    },
+    "::ffff:37.19.194.229:443 TCP": {
+      "RX first timestamp": "2026-04-29T21:59:06.256115118Z",
+      "RX latest timestamp": "2026-04-29T21:59:06.256115118Z",
+      "RX bytes": 60,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 30,
+      "RTT (ms)": 48,
+      "SNI present": true,
+      "SNI length": 14,
+      "Round-trip time (ms)": 78,
+      "SNI": "mon.tiktokv.com"
+    },
+    "::ffff:95.101.23.42:443 TCP": {
+      "RX first timestamp": "2026-04-29T21:59:05.781707533Z",
+      "RX latest timestamp": "2026-04-29T21:59:06.001687833Z",
+      "RX bytes": 1449,
+      "TX bytes": 0,
+      "RX packets": 5,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 23,
+      "RTT (ms)": 81,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 63,
+      "SNI": "unknown"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:224.0.0.251",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.15:5353 UDP": {
+      "RX first timestamp": "2026-04-29T21:59:04.901762021Z",
+      "RX latest timestamp": "2026-04-29T21:59:04.905873673Z",
+      "RX bytes": 344,
+      "TX bytes": 0,
+      "RX packets": 4,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 0,
+      "RTT (ms)": 84,
+      "SNI present": true,
+      "SNI length": 10,
+      "Round-trip time (ms)": 54,
+      "SNI": "pull-hls-l1.tiktokcdn.com"
+    }
+  }
+}
+{
+  "UserIP": "2a01:36d:111:61dd:ec07:ef07:b16f:8c69",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a00:1450:400d:809::200a:443 UDP": {
+      "RX first timestamp": "2026-04-29T21:59:04.784324632Z",
+      "RX latest timestamp": "2026-04-29T21:59:05.605440939Z",
+      "RX bytes": 1476,
+      "TX bytes": 0,
+      "RX packets": 5,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 38,
+      "RTT (ms)": 28,
+      "SNI present": true,
+      "SNI length": 10,
+      "Round-trip time (ms)": 99,
+      "SNI": "pull-flv-l1.tiktokcdn.com"
+    },
+    "2a01:368:1fe:703::5b53:e49:443 TCP": {
+      "RX first timestamp": "2026-04-29T21:59:05.220447387Z",
+      "RX latest timestamp": "2026-04-29T21:59:05.915096799Z",
+      "RX bytes": 537,
+      "TX bytes": 0,
+      "RX packets": 6,
+      "TX packets": 0,
+      "RX packet loss": 1,
+      "TX packet loss": 0,
+      "Jitter (ms)": 76,
+      "RTT (ms)": 91,
+      "SNI present": true,
+      "SNI length": 14,
+      "Round-trip time (ms)": 159,
+      "SNI": "pull-flv-l1.tiktokcdn.com"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:239.255.255.250",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.15:59705 UDP": {
+      "RX first timestamp": "2026-04-29T21:59:04.908676784Z",
+      "RX latest timestamp": "2026-04-29T21:59:04.908676784Z",
+      "RX bytes": 179,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 26,
+      "RTT (ms)": 76,
+      "SNI present": true,
+      "SNI length": 14,
+      "Round-trip time (ms)": 73,
+      "SNI": "local"
+    }
+  }
+}
+{
+  "UserIP": "ff02::fb",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "fe80::e812:daff:fecc:f4e9:5353 UDP": {
+      "RX first timestamp": "2026-04-29T21:59:01.120787824Z",
+      "RX latest timestamp": "2026-04-29T21:59:01.120787824Z",
+      "RX bytes": 107,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 25,
+      "RTT (ms)": 99,
+      "SNI present": true,
+      "SNI length": 14,
+      "Round-trip time (ms)": 70,
+      "SNI": "mon.tiktokv.com"
+    }
+  }
+}
+{
+  "UserIP": "::",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {}
+}
+{
+  "UserIP": "::ffff:2.23.154.145",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:49810 TCP": {
+      "RX first timestamp": "2026-04-29T21:59:05.789043550Z",
+      "RX latest timestamp": "2026-04-29T21:59:06.266861033Z",
+      "RX bytes": 7663,
+      "TX bytes": 0,
+      "RX packets": 7,
+      "TX packets": 0,
+      "RX packet loss": 3,
+      "TX packet loss": 0,
+      "Jitter (ms)": 21,
+      "RTT (ms)": 109,
+      "SNI present": true,
+      "SNI length": 10,
+      "Round-trip time (ms)": 84,
+      "SNI": "pull-flv-l1.tiktokcdn.com"
+    }
+  }
+}
+{
+  "UserIP": "2a01:368:1fe:703::5b53:e49",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:ec07:ef07:b16f:8c69:50077 TCP": {
+      "RX first timestamp": "2026-04-29T21:59:05.752693863Z",
+      "RX latest timestamp": "2026-04-29T21:59:05.756218535Z",
+      "RX bytes": 148,
+      "TX bytes": 0,
+      "RX packets": 2,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 23,
+      "RTT (ms)": 77,
+      "SNI present": true,
+      "SNI length": 14,
+      "Round-trip time (ms)": 81,
+      "SNI": "tiktok.com"
+    },
+    "2a01:36d:111:61dd:ec07:ef07:b16f:8c69:50074 TCP": {
+      "RX first timestamp": "2026-04-29T21:59:05.217903655Z",
+      "RX latest timestamp": "2026-04-29T21:59:05.220475294Z",
+      "RX bytes": 148,
+      "TX bytes": 0,
+      "RX packets": 2,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 92,
+      "RTT (ms)": 89,
+      "SNI present": true,
+      "SNI length": 14,
+      "Round-trip time (ms)": 175,
+      "SNI": "unknown"
+    },
+    "2a01:36d:111:61dd:ec07:ef07:b16f:8c69:50079 TCP": {
+      "RX first timestamp": "2026-04-29T21:59:05.909083011Z",
+      "RX latest timestamp": "2026-04-29T21:59:05.915129711Z",
+      "RX bytes": 148,
+      "TX bytes": 0,
+      "RX packets": 2,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 7,
+      "RTT (ms)": 87,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 40,
+      "SNI": "v16.tiktokcdn.com"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:37.19.194.229",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:50097 TCP": {
+      "RX first timestamp": "2026-04-29T21:59:06.238344530Z",
+      "RX latest timestamp": "2026-04-29T21:59:06.238344530Z",
+      "RX bytes": 55,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 45,
+      "RTT (ms)": 95,
+      "SNI present": true,
+      "SNI length": 10,
+      "Round-trip time (ms)": 113,
+      "SNI": "pull-flv-l1.tiktokcdn.com"
+    }
+  }
+}
+{
+  "UserIP": "::ffff:95.101.23.42",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "::ffff:192.168.100.26:49861 TCP": {
+      "RX first timestamp": "2026-04-29T21:59:06.001771606Z",
+      "RX latest timestamp": "2026-04-29T21:59:06.001771606Z",
+      "RX bytes": 54,
+      "TX bytes": 0,
+      "RX packets": 1,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 25,
+      "RTT (ms)": 89,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 69,
+      "SNI": "api.tiktokv.com"
+    }
+  }
+}
+{
+  "UserIP": "2a00:1450:400d:809::200a",
+  "UserIMSI": "Under development",
+  "UserIMEI": "Under development",
+  "Roaming": "Unknown",
+  "Technology": "Unknown",
+  "Services": {
+    "2a01:36d:111:61dd:ec07:ef07:b16f:8c69:59281 UDP": {
+      "RX first timestamp": "2026-04-29T21:59:04.787925504Z",
+      "RX latest timestamp": "2026-04-29T21:59:05.601602363Z",
+      "RX bytes": 789,
+      "TX bytes": 0,
+      "RX packets": 4,
+      "TX packets": 0,
+      "RX packet loss": 0,
+      "TX packet loss": 0,
+      "Jitter (ms)": 46,
+      "RTT (ms)": 50,
+      "SNI present": false,
+      "SNI length": 0,
+      "Round-trip time (ms)": 116,
+      "SNI": "mon.tiktokv.com"
+    }
+  }
+}

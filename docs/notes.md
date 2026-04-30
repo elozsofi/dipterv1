@@ -45,8 +45,6 @@ A kiértékelés során jelentkező metrika figyelmeztetések (pl. undefined pre
 
 
 __________________________________________________
-
-
 betöltött minták száma: 31
 teszthalmaz mérete: 10
 
@@ -65,3 +63,18 @@ SVM:
     whatsapp: precision 0.67, recall 1.00, support 2
     youtube: precision 1.00, recall 0.33, support 3
     több osztály esetén undefined precision warning jelent meg
+
+-------------------------------------------------------------------
+ud monitor visszajátszás:
+
+sudo ip link add veth0 type veth peer name veth1
+sudo ip link set veth0 up
+sudo ip link set veth1 up
+
+cd dipterv1/ud_monitor/build
+sudo ./mapinmap veth0 -t
+
+sudo tcpreplay --intf1=veth1 /path/to/capture.pcap
+
+__________________________________________
+
