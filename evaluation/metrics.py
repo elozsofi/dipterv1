@@ -1,11 +1,10 @@
 from sklearn.metrics import accuracy_score, classification_report
+from sklearn.metrics import confusion_matrix
 
-def evaluate_model(model, X_test, y_test):
-    from features.encoder import dict_to_vector
 
-    X_vec = [dict_to_vector(x) for x in X_test]
-    y_pred = model.predict(X_vec)
-
+def evaluate_model(y_test, y_pred, name="Model"):
+    print(f"\n=== {name} ===")
     print("Accuracy:", accuracy_score(y_test, y_pred))
-    print("\nClassification report:\n")
     print(classification_report(y_test, y_pred))
+    print("\nConfusion matrix:\n")
+    print(confusion_matrix(y_test, y_pred))
