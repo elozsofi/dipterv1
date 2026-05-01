@@ -2,7 +2,7 @@ A rendszer fejlesztése során több iterációban történt a modell tanítása
 
 Első futás: kezdeti modellvalidáció
 
-Az első sikeres futás során a rendszer már képes volt a teljes dataset feldolgozására, amely körülbelül 1700 mintát tartalmazott. A tanító és teszt halmaz 80/20 arányban került felosztásra, így a tesztkészlet mérete 343 minta volt.
+Az első sikeres futás során a rendszer már képes volt a teljes dataset (36 json rekord az alkalmazások különböző usecase-eiről) feldolgozására, amely ~1700 mintát tartalmazott. A tanító és teszt halmaz 80/20 arányban került felosztásra, így a tesztkészlet mérete 343 minta volt.
 
 A Random Forest modell ebben a fázisban megközelítőleg ~78-79%-os pontosságot ért el. A részletes kiértékelés azonban már ekkor rámutatott arra, hogy az eredmény erősen torzított. A confusion matrix alapján a modell dominánsan a „YouTube” osztályba sorolta a mintákat. Például a 215 darab YouTube minta közül 205 került helyesen besorolásra, ami ~95%-os recall értéket jelentett. Ugyanakkor az Instagram és Spotify osztályok esetében a recall érték jelentősen alacsonyabb volt (Instagram ~38%, Spotify ~15%), ami azt mutatta, hogy a modell nem képes megfelelően megkülönböztetni a hasonló jellegű forgalmakat.
 
