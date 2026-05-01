@@ -1,6 +1,6 @@
 A rendszer fejlesztése során több iterációban történt a modell tanítása és kiértékelése, amelyek célja a feature extraction pipeline validálása, a modellek viselkedésének megértése, valamint a teljesítmény fokozatos javítása volt. Az alábbiakban a legfontosabb futások és azok eredményei kerülnek bemutatásra.
 
-Első futás: kezdeti modellvalidáció
+Első futás
 
 Az első sikeres futás során a rendszer már képes volt a teljes dataset (36 json rekord az alkalmazások különböző usecase-eiről) feldolgozására, amely ~1700 mintát tartalmazott. A tanító és teszt halmaz 80/20 arányban került felosztásra, így a tesztkészlet mérete 343 minta volt.
 
@@ -32,7 +32,7 @@ WhatsApp (63 minta): 63 → WhatsApp
 
 Ez egyértelműen jelezte, hogy a szabályalapú komponens minden esetben aktiválódik, és teljes mértékben felülírja a gépi tanulási modell döntéseit. A hiba oka az volt, hogy a rule-based classifier túl általános feltételeket használt, így gyakorlatilag minden bemenetre érvényesült.
 
-Harmadik futás: stabil baseline és részletes elemzés
+Harmadik futás
 
 A harmadik futás során a hybrid modell hibájának azonosítása után a Random Forest és SVM modellek kerültek ismételten kiértékelésre, részletesebb elemzéssel.
 
@@ -60,4 +60,4 @@ Osztály imbalance: a domináns osztály (YouTube) torzítja a tanulást
 Feature korlátok: a jelenlegi jellemzők nem elegendőek a hasonló alkalmazások elkülönítésére
 Hybrid modell hibás implementációja: a rule-based komponens túl domináns
 
-Összességében a rendszer jelenlegi állapota megfelelő alapot biztosít a további fejlesztésekhez. A legfontosabb következő lépések a feature space bővítése, az osztályok kiegyensúlyozása, valamint a hybrid modell újratervezése olyan módon, hogy a szabályalapú és a tanult komponensek egymást kiegészítve működjenek.
+következő lépések a feature space bővítése, az osztályok kiegyensúlyozása, valamint a hybrid modell újratervezése olyan módon, hogy a szabályalapú és a tanult komponensek egymást kiegészítve működjenek.
