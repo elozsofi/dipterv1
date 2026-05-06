@@ -24,8 +24,7 @@
   "UserIMEI":"Under development",
   "Roaming":"Unknown",
   "Technology":"Unknown",
-  "Services":{
-  }
+  "Services":{}
 }
 {
   "UserIP":"2001:4860:4829:7700::",
@@ -573,7 +572,8 @@
       "TX packets":0,
       "RX packet loss":1,
       "TX packet loss":0,
-      "Jitter (ms)":0
+      "Jitter (ms)":0,
+      "SNI":"spotify.com"
     },
     "2a00:1450:400c:c0b::bc:5228 TCP":{
       "RX first timestamp":"2026-05-02T22:01:41.455972120Z",
@@ -615,7 +615,8 @@
       "TX packets":0,
       "RX packet loss":2,
       "TX packet loss":0,
-      "Jitter (ms)":1411
+      "Jitter (ms)":1411,
+      "SNI":"spotify.com"
     },
     "2600:9000:26a1:e800:6:bcff:1840:93a1:443 TCP":{
       "RX first timestamp":"2026-05-02T22:01:50.179354704Z",

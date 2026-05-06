@@ -4,8 +4,7 @@
   "UserIMEI":"Under development",
   "Roaming":"Unknown",
   "Technology":"Unknown",
-  "Services":{
-  }
+  "Services":{}
 }
 {
   "UserIP":"2a01:36d:111:61dd:ec07:ef07:b16f:8c69",
@@ -22,7 +21,8 @@
       "RX packets":1,
       "TX packets":0,
       "RX packet loss":0,
-      "TX packet loss":0
+      "TX packet loss":0,
+      "SNI":"tiktok.com"
     }
   }
 }
@@ -61,7 +61,8 @@
       "TX packets":0,
       "RX packet loss":0,
       "TX packet loss":0,
-      "Jitter (ms)":0
+      "Jitter (ms)":0,
+      "SNI":"tiktok.com"
     }
   }
 }

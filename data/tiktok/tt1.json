@@ -263,8 +263,7 @@
   "UserIMEI":"Under development",
   "Roaming":"Unknown",
   "Technology":"Unknown",
-  "Services":{
-  }
+  "Services":{}
 }
 {
   "UserIP":"2a00:1450:400c:c02::bc",
@@ -549,7 +548,8 @@
       "RX packets":1,
       "TX packets":0,
       "RX packet loss":0,
-      "TX packet loss":0
+      "TX packet loss":0,
+      "SNI":"tiktok.com"
     },
     "2a00:1450:400d:808::2003:443 UDP":{
       "RX first timestamp":"2026-05-02T22:11:02.204852351Z",
@@ -571,7 +571,8 @@
       "TX packets":0,
       "RX packet loss":1,
       "TX packet loss":0,
-      "Jitter (ms)":3
+      "Jitter (ms)":3,
+      "SNI":"tiktok.com"
     },
     "2001:4860:4802:32::36:443 UDP":{
       "RX first timestamp":"2026-05-02T22:11:01.934603411Z",

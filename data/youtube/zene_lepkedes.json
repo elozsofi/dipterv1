@@ -14,7 +14,8 @@
       "TX packets":0,
       "RX packet loss":0,
       "TX packet loss":0,
-      "Jitter (ms)":0
+      "Jitter (ms)":0,
+      "SNI":"youtube.com"
     },
     "::ffff:18.239.255.43:443 TCP":{
       "RX first timestamp":"2026-05-02T22:24:11.454311513Z",
@@ -75,8 +76,7 @@
   "UserIMEI":"Under development",
   "Roaming":"Unknown",
   "Technology":"Unknown",
-  "Services":{
-  }
+  "Services":{}
 }
 {
   "UserIP":"::ffff:18.239.255.43",
@@ -569,7 +569,8 @@
       "RX packets":2,
       "TX packets":0,
       "RX packet loss":0,
-      "TX packet loss":0
+      "TX packet loss":0,
+      "SNI":"youtube.com"
     },
     "2a00:1450:400d:810::200e:443 TCP":{
       "RX first timestamp":"2026-05-02T22:24:11.491455869Z",

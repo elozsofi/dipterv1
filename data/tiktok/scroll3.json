@@ -4,8 +4,7 @@
   "UserIMEI":"Under development",
   "Roaming":"Unknown",
   "Technology":"Unknown",
-  "Services":{
-  }
+  "Services":{}
 }
 {
   "UserIP":"::ffff:2.23.154.145",
@@ -42,7 +41,8 @@
       "TX packets":0,
       "RX packet loss":44,
       "TX packet loss":0,
-      "Jitter (ms)":7
+      "Jitter (ms)":7,
+      "SNI":"tiktok.com"
     }
   }
 }
@@ -200,7 +200,8 @@
       "TX packets":0,
       "RX packet loss":0,
       "TX packet loss":0,
-      "Jitter (ms)":64
+      "Jitter (ms)":64,
+      "SNI":"tiktok.com"
     }
   }
 }

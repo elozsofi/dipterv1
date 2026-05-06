@@ -44,8 +44,7 @@
   "UserIMEI":"Under development",
   "Roaming":"Unknown",
   "Technology":"Unknown",
-  "Services":{
-  }
+  "Services":{}
 }
 {
   "UserIP":"::ffff:2.23.154.145",
@@ -227,7 +226,8 @@
       "RX packets":1,
       "TX packets":0,
       "RX packet loss":0,
-      "TX packet loss":0
+      "TX packet loss":0,
+      "SNI":"tiktok.com"
     }
   }
 }
@@ -246,7 +246,8 @@
       "RX packets":1,
       "TX packets":0,
       "RX packet loss":0,
-      "TX packet loss":0
+      "TX packet loss":0,
+      "SNI":"tiktok.com"
     },
     "::ffff:146.75.2.73:443 TCP":{
       "RX first timestamp":"2026-05-02T22:09:20.610933334Z",

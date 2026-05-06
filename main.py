@@ -5,6 +5,7 @@ from evaluation.metrics import evaluate_model as evaluate
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 from models.hybrid import HybridModel
+from models.rule_based import classify as rule_classify
 import numpy as np
 
 def main():
@@ -20,6 +21,17 @@ def main():
 
     rf = RFModel()
     rf.train(X_train, y_train)
+
+    # Rule-based evaluation
+    rule_preds = []
+    filtered_y = []
+    for i, x in enumerate(X_test):
+        pred = rule_classify(x)
+        if pred != -1:
+            rule_preds.append(pred)
+            filtered_y.append(y_test[i])
+    if rule_preds:
+        evaluate(filtered_y, rule_preds, "Rule-based")
 
     hybrid = HybridModel(rf)
     hybrid_preds = hybrid.predict(X_test)

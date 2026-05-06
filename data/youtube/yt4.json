@@ -102,8 +102,7 @@
   "UserIMEI":"Under development",
   "Roaming":"Unknown",
   "Technology":"Unknown",
-  "Services":{
-  }
+  "Services":{}
 }
 {
   "UserIP":"::ffff:35.213.86.143",
@@ -980,7 +979,8 @@
       "RX packets":1,
       "TX packets":0,
       "RX packet loss":0,
-      "TX packet loss":0
+      "TX packet loss":0,
+      "SNI":"youtube.com"
     },
     "2a00:1450:400d:80f::200e:443 UDP":{
       "RX first timestamp":"2026-05-02T22:22:22.181652635Z",
@@ -1032,7 +1032,8 @@
       "RX packets":1,
       "TX packets":0,
       "RX packet loss":0,
-      "TX packet loss":0
+      "TX packet loss":0,
+      "SNI":"youtube.com"
     },
     "2a01:368:b::e:443 UDP":{
       "RX first timestamp":"2026-05-02T22:22:31.275381291Z",

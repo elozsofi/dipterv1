@@ -4,8 +4,7 @@
   "UserIMEI":"Under development",
   "Roaming":"Unknown",
   "Technology":"Unknown",
-  "Services":{
-  }
+  "Services":{}
 }
 {
   "UserIP":"2a01:36d:111:693e:bce4:4908:d14b:947e",
@@ -22,7 +21,8 @@
       "RX packets":1,
       "TX packets":0,
       "RX packet loss":0,
-      "TX packet loss":0
+      "TX packet loss":0,
+      "SNI":"instagram.com"
     },
     "2a03:2880:f007:7:face:b00c:0:6206:443 TCP":{
       "RX first timestamp":"2026-05-02T21:54:53.980115621Z",
@@ -32,7 +32,8 @@
       "RX packets":2,
       "TX packets":0,
       "RX packet loss":0,
-      "TX packet loss":0
+      "TX packet loss":0,
+      "SNI":"instagram.com"
     }
   }
 }

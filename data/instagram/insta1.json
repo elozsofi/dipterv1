@@ -33,8 +33,7 @@
   "UserIMEI":"Under development",
   "Roaming":"Unknown",
   "Technology":"Unknown",
-  "Services":{
-  }
+  "Services":{}
 }
 {
   "UserIP":"2a01:36d:111:693e:bce4:4908:d14b:947e",
@@ -62,7 +61,8 @@
       "RX packets":1,
       "TX packets":0,
       "RX packet loss":0,
-      "TX packet loss":0
+      "TX packet loss":0,
+      "SNI":"instagram.com"
     },
     "2001:4860:482d:7700:::443 UDP":{
       "RX first timestamp":"2026-05-02T21:53:17.266606490Z",

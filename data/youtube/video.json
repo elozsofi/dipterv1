@@ -34,7 +34,8 @@
       "TX packets":0,
       "RX packet loss":1,
       "TX packet loss":0,
-      "Jitter (ms)":0
+      "Jitter (ms)":0,
+      "SNI":"youtube.com"
     },
     "2a00:1450:400d:802::200e:443 UDP":{
       "RX first timestamp":"2026-05-02T22:18:37.824424589Z",
@@ -103,8 +104,7 @@
   "UserIMEI":"Under development",
   "Roaming":"Unknown",
   "Technology":"Unknown",
-  "Services":{
-  }
+  "Services":{}
 }
 {
   "UserIP":"2a06:98c1:310d::6812:29b7",

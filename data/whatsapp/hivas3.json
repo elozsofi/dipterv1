@@ -4,8 +4,7 @@
   "UserIMEI":"Under development",
   "Roaming":"Unknown",
   "Technology":"Unknown",
-  "Services":{
-  }
+  "Services":{}
 }
 {
   "UserIP":"::ffff:192.168.100.255",
@@ -236,7 +235,8 @@
       "TX packets":0,
       "RX packet loss":3,
       "TX packet loss":0,
-      "Jitter (ms)":1240
+      "Jitter (ms)":1240,
+      "SNI":"whatsapp.com"
     },
     "2a00:1450:400d:808::200e:443 UDP":{
       "RX first timestamp":"2026-05-02T22:15:36.480554640Z",
@@ -347,7 +347,8 @@
       "RX packets":2,
       "TX packets":0,
       "RX packet loss":0,
-      "TX packet loss":0
+      "TX packet loss":0,
+      "SNI":"whatsapp.com"
     }
   }
 }

@@ -24,8 +24,7 @@
   "UserIMEI":"Under development",
   "Roaming":"Unknown",
   "Technology":"Unknown",
-  "Services":{
-  }
+  "Services":{}
 }
 {
   "UserIP":"2001:4860:4802:36::223",
@@ -435,7 +434,8 @@
       "TX packets":0,
       "RX packet loss":1,
       "TX packet loss":0,
-      "Jitter (ms)":62
+      "Jitter (ms)":62,
+      "SNI":"youtube.com"
     },
     "2a00:1450:400d:80f::200a:443 UDP":{
       "RX first timestamp":"2026-05-02T22:18:58.302668798Z",
@@ -552,7 +552,8 @@
       "RX packets":1,
       "TX packets":0,
       "RX packet loss":0,
-      "TX packet loss":0
+      "TX packet loss":0,
+      "SNI":"youtube.com"
     },
     "2a01:368:1fe:703::5b53:e12:443 TCP":{
       "RX first timestamp":"2026-05-02T22:19:00.486281970Z",

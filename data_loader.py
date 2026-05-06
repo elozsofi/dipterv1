@@ -81,6 +81,6 @@ def build_dataset(data_dir):
                     if features is not None:
                         X.append(features)
                         y.append(label)
-                        print(f"[DATASET] X={len(X)}, y={len(y)}")
+                        #print(f"[DATASET] X={len(X)}, y={len(y)}")
 
     return X, y
