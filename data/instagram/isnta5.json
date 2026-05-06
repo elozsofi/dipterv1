@@ -1,0 +1,95 @@
+{
+  "UserIP":"::",
+  "UserIMSI":"Under development",
+  "UserIMEI":"Under development",
+  "Roaming":"Unknown",
+  "Technology":"Unknown",
+  "Services":{
+  }
+}
+{
+  "UserIP":"2a01:36d:111:693e:bce4:4908:d14b:947e",
+  "UserIMSI":"Under development",
+  "UserIMEI":"Under development",
+  "Roaming":"Unknown",
+  "Technology":"Unknown",
+  "Services":{
+    "2a03:2880:f207:c4:face:b00c:0:43fe:443 TCP":{
+      "RX first timestamp":"2026-05-02T21:54:53.443675117Z",
+      "RX latest timestamp":"2026-05-02T21:54:53.443675117Z",
+      "RX bytes":145,
+      "TX bytes":0,
+      "RX packets":1,
+      "TX packets":0,
+      "RX packet loss":0,
+      "TX packet loss":0
+    },
+    "2a03:2880:f007:7:face:b00c:0:6206:443 TCP":{
+      "RX first timestamp":"2026-05-02T21:54:53.980115621Z",
+      "RX latest timestamp":"2026-05-02T21:54:54.011790816Z",
+      "RX bytes":173,
+      "TX bytes":0,
+      "RX packets":2,
+      "TX packets":0,
+      "RX packet loss":0,
+      "TX packet loss":0
+    }
+  }
+}
+{
+  "UserIP":"2a03:2880:f007:7:face:b00c:0:6206",
+  "UserIMSI":"Under development",
+  "UserIMEI":"Under development",
+  "Roaming":"Unknown",
+  "Technology":"Unknown",
+  "Services":{
+    "2a01:36d:111:693e:bce4:4908:d14b:947e:51639 TCP":{
+      "RX first timestamp":"2026-05-02T21:54:53.974920582Z",
+      "RX latest timestamp":"2026-05-02T21:54:54.065415744Z",
+      "RX bytes":177,
+      "TX bytes":0,
+      "RX packets":2,
+      "TX packets":0,
+      "RX packet loss":0,
+      "TX packet loss":0
+    }
+  }
+}
+{
+  "UserIP":"2a03:2880:f207:c4:face:b00c:0:43fe",
+  "UserIMSI":"Under development",
+  "UserIMEI":"Under development",
+  "Roaming":"Unknown",
+  "Technology":"Unknown",
+  "Services":{
+    "2a01:36d:111:693e:bce4:4908:d14b:947e:51642 TCP":{
+      "RX first timestamp":"2026-05-02T21:54:53.406309508Z",
+      "RX latest timestamp":"2026-05-02T21:54:53.484118731Z",
+      "RX bytes":217,
+      "TX bytes":0,
+      "RX packets":2,
+      "TX packets":0,
+      "RX packet loss":0,
+      "TX packet loss":0
+    }
+  }
+}
+{
+  "UserIP":"ff02::1:ff70:ec9",
+  "UserIMSI":"Under development",
+  "UserIMEI":"Under development",
+  "Roaming":"Unknown",
+  "Technology":"Unknown",
+  "Services":{
+    "fe80::cc6:b68f:2017:fd46:0 Other":{
+      "RX first timestamp":"2026-05-02T21:54:52.895653553Z",
+      "RX latest timestamp":"2026-05-02T21:54:53.908420365Z",
+      "RX bytes":172,
+      "TX bytes":0,
+      "RX packets":2,
+      "TX packets":0,
+      "RX packet loss":0,
+      "TX packet loss":0
+    }
+  }
+}

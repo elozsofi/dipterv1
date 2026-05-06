@@ -1562,12 +1562,12 @@ int enable_kernel(int *debug_fd)
         ret = bpf_map_update_elem(*debug_fd, &kenable_index, &new_value, BPF_EXIST);
         if (ret < 0) { plog->WRITE_LOG(LOG_ERR, "ENABLE KERNEL FAIL\n"); return -1; }
     }
-    else if (value == 1) {
+    /*else if (value == 1) {
         plog->WRITE_LOG(LOG_INFO, "Disabling kernel...\n");
         new_value = 0;
         ret = bpf_map_update_elem(*debug_fd, &kenable_index, &new_value, BPF_EXIST);
         if (ret < 0) { plog->WRITE_LOG(LOG_ERR, "DISABLE KERNEL FAIL\n"); return -1; }
-    }
+    }*/
     else { plog->WRITE_LOG(LOG_ERR, "(DIS/EN)ABLE KERNEL VALUE NOT 1 OR 0\n"); return -1; }
     return 0;
 }
@@ -1708,7 +1708,12 @@ int main(int argc, char **argv)
             }
         }
     }
+    
     else { // debug mode
+
+        populate_inner_factory(outer_fd, mapid_fd, rev_fd);
+        ret = enable_kernel(&debug_fd);
+        
         while (!exiting.load()) {
             if (ctrlc) { break; }
 
@@ -1753,11 +1758,11 @@ int main(int argc, char **argv)
                     ret = reset_debug(&debug_fd);
                     break;
                 case 5:
-                    if (gc_started) {
-                        ret = enable_kernel(&debug_fd);
-                    } else {
-                        printf("Cannot enable/disable kernel: garbage collector not running\n");
-                    }
+                    //if (gc_started) {
+                    ret = enable_kernel(&debug_fd);
+                    //} else {
+                    //    printf("Cannot enable/disable kernel: garbage collector not running\n");
+                    //}
                     break;
                 case 6:
                     report_gtpc(gtpc_fd);
