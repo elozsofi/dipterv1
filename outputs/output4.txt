@@ -1,0 +1,177 @@
+[INFO] felfedezes.json: 5 JSON objects
+[INFO] gorgetes.json: 3 JSON objects
+[INFO] insta1.json: 6 JSON objects  
+[INFO] insta3.json: 8 JSON objects
+[INFO] isnta5.json: 5 JSON objects  
+[INFO] messages.json: 8 JSON objects
+[INFO] nyomkodas.json: 5 JSON objects
+[INFO] reels2.json: 5 JSON objects   
+[INFO] storyk.json: 7 JSON objects
+[INFO] storyk2.json: 2 JSON objects        
+[INFO] dalban_ugralas.json: 17 JSON objects
+[INFO] dalok.json: 8 JSON objects
+[INFO] dalok2.json: 31 JSON objects
+[INFO] dalok_kozott.json: 5 JSON objects
+[INFO] podcast.json: 18 JSON objects
+[INFO] podcast2.json: 32 JSON objects
+[INFO] podcast3.json: 37 JSON objects
+[INFO] spoti1.json: 4 JSON objects
+[INFO] spoti2.json: 10 JSON objects
+[INFO] spoti3.json: 10 JSON objects
+[INFO] spoti4.json: 20 JSON objects
+[INFO] spoti5.json: 7 JSON objects
+[INFO] zene.json: 21 JSON objects
+[INFO] zene2.json: 20 JSON objects
+[INFO] zene3.json: 16 JSON objects
+[INFO] live.json: 8 JSON objects  
+[INFO] live2.json: 7 JSON objects
+[INFO] scroll2.json: 12 JSON objects
+[INFO] scroll3.json: 10 JSON objects
+[INFO] scroll6.json: 7 JSON objects
+[INFO] scrolling.json: 5 JSON objects
+[INFO] tt1.json: 15 JSON objects
+[INFO] tt2.json: 8 JSON objects
+[INFO] tt3.json: 4 JSON objects
+[INFO] tt4.json: 5 JSON objects
+[INFO] tt5.json: 5 JSON objects
+[INFO] csev2.json: 23 JSON objects
+[INFO] csev3.json: 12 JSON objects
+[INFO] cseveges.json: 17 JSON objects
+[INFO] hivas.json: 15 JSON objects
+[INFO] hivas2.json: 9 JSON objects
+[INFO] hivas3.json: 16 JSON objects
+[INFO] video.json: 6 JSON objects
+[INFO] video2.json: 24 JSON objects
+[INFO] video3.json: 20 JSON objects
+[INFO] videoban_ugralas.json: 26 JSON objects
+[INFO] video_lepkedes.json: 29 JSON objects
+[INFO] yt1.json: 16 JSON objects
+[INFO] yt2.json: 18 JSON objects
+[INFO] yt3.json: 45 JSON objects
+[INFO] yt4.json: 28 JSON objects
+[INFO] yt5.json: 29 JSON objects
+[INFO] yt6.json: 10 JSON objects
+[INFO] zene.json: 10 JSON objects
+[INFO] zene2.json: 12 JSON objects
+[INFO] zene_lepkedes.json: 20 JSON objects
+
+=== Rule-based ===
+Accuracy: 0.15654952076677317
+              precision    recall  f1-score   support
+
+           0       0.45      0.33      0.38        15
+           1       0.71      0.04      0.08       125
+           2       0.41      0.10      0.16       114
+           3       0.06      0.12      0.08        25
+           4       0.11      0.74      0.20        34
+
+    accuracy                           0.16       313
+   macro avg       0.35      0.27      0.18       313
+weighted avg       0.47      0.16      0.13       313
+
+
+Confusion matrix:
+
+[[ 5  0  1  1  8]
+ [ 4  5 10 20 86]
+ [ 1  1 11 22 79]
+ [ 0  0  2  3 20]
+ [ 1  1  3  4 25]]
+
+=== Hybrid (Rule + RF) ===
+Accuracy: 0.6293929712460063
+              precision    recall  f1-score   support
+
+           0       0.69      0.60      0.64        15
+           1       0.66      0.74      0.70       125
+           2       0.56      0.62      0.59       114
+           3       0.80      0.32      0.46        25
+           4       0.67      0.47      0.55        34
+
+    accuracy                           0.63       313
+   macro avg       0.68      0.55      0.59       313
+weighted avg       0.64      0.63      0.62       313
+
+
+Confusion matrix:
+
+[[ 9  4  2  0  0]
+ [ 1 93 28  1  2]
+ [ 2 35 71  1  5]
+ [ 1  2 13  8  1]
+ [ 0  6 12  0 16]]
+
+=== Random Forest ===
+Accuracy: 0.6293929712460063
+              precision    recall  f1-score   support
+
+           0       0.69      0.60      0.64        15
+           1       0.66      0.74      0.70       125
+           2       0.56      0.62      0.59       114
+           3       0.80      0.32      0.46        25
+           4       0.67      0.47      0.55        34
+
+    accuracy                           0.63       313
+   macro avg       0.68      0.55      0.59       313
+weighted avg       0.64      0.63      0.62       313
+
+
+Confusion matrix:
+
+[[ 9  4  2  0  0]
+ [ 1 93 28  1  2]
+ [ 2 35 71  1  5]
+ [ 1  2 13  8  1]
+ [ 0  6 12  0 16]]
+
+=== SVM ===
+Accuracy: 0.46645367412140576
+C:\Users\Henrik\AppData\Roaming\Python\Python312\site-packages\sklearn\metrics\_classification.py:1833: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+C:\Users\Henrik\AppData\Roaming\Python\Python312\site-packages\sklearn\metrics\_classification.py:1833: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+C:\Users\Henrik\AppData\Roaming\Python\Python312\site-packages\sklearn\metrics\_classification.py:1833: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+              precision    recall  f1-score   support
+
+           0       0.71      0.33      0.45        15
+           1       0.57      0.31      0.40       125
+           2       0.43      0.87      0.58       114
+           3       0.00      0.00      0.00        25
+           4       0.43      0.09      0.15        34
+
+    accuracy                           0.47       313
+   macro avg       0.43      0.32      0.32       313
+weighted avg       0.46      0.47      0.41       313
+
+
+
+[[ 5  4  6  0  0]
+ [ 0 39 85  0  1]
+ [ 0 12 99  0  3]
+ [ 0  3 22  0  0]
+ [ 2 11 18  0  3]]
+
+Feature importance (RF):
+Feature 0: 0.0843
+Feature 1: 0.0000
+Feature 2: 0.0307
+Feature 3: 0.0000
+Feature 4: 0.0842
+Feature 5: 0.0304
+Feature 6: 0.0746
+Feature 7: 0.0538
+Feature 8: 0.0652
+Feature 9: 0.0564
+Feature 10: 0.0000
+Feature 11: 0.0000
+Feature 12: 0.0000
+Feature 13: 0.0340
+Feature 14: 0.0000
+Feature 15: 0.0165
+Feature 16: 0.0904
+Feature 17: 0.0911
+Feature 18: 0.0247
+Feature 19: 0.2237
+Feature 20: 0.0085
+Feature 21: 0.0316
