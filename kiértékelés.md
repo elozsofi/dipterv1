@@ -109,18 +109,18 @@ TikTok: 25 mintából 22 került YouTube kategóriába
 
 Ez megerősítette, hogy az SVM modell ebben a problématérben nem képes megfelelő döntési határok kialakítására.
 
-A feature importance elemzés további fontos eredményeket mutatott. A legfontosabb feature továbbra is a 19-es feature volt (~0.22 súly), amely jelentős mértékben dominálta a döntési folyamatot. Emellett több másik feature is relevánssá vált:
+A feature importance elemzés további fontos eredményeket mutatott. A legfontosabb feature továbbra is a célport feature volt (~0.22 súly), amely jelentős mértékben dominálta a döntési folyamatot. Emellett több másik feature is relevánssá vált:
 
-feature 16: ~0.090
-feature 17: ~0.091
-feature 0: ~0.084
-feature 4: ~0.084
-feature 6: ~0.075
+avg_pkt_size: ~0.090
+variance_proxy: ~0.091
+rx_bytes: ~0.084
+total_bytes: ~0.084
+duration: ~0.075
 
 Fontos megfigyelés volt, hogy a korábban teljesen inaktív feature-ök közül néhány már nem nulla fontosságot kapott:
 
-feature 20: ~0.008
-feature 21: ~0.031
+sni_present: ~0.008
+sni_length: ~0.031
 
 Ez arra utal, hogy a feature extraction pipeline javítása sikeres volt, és ezek a jellemzők már ténylegesen hordoznak információt a klasszifikáció során.
 
