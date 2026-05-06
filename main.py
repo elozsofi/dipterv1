@@ -9,41 +9,37 @@ from models.rule_based import classify as rule_classify
 import numpy as np
 
 def main():
-    X, y = build_dataset("data")
+    X_features, X_full, y = build_dataset("data")
 
-    X_train, X_test, y_train, y_test = train_test_split(
-        X, y, test_size=0.2, random_state=42
+    X_train_f, X_test_f, X_train_full, X_test_full, y_train, y_test = train_test_split(
+        X_features, X_full, y, test_size=0.2, random_state=42
     )
 
     scaler = StandardScaler()
-    X_train = scaler.fit_transform(X_train)
-    X_test = scaler.transform(X_test)
+    X_train_f = scaler.fit_transform(X_train_f)
+    X_test_f = scaler.transform(X_test_f)
 
     rf = RFModel()
-    rf.train(X_train, y_train)
+    rf.train(X_train_f, y_train)
 
     # Rule-based evaluation
     rule_preds = []
-    filtered_y = []
-    for i, x in enumerate(X_test):
-        pred = rule_classify(x)
-        if pred != -1:
-            rule_preds.append(pred)
-            filtered_y.append(y_test[i])
-    if rule_preds:
-        evaluate(filtered_y, rule_preds, "Rule-based")
+    for service, flow_id in X_test_full:
+        pred = rule_classify(service, flow_id)
+        rule_preds.append(pred)
+    evaluate(y_test, rule_preds, "Rule-based")
 
     hybrid = HybridModel(rf)
-    hybrid_preds = hybrid.predict(X_test)
+    hybrid_preds = hybrid.predict(X_test_f, X_test_full)
     evaluate(y_test, hybrid_preds, "Hybrid (Rule + RF)")
 
-    preds = rf.predict(X_test)
+    preds = rf.predict(X_test_f)
     evaluate(y_test, preds, "Random Forest")
 
     svm = SVMModel()
-    svm.train(X_train, y_train)
+    svm.train(X_train_f, y_train)
 
-    preds = svm.predict(X_test)
+    preds = svm.predict(X_test_f)
     evaluate(y_test, preds, "SVM")
     
     print("\nFeature importance (RF):")

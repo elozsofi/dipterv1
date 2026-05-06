@@ -50,7 +50,8 @@ def parse_services(json_obj):
     return parsed
 
 def build_dataset(data_dir):
-    X = []
+    X_features = []
+    X_full = []
     y = []
 
     for label_name in os.listdir(data_dir):
@@ -79,8 +80,9 @@ def build_dataset(data_dir):
                         s["data"], s["flow_id"]
                     )
                     if features is not None:
-                        X.append(features)
+                        X_features.append(features)
+                        X_full.append((s["data"], s["flow_id"]))
                         y.append(label)
-                        #print(f"[DATASET] X={len(X)}, y={len(y)}")
+                        #print(f"[DATASET] X={len(X_features)}, y={len(y)}")
 
-    return X, y
+    return X_features, X_full, y

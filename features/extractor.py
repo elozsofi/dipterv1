@@ -63,6 +63,9 @@ def extract_features_from_service(service, flow_id):
         sni_present = 1 if sni else 0
         sni_length = len(sni) if sni else 0
 
+        # IP from flow_id
+        ip = flow_id.rsplit(":", 1)[0]
+
         return [
             rx_bytes,
             tx_bytes,
