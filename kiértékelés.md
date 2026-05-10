@@ -125,3 +125,74 @@ sni_length: ~0.031
 Ez arra utal, hogy a feature extraction pipeline javítása sikeres volt, és ezek a jellemzők már ténylegesen hordoznak információt a klasszifikáció során.
 
 A negyedik futás eredményei alapján megállapítható, hogy a rendszer stabilizálódott, és a Random Forest modell konzisztensen a legjobb teljesítményt nyújtja. A rule-based komponens működése javult, azonban önálló klasszifikációra továbbra sem alkalmas. A fő kihívást jelenleg az egymáshoz hasonló média streaming alkalmazások (különösen Spotify és YouTube) elkülönítése jelenti, amely várhatóan további feature engineering és adatbővítés segítségével javítható.
+
+# Ötödik futás
+
+Az ötödik futás során a rendszer további finomhangolása történt meg, elsősorban a rule-based komponens szabályrendszerének átdolgozásával, valamint a hybrid architektúra módosításával. A dataset ebben a futásban összesen 289 tesztmintát tartalmazott, amelyek között továbbra is megtalálhatók voltak különböző média streaming, short-video, üzenetküldési és hívási use-case-ek.
+
+A Random Forest modell esetében bevezetésre került az out-of-bag (OOB) kiértékelés is, amely ~52.9%-os értéket adott. Ez közel megegyezett a teszthalmazon mért ~51.9%-os pontossággal, ami arra utal, hogy a modell generalizációs képessége stabil, és jelentős overfitting nem figyelhető meg.
+
+A rule-based modell ebben az iterációban jelentős fejlődést mutatott. A pontosság ~39.8%-ra növekedett, amely lényeges javulás a korábbi ~15.6%-hoz képest. Ez azt mutatja, hogy az új szabályok (különösen az SNI, port és forgalmi mintázatok alapján történő döntések) már ténylegesen képesek hasznos információt szolgáltatni.
+
+A confusion matrix alapján ugyanakkor továbbra is erős torzítás figyelhető meg a YouTube osztály irányába:
+
+Instagram: 13 mintából 12 került YouTube kategóriába
+Spotify: 108 mintából 84 került YouTube kategóriába
+TikTok: 24 mintából 21 került YouTube kategóriába
+WhatsApp: 27 mintából 19 került YouTube kategóriába
+
+Ennek ellenére fontos előrelépés volt, hogy a rendszer már több különböző osztályban is képes helyes predikciókra. Különösen érdekes eredmény született a TikTok osztály esetében, ahol a precision érték ~1.00 lett, miközben a recall továbbra is alacsony (~0.04) maradt. Ez azt jelenti, hogy amikor a rendszer TikTok kategóriát prediktált, az szinte minden esetben helyes volt, azonban a TikTok minták túlnyomó részét továbbra is más osztályokba sorolta. Ez arra utal, hogy a TikTok-specifikus szabályok túl szigorúak, de alapvetően jó irányba mutatnak.
+
+A hybrid modell tovább javult, és ~53.6%-os pontosságot ért el, amellyel enyhén meghaladta a tisztán Random Forest alapú megközelítést (~51.9%). Ez különösen fontos eredmény, mivel korábban a hybrid modell vagy teljesen hibásan működött, vagy gyakorlatilag megegyezett az RF modellel. Ebben a futásban már egyértelműen láthatóvá vált, hogy a szabályalapú komponens ténylegesen képes hozzáadott információt biztosítani a gépi tanulási modell számára.
+
+A hybrid modell osztályonkénti eredményei:
+
+Instagram: precision ~0.50, recall ~0.08
+Spotify: precision ~0.48, recall ~0.86
+YouTube: precision ~0.66, recall ~0.42
+TikTok: precision ~0.67, recall ~0.08
+WhatsApp: precision ~0.56, recall ~0.37
+
+A confusion matrix alapján továbbra is a Spotify és YouTube osztályok elkülönítése jelentette a legnagyobb problémát:
+
+YouTube minták közül 64 került Spotify kategóriába
+Spotify minták közül 13 került YouTube kategóriába
+
+Ez azt mutatja, hogy a korábbi YouTube-dominancia részben megfordult, és a modell bizonyos mértékig már a Spotify osztály felé torzít. Ennek egyik oka valószínűleg az alkalmazott class weighting stratégia, amely a Spotify osztály számára nagyobb súlyt rendelt a tanítás során.
+
+A Random Forest modell teljesítménye:
+
+pontosság: ~51.9%
+macro average f1-score: ~0.36
+weighted average f1-score: ~0.48
+
+Az osztályonkénti eredmények:
+
+Instagram: precision ~0.50, recall ~0.08
+Spotify: precision ~0.46, recall ~0.85
+YouTube: precision ~0.64, recall ~0.40
+TikTok: precision ~0.67, recall ~0.08
+WhatsApp: precision ~0.67, recall ~0.30
+
+Az SVM modell ebben a futásban is jelentősen gyengébben teljesített (~41.5% pontosság), és továbbra is erős YouTube torzítást mutatott. A TikTok és Instagram minták túlnyomó része ismét YouTube kategóriába került, ami megerősítette, hogy az SVM modell ebben a problématérben nem képes megfelelően kezelni a komplex, nemlineáris döntési határokat.
+
+A feature importance elemzés alapján a legfontosabb feature továbbra is a célport (dst_port) maradt (~0.177 súly). Emellett kiemelkedő fontosságot kaptak:
+
+avg_pkt_size: ~0.093
+total_bytes: ~0.084
+variance_proxy: ~0.084
+bytes_per_sec: ~0.070
+duration: ~0.064
+
+Ez azt mutatja, hogy a modell döntéseit elsősorban a forgalom volumene, a csomagméretek és az időbeli mintázatok befolyásolják.
+
+Az ötödik futás eredményei alapján megállapítható, hogy a rendszer viselkedése stabilizálódott, és a hybrid architektúra már tényleges előnyt biztosít a tisztán gépi tanulás alapú megközelítéshez képest. A rule-based komponens immár nem rontja a teljesítményt, hanem bizonyos esetekben képes javítani az RF modell döntéseit.
+
+A negyedik futáshoz képest több fontos változás figyelhető meg:
+
+- a rule-based modell pontossága jelentősen javult (~15.6% -> ~39.8%)
+- a hybrid modell először teljesített mérhetően jobban a Random Forest modellnél
+- a Spotify osztály felismerése tovább javult
+- a YouTube dominancia csökkent, ugyanakkor részleges Spotify bias jelent meg
+
+A jelenlegi eredmények alapján a rendszer legnagyobb kihívását továbbra is az egymáshoz nagyon hasonló média streaming alkalmazások elkülönítése jelenti. A további fejlesztési lehetőségek között szerepelhet a QUIC detektálás, DNS-alapú feature extraction, TLS fingerprinting (JA3), valamint időbeli burst- és flow-analízis bevezetése.
