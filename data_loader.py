@@ -83,6 +83,5 @@ def build_dataset(data_dir):
                         X_features.append(features)
                         X_full.append((s["data"], s["flow_id"]))
                         y.append(label)
-                        #print(f"[DATASET] X={len(X_features)}, y={len(y)}")
 
     return X_features, X_full, y

@@ -7,6 +7,15 @@ def safe_div(a, b):
 
 
 def parse_timestamp(ts):
+    # Handle nanosecond precision by truncating to microseconds
+    if '.' in ts:
+        date_part, time_part = ts.split('T')
+        time_main, tz = time_part.split('+') if '+' in time_part else (time_part.split('Z')[0], '00:00')
+        if '.' in time_main:
+            seconds, micros = time_main.split('.')
+            micros = micros[:6]  # Truncate to 6 digits
+            time_main = f"{seconds}.{micros}"
+        ts = f"{date_part}T{time_main}+{tz}" if tz != '00:00' else f"{date_part}T{time_main}Z"
     return datetime.fromisoformat(ts.replace("Z", "+00:00"))
 
 
@@ -91,5 +100,6 @@ def extract_features_from_service(service, flow_id):
             sni_length
         ]
 
-    except Exception:
+    except Exception as e:
+        print(f"[EXTRACT ERROR] {e}")
         return None

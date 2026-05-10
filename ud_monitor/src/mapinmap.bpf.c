@@ -188,9 +188,9 @@ static __always_inline unsigned int node_value(ipv4_lpm_key ipaddr){
         UPF : 4
         MME(SGSN) GN : 7
         (Unknown) : 12 */
-    unsigned int* node_addresses = bpf_map_lookup_elem(&nodes, &ipaddr);
-    if (node_addresses) { return *node_addresses; }
-    return 12;
+    //unsigned int* node_addresses = bpf_map_lookup_elem(&nodes, &ipaddr);
+    //if (node_addresses) { return *node_addresses; }
+    return 12; 
 }
 
 static __always_inline void EWMA_jitter(struct jitter_calc *calc, __u64 now) {
@@ -231,7 +231,7 @@ __u16 add_nodeval(__u16 flags, int node_sum){
         12:4G,
         13:5G,
         14-15: reserved for future use */
-    switch (node_sum) {
+    /*switch (node_sum) {
         case 5:
             flags = flags | 0x1001;
             break;
@@ -249,19 +249,54 @@ __u16 add_nodeval(__u16 flags, int node_sum){
             break;
         default:
             return flags;
-    }
+    }*/
     return flags;
 }
 
-/* check if ip is UE (starting with 10.0) */
-static __always_inline int is_user_ip(struct in6_addr* ip) {
-    // For IPv4 mapped to IPv6, check the last 32 bits (in6_u.u6_addr32[3])
-    // IPv4 10.0.x.x maps to 0x0A00xxxx in network byte order
-    if (ip->in6_u.u6_addr16[5] == bpf_htons(0xffff)) { // IPv4-mapped IPv6
+/* check if ip is UE / user traffic */
+static __always_inline int is_user_ip(struct in6_addr* ip)
+{
+    /* IPv4 mapped IPv6 */
+    if (ip->in6_u.u6_addr16[5] == bpf_htons(0xffff)) {
         __u32 ipv4_addr = bpf_ntohl(ip->in6_u.u6_addr32[3]);
-        return (ipv4_addr & 0xffff0000) == 0x0a000000; // Check if starts with 10.0
+
+        /* original mobile UE range */
+        if ((ipv4_addr & 0xffff0000) == 0x0a000000) {
+            return 1;
+        }
+
+        /* private IPv4 ranges for local test environments */
+        if ((ipv4_addr & 0xff000000) == 0x7f000000) { /* 127.0.0.0/8 */
+            return 1;
+        }
+        if ((ipv4_addr & 0xff000000) == 0x0a000000) { /* 10.0.0.0/8 */
+            return 1;
+        }
+        if ((ipv4_addr & 0xfff00000) == 0xac100000) { /* 172.16.0.0/12 */
+            return 1;
+        }
+        if ((ipv4_addr & 0xffff0000) == 0xc0a80000) { /* 192.168.0.0/16 */
+            return 1;
+        }
     }
-    // For native IPv6, no special handling for 10.0 (adjust if needed)
+
+    /*
+     * TEST ENVIRONMENT:
+     * accept local IPv6 addresses starting with fcxx:: or link-local fe80::
+     */
+    if ((ip->in6_u.u6_addr8[0] & 0xfe) == 0xfc) {
+        return 1;
+    }
+    if (ip->in6_u.u6_addr8[0] == 0xfe && (ip->in6_u.u6_addr8[1] & 0xc0) == 0x80) {
+        return 1;
+    }
+    if (ip->in6_u.u6_addr8[0] == 0 && ip->in6_u.u6_addr8[1] == 0 && ip->in6_u.u6_addr8[2] == 0 && ip->in6_u.u6_addr8[3] == 0 &&
+        ip->in6_u.u6_addr8[4] == 0 && ip->in6_u.u6_addr8[5] == 0 && ip->in6_u.u6_addr8[6] == 0 && ip->in6_u.u6_addr8[7] == 0 &&
+        ip->in6_u.u6_addr8[8] == 0 && ip->in6_u.u6_addr8[9] == 0 && ip->in6_u.u6_addr8[10] == 0 && ip->in6_u.u6_addr8[11] == 0 &&
+        ip->in6_u.u6_addr8[12] == 0 && ip->in6_u.u6_addr8[13] == 0 && ip->in6_u.u6_addr8[14] == 0 && ip->in6_u.u6_addr8[15] == 1) {
+        return 1; /* ::1 loopback */
+    }
+
     return 0;
 }
 
@@ -894,22 +929,7 @@ int qos_logic(struct __sk_buff* skb){
 
     int ret = 0;
     if (!inner_map_number) { // log new user
-        /*struct in6_addr first_elem_addr = {0};
-        struct ipv6_lpm_key first_elem = {128, first_elem_addr};
-        inner_map_number = bpf_map_lookup_elem(&mapid, &first_elem);
-
-        if (!inner_map_number) { // first element containing the size of the map should always exist
-            prog_stats(FATERR_CTR); prog_stats(MAPID_ERR);
-            return -1;
-        }
-
-        new_mapnum.map_num = inner_map_number->map_num;
-        new_mapnum.flags = add_nodeval(new_mapnum.flags, node_sum);
-
-        ret = bpf_map_update_elem(&mapid, &UE_src_ip, &new_mapnum, BPF_NOEXIST);
-        if (ret < 0) { prog_stats(FATERR_CTR); prog_stats(MAPID_ERR); return -1; }
-        inner_map_number->map_num += 1;*/
-
+        
         // assigning inner map number using free pointers
         new_mapnum.map_num = next_free_mapid();
         if (new_mapnum.map_num == -1 ) { 
@@ -1334,7 +1354,8 @@ int monitor_wnet(struct __sk_buff *skb) {
         direction = TO_INTERNET;
     } else if (is_user_ip(&hdr_info.daddr)) {
         direction = TO_UE;
-    } else {
+    } 
+    else {
         direction = (skb->ingress_ifindex) ? TO_UE : TO_INTERNET;
     }
 

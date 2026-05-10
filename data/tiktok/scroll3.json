@@ -1,159 +1,13 @@
 {
-  "UserIP":"::",
-  "UserIMSI":"Under development",
-  "UserIMEI":"Under development",
-  "Roaming":"Unknown",
-  "Technology":"Unknown",
-  "Services":{}
-}
-{
-  "UserIP":"::ffff:2.23.154.145",
-  "UserIMSI":"Under development",
-  "UserIMEI":"Under development",
-  "Roaming":"Unknown",
-  "Technology":"Unknown",
-  "Services":{
-    "::ffff:192.168.100.26:49810 TCP":{
-      "RX first timestamp":"2026-05-02T22:09:35.260203616Z",
-      "RX latest timestamp":"2026-05-02T22:09:35.260203616Z",
-      "RX bytes":122,
-      "TX bytes":0,
-      "RX packets":1,
-      "TX packets":0,
-      "RX packet loss":0,
-      "TX packet loss":0
-    }
-  }
-}
-{
-  "UserIP":"::ffff:192.168.100.26",
-  "UserIMSI":"Under development",
-  "UserIMEI":"Under development",
-  "Roaming":"Unknown",
-  "Technology":"Unknown",
-  "Services":{
-    "::ffff:156.146.40.27:443 TCP":{
-      "RX first timestamp":"2026-05-02T22:09:41.143200843Z",
-      "RX latest timestamp":"2026-05-02T22:09:41.936293995Z",
-      "RX bytes":121655,
-      "TX bytes":0,
-      "RX packets":87,
-      "TX packets":0,
-      "RX packet loss":44,
-      "TX packet loss":0,
-      "Jitter (ms)":7,
-      "SNI":"tiktok.com"
-    }
-  }
-}
-{
-  "UserIP":"::ffff:224.0.0.252",
-  "UserIMSI":"Under development",
-  "UserIMEI":"Under development",
-  "Roaming":"Unknown",
-  "Technology":"Unknown",
-  "Services":{
-    "::ffff:192.168.100.15:51676 UDP":{
-      "RX first timestamp":"2026-05-02T22:09:41.229126694Z",
-      "RX latest timestamp":"2026-05-02T22:09:41.229126694Z",
-      "RX bytes":75,
-      "TX bytes":0,
-      "RX packets":1,
-      "TX packets":0,
-      "RX packet loss":0,
-      "TX packet loss":0
-    }
-  }
-}
-{
-  "UserIP":"::ffff:239.255.255.250",
-  "UserIMSI":"Under development",
-  "UserIMEI":"Under development",
-  "Roaming":"Unknown",
-  "Technology":"Unknown",
-  "Services":{
-    "::ffff:192.168.100.15:59705 UDP":{
-      "RX first timestamp":"2026-05-02T22:09:41.234545961Z",
-      "RX latest timestamp":"2026-05-02T22:09:41.234545961Z",
-      "RX bytes":179,
-      "TX bytes":0,
-      "RX packets":1,
-      "TX packets":0,
-      "RX packet loss":0,
-      "TX packet loss":0
-    }
-  }
-}
-{
-  "UserIP":"2a00:1450:400d:809::200a",
-  "UserIMSI":"Under development",
-  "UserIMEI":"Under development",
-  "Roaming":"Unknown",
-  "Technology":"Unknown",
-  "Services":{
-    "2a01:36d:111:61dd:ec07:ef07:b16f:8c69:59281 UDP":{
-      "RX first timestamp":"2026-05-02T22:09:41.113787887Z",
-      "RX latest timestamp":"2026-05-02T22:09:41.927479326Z",
-      "RX bytes":789,
-      "TX bytes":0,
-      "RX packets":4,
-      "TX packets":0,
-      "RX packet loss":0,
-      "TX packet loss":0,
-      "Jitter (ms)":46
-    }
-  }
-}
-{
-  "UserIP":"::ffff:156.146.40.27",
-  "UserIMSI":"Under development",
-  "UserIMEI":"Under development",
-  "Roaming":"Unknown",
-  "Technology":"Unknown",
-  "Services":{
-    "::ffff:192.168.100.26:50106 TCP":{
-      "RX first timestamp":"2026-05-02T22:09:41.143238742Z",
-      "RX latest timestamp":"2026-05-02T22:09:41.936306411Z",
-      "RX bytes":1782,
-      "TX bytes":0,
-      "RX packets":33,
-      "TX packets":0,
-      "RX packet loss":0,
-      "TX packet loss":0,
-      "Jitter (ms)":34
-    }
-  }
-}
-{
-  "UserIP":"::ffff:224.0.0.251",
-  "UserIMSI":"Under development",
-  "UserIMEI":"Under development",
-  "Roaming":"Unknown",
-  "Technology":"Unknown",
-  "Services":{
-    "::ffff:192.168.100.15:5353 UDP":{
-      "RX first timestamp":"2026-05-02T22:09:41.227634164Z",
-      "RX latest timestamp":"2026-05-02T22:09:41.231742863Z",
-      "RX bytes":344,
-      "TX bytes":0,
-      "RX packets":4,
-      "TX packets":0,
-      "RX packet loss":0,
-      "TX packet loss":0,
-      "Jitter (ms)":0
-    }
-  }
-}
-{
   "UserIP":"2a01:368:1fe:703::5b53:e49",
   "UserIMSI":"Under development",
   "UserIMEI":"Under development",
   "Roaming":"Unknown",
   "Technology":"Unknown",
   "Services":{
-    "2a01:36d:111:61dd:ec07:ef07:b16f:8c69:50074 TCP":{
-      "RX first timestamp":"2026-05-02T22:09:41.543773166Z",
-      "RX latest timestamp":"2026-05-02T22:09:41.546351454Z",
+    "2a01:36d:111:61dd:ec07:ef07:b16f:8c69:50077 TCP":{
+      "RX first timestamp":"2026-05-09T09:11:49.546945570Z",
+      "RX latest timestamp":"2026-05-09T09:11:49.550457295Z",
       "RX bytes":148,
       "TX bytes":0,
       "RX packets":2,
@@ -161,9 +15,9 @@
       "RX packet loss":0,
       "TX packet loss":0
     },
-    "2a01:36d:111:61dd:ec07:ef07:b16f:8c69:50077 TCP":{
-      "RX first timestamp":"2026-05-02T22:09:42.078570150Z",
-      "RX latest timestamp":"2026-05-02T22:09:42.082093956Z",
+    "2a01:36d:111:61dd:ec07:ef07:b16f:8c69:50074 TCP":{
+      "RX first timestamp":"2026-05-09T09:11:49.012140743Z",
+      "RX latest timestamp":"2026-05-09T09:11:49.014712396Z",
       "RX bytes":148,
       "TX bytes":0,
       "RX packets":2,
@@ -181,8 +35,8 @@
   "Technology":"Unknown",
   "Services":{
     "2a00:1450:400d:809::200a:443 UDP":{
-      "RX first timestamp":"2026-05-02T22:09:41.110195256Z",
-      "RX latest timestamp":"2026-05-02T22:09:41.931312127Z",
+      "RX first timestamp":"2026-05-09T09:11:48.578565949Z",
+      "RX latest timestamp":"2026-05-09T09:11:49.399688029Z",
       "RX bytes":1476,
       "TX bytes":0,
       "RX packets":5,
@@ -192,16 +46,115 @@
       "Jitter (ms)":38
     },
     "2a01:368:1fe:703::5b53:e49:443 TCP":{
-      "RX first timestamp":"2026-05-02T22:09:41.546315463Z",
-      "RX latest timestamp":"2026-05-02T22:09:42.082064924Z",
+      "RX first timestamp":"2026-05-09T09:11:49.014687609Z",
+      "RX latest timestamp":"2026-05-09T09:11:49.550448532Z",
       "RX bytes":358,
       "TX bytes":0,
       "RX packets":4,
       "TX packets":0,
       "RX packet loss":0,
       "TX packet loss":0,
-      "Jitter (ms)":64,
-      "SNI":"tiktok.com"
+      "Jitter (ms)":64
+    }
+  }
+}
+{
+  "UserIP":"::ffff:192.168.100.15",
+  "UserIMSI":"Under development",
+  "UserIMEI":"Under development",
+  "Roaming":"Unknown",
+  "Technology":"Unknown",
+  "Services":{
+    "::ffff:224.0.0.251:5353 UDP":{
+      "TX first timestamp":"2026-05-09T09:11:48.696002459Z",
+      "TX latest timestamp":"2026-05-09T09:11:48.700103222Z",
+      "RX bytes":0,
+      "TX bytes":344,
+      "RX packets":0,
+      "TX packets":4,
+      "RX packet loss":0,
+      "TX packet loss":0,
+      "Jitter (ms)":0
+    },
+    "::ffff:239.255.255.250:1900 UDP":{
+      "TX first timestamp":"2026-05-09T09:11:48.702907044Z",
+      "TX latest timestamp":"2026-05-09T09:11:48.702907044Z",
+      "RX bytes":0,
+      "TX bytes":179,
+      "RX packets":0,
+      "TX packets":1,
+      "RX packet loss":0,
+      "TX packet loss":0
+    },
+    "::ffff:224.0.0.252:5355 UDP":{
+      "TX first timestamp":"2026-05-09T09:11:48.697493279Z",
+      "TX latest timestamp":"2026-05-09T09:11:48.697493279Z",
+      "RX bytes":0,
+      "TX bytes":75,
+      "RX packets":0,
+      "TX packets":1,
+      "RX packet loss":0,
+      "TX packet loss":0
+    }
+  }
+}
+{
+  "UserIP":"::ffff:192.168.100.26",
+  "UserIMSI":"Under development",
+  "UserIMEI":"Under development",
+  "Roaming":"Unknown",
+  "Technology":"Unknown",
+  "Services":{
+    "::ffff:156.146.40.27:443 TCP":{
+      "RX first timestamp":"2026-05-09T09:11:48.611571405Z",
+      "RX latest timestamp":"2026-05-09T09:11:49.404653367Z",
+      "TX latest timestamp":"2026-05-09T09:11:49.404666360Z",
+      "RX bytes":121655,
+      "TX bytes":1782,
+      "RX packets":87,
+      "TX packets":33,
+      "RX packet loss":44,
+      "TX packet loss":0,
+      "Jitter (ms)":3
+    },
+    "::ffff:2.23.154.145:443 TCP":{
+      "TX first timestamp":"2026-05-09T09:11:43.279990233Z",
+      "TX latest timestamp":"2026-05-09T09:11:43.279990233Z",
+      "RX bytes":0,
+      "TX bytes":122,
+      "RX packets":0,
+      "TX packets":1,
+      "RX packet loss":0,
+      "TX packet loss":0
+    }
+  }
+}
+{
+  "UserIP":"::",
+  "UserIMSI":"Under development",
+  "UserIMEI":"Under development",
+  "Roaming":"Unknown",
+  "Technology":"Unknown",
+  "Services":{
+  }
+}
+{
+  "UserIP":"2a00:1450:400d:809::200a",
+  "UserIMSI":"Under development",
+  "UserIMEI":"Under development",
+  "Roaming":"Unknown",
+  "Technology":"Unknown",
+  "Services":{
+    "2a01:36d:111:61dd:ec07:ef07:b16f:8c69:59281 UDP":{
+      "RX first timestamp":"2026-05-09T09:11:48.582162383Z",
+      "RX latest timestamp":"2026-05-09T09:11:49.395847190Z",
+      "RX bytes":789,
+      "TX bytes":0,
+      "RX packets":4,
+      "TX packets":0,
+      "RX packet loss":0,
+      "TX packet loss":0,
+      "Jitter (ms)":46
     }
   }
 }

@@ -4,7 +4,27 @@
   "UserIMEI":"Under development",
   "Roaming":"Unknown",
   "Technology":"Unknown",
-  "Services":{}
+  "Services":{
+  }
+}
+{
+  "UserIP":"fe80::cc6:b68f:2017:fd46",
+  "UserIMSI":"Under development",
+  "UserIMEI":"Under development",
+  "Roaming":"Unknown",
+  "Technology":"Unknown",
+  "Services":{
+    "ff02::1:ff70:ec9:0 Other":{
+      "TX first timestamp":"2026-05-09T09:01:31.193517414Z",
+      "TX latest timestamp":"2026-05-09T09:01:32.206241862Z",
+      "RX bytes":0,
+      "TX bytes":172,
+      "RX packets":0,
+      "TX packets":2,
+      "RX packet loss":0,
+      "TX packet loss":0
+    }
+  }
 }
 {
   "UserIP":"2a01:36d:111:693e:bce4:4908:d14b:947e",
@@ -14,26 +34,24 @@
   "Technology":"Unknown",
   "Services":{
     "2a03:2880:f207:c4:face:b00c:0:43fe:443 TCP":{
-      "RX first timestamp":"2026-05-02T21:54:53.443675117Z",
-      "RX latest timestamp":"2026-05-02T21:54:53.443675117Z",
+      "RX first timestamp":"2026-05-09T09:01:31.741529966Z",
+      "RX latest timestamp":"2026-05-09T09:01:31.741529966Z",
       "RX bytes":145,
       "TX bytes":0,
       "RX packets":1,
       "TX packets":0,
       "RX packet loss":0,
-      "TX packet loss":0,
-      "SNI":"instagram.com"
+      "TX packet loss":0
     },
     "2a03:2880:f007:7:face:b00c:0:6206:443 TCP":{
-      "RX first timestamp":"2026-05-02T21:54:53.980115621Z",
-      "RX latest timestamp":"2026-05-02T21:54:54.011790816Z",
+      "RX first timestamp":"2026-05-09T09:01:32.277969194Z",
+      "RX latest timestamp":"2026-05-09T09:01:32.309644651Z",
       "RX bytes":173,
       "TX bytes":0,
       "RX packets":2,
       "TX packets":0,
       "RX packet loss":0,
-      "TX packet loss":0,
-      "SNI":"instagram.com"
+      "TX packet loss":0
     }
   }
 }
@@ -45,8 +63,8 @@
   "Technology":"Unknown",
   "Services":{
     "2a01:36d:111:693e:bce4:4908:d14b:947e:51639 TCP":{
-      "RX first timestamp":"2026-05-02T21:54:53.974920582Z",
-      "RX latest timestamp":"2026-05-02T21:54:54.065415744Z",
+      "RX first timestamp":"2026-05-09T09:01:32.272753983Z",
+      "RX latest timestamp":"2026-05-09T09:01:32.363274397Z",
       "RX bytes":177,
       "TX bytes":0,
       "RX packets":2,
@@ -64,28 +82,9 @@
   "Technology":"Unknown",
   "Services":{
     "2a01:36d:111:693e:bce4:4908:d14b:947e:51642 TCP":{
-      "RX first timestamp":"2026-05-02T21:54:53.406309508Z",
-      "RX latest timestamp":"2026-05-02T21:54:53.484118731Z",
+      "RX first timestamp":"2026-05-09T09:01:31.704168758Z",
+      "RX latest timestamp":"2026-05-09T09:01:31.781954065Z",
       "RX bytes":217,
-      "TX bytes":0,
-      "RX packets":2,
-      "TX packets":0,
-      "RX packet loss":0,
-      "TX packet loss":0
-    }
-  }
-}
-{
-  "UserIP":"ff02::1:ff70:ec9",
-  "UserIMSI":"Under development",
-  "UserIMEI":"Under development",
-  "Roaming":"Unknown",
-  "Technology":"Unknown",
-  "Services":{
-    "fe80::cc6:b68f:2017:fd46:0 Other":{
-      "RX first timestamp":"2026-05-02T21:54:52.895653553Z",
-      "RX latest timestamp":"2026-05-02T21:54:53.908420365Z",
-      "RX bytes":172,
       "TX bytes":0,
       "RX packets":2,
       "TX packets":0,
