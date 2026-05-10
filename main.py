@@ -25,7 +25,8 @@ def main():
     # Rule-based evaluation
     rule_preds = []
     for service, flow_id in X_test_full:
-        pred = rule_classify(service, flow_id)
+        result = rule_classify(service, flow_id)
+        pred = result["prediction"]
         rule_preds.append(pred)
     evaluate(y_test, rule_preds, "Rule-based")
 

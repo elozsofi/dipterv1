@@ -13,7 +13,8 @@
       "RX packets":0,
       "TX packets":1,
       "RX packet loss":0,
-      "TX packet loss":0
+      "TX packet loss":0,
+      "SNI":"tiktok.com"
     },
     "::ffff:91.83.14.176:443 TCP":{
       "RX latest timestamp":"2026-05-09T09:11:12.014956822Z",

@@ -14,7 +14,8 @@
       "TX packets":5,
       "RX packet loss":0,
       "TX packet loss":1,
-      "Jitter (ms)":816
+      "Jitter (ms)":816,
+      "SNI":"tiktok.com"
     }
   }
 }

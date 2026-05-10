@@ -222,7 +222,8 @@
       "RX packets":1,
       "TX packets":0,
       "RX packet loss":0,
-      "TX packet loss":0
+      "TX packet loss":0,
+      "SNI":"whatsapp.com"
     },
     "2a00:1450:400d:812::2003:443 UDP":{
       "RX first timestamp":"2026-05-09T09:15:17.959265184Z",

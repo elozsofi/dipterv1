@@ -400,7 +400,8 @@
       "RX packets":1,
       "TX packets":0,
       "RX packet loss":0,
-      "TX packet loss":0
+      "TX packet loss":0,
+      "SNI":"youtube.com"
     },
     "2a00:1450:400d:802::2016:443 TCP":{
       "RX first timestamp":"2026-05-09T09:21:30.710278379Z",

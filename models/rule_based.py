@@ -182,28 +182,28 @@ def classify(service, flow_id):
             "googlevideo" in sni_lower or
             "ytimg" in sni_lower
         ):
-            return APP_YOUTUBE
+            return {"prediction": APP_YOUTUBE, "confidence": 10}
 
         # Spotify
         if (
             "spotify" in sni_lower or
             "scdn" in sni_lower
         ):
-            return APP_SPOTIFY
+            return {"prediction": APP_SPOTIFY, "confidence": 10}
 
         # Instagram
         if (
             "instagram" in sni_lower or
             "cdninstagram" in sni_lower
         ):
-            return APP_INSTAGRAM
+            return {"prediction": APP_INSTAGRAM, "confidence": 10}
 
         # WhatsApp
         if (
             "whatsapp" in sni_lower or
             "whatsapp.net" in sni_lower
         ):
-            return APP_WHATSAPP
+            return {"prediction": APP_WHATSAPP, "confidence": 10}
 
         # TikTok
         if (
@@ -212,7 +212,7 @@ def classify(service, flow_id):
             "ibyteimg" in sni_lower or
             "muscdn" in sni_lower
         ):
-            return APP_TIKTOK
+            return {"prediction": APP_TIKTOK, "confidence": 10}
 
     # =========================================================
     # 2. NON-CDN IP INFRASTRUCTURE RULES
@@ -220,47 +220,47 @@ def classify(service, flow_id):
 
     # TikTok
     if ip_in_ranges(ip, TIKTOK_IPS):
-        return APP_TIKTOK
+        return {"prediction": APP_TIKTOK, "confidence": 8}
 
     # Spotify
     if ip_in_ranges(ip, SPOTIFY_IPS):
-        return APP_SPOTIFY
+        return {"prediction": APP_SPOTIFY, "confidence": 8}
 
     # Meta traffic
     if ip_in_ranges(ip, META_IPS):
 
         # WhatsApp specific ports
         if dst_port in WHATSAPP_PORTS:
-            return APP_WHATSAPP
+            return {"prediction": APP_WHATSAPP, "confidence": 9}
 
         # High upload ratio -> chat/video
         if dir_ratio > 0.25:
-            return APP_WHATSAPP
+            return {"prediction": APP_WHATSAPP, "confidence": 7}
 
-        return APP_INSTAGRAM
+        return {"prediction": APP_INSTAGRAM, "confidence": 7}
 
     # Google infra
     if ip_in_ranges(ip, GOOGLE_IPS):
 
         # Heavy downstream streaming
         if bytes_per_sec > 50000:
-            return APP_YOUTUBE
+            return {"prediction": APP_YOUTUBE, "confidence": 8}
 
     # =========================================================
     # 3. PORT-BASED RULES
     # =========================================================
 
     if dst_port in WHATSAPP_PORTS:
-        return APP_WHATSAPP
+        return {"prediction": APP_WHATSAPP, "confidence": 6}
 
     if dst_port in SPOTIFY_PORTS:
-        return APP_SPOTIFY
+        return {"prediction": APP_SPOTIFY, "confidence": 6}
 
     if dst_port in TIKTOK_PORTS:
-        return APP_TIKTOK
+        return {"prediction": APP_TIKTOK, "confidence": 6}
 
     if dst_port in YOUTUBE_PORTS:
-        return APP_YOUTUBE
+        return {"prediction": APP_YOUTUBE, "confidence": 6}
 
     # =========================================================
     # 4. TRAFFIC PATTERN RULES
@@ -273,7 +273,7 @@ def classify(service, flow_id):
         avg_pkt_size > 900 and
         dir_ratio < 0.15
     ):
-        return APP_YOUTUBE
+        return {"prediction": APP_YOUTUBE, "confidence": 5}
 
     # Spotify:
     # medium bitrate sustained stream
@@ -282,7 +282,7 @@ def classify(service, flow_id):
         avg_pkt_size > 700 and
         dir_ratio < 0.20
     ):
-        return APP_SPOTIFY
+        return {"prediction": APP_SPOTIFY, "confidence": 5}
 
     # Instagram:
     # mixed interactive media traffic
@@ -290,7 +290,7 @@ def classify(service, flow_id):
         10000 < bytes_per_sec < 70000 and
         0.05 < dir_ratio < 0.50
     ):
-        return APP_INSTAGRAM
+        return {"prediction": APP_INSTAGRAM, "confidence": 4}
 
     # WhatsApp:
     # smaller interactive bidirectional flows
@@ -299,7 +299,7 @@ def classify(service, flow_id):
         avg_pkt_size < 700 and
         dir_ratio > 0.15
     ):
-        return APP_WHATSAPP
+        return {"prediction": APP_WHATSAPP, "confidence": 4}
 
     # =========================================================
     # 5. BURST-BASED FALLBACK
@@ -307,12 +307,12 @@ def classify(service, flow_id):
     # =========================================================
 
     if bytes_per_sec > 100000:
-        return APP_YOUTUBE
+        return {"prediction": APP_YOUTUBE, "confidence": 3}
 
     if bytes_per_sec > 40000:
-        return APP_SPOTIFY
+        return {"prediction": APP_SPOTIFY, "confidence": 3}
 
     if bytes_per_sec > 15000:
-        return APP_INSTAGRAM
+        return {"prediction": APP_INSTAGRAM, "confidence": 2}
 
-    return APP_WHATSAPP
+    return {"prediction": APP_WHATSAPP, "confidence": 1}

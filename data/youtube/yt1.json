@@ -64,7 +64,8 @@
       "TX packets":4,
       "RX packet loss":0,
       "TX packet loss":1,
-      "Jitter (ms)":0
+      "Jitter (ms)":0,
+      "SNI":"youtube.com"
     },
     "::ffff:98.82.158.241:443 TCP":{
       "TX first timestamp":"2026-05-09T09:21:13.529150112Z",

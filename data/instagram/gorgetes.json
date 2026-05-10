@@ -32,7 +32,8 @@
       "RX packets":2,
       "TX packets":0,
       "RX packet loss":0,
-      "TX packet loss":0
+      "TX packet loss":0,
+      "SNI":"instagram.com"
     },
     "2a00:1450:400d:811::200a:443 UDP":{
       "RX first timestamp":"2026-05-09T08:58:20.787891294Z",
