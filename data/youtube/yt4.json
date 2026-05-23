@@ -8,9 +8,11 @@
     "::ffff:192.168.100.1:53 UDP":{
       "TX first timestamp":"2026-05-09T09:22:42.738966648Z",
       "TX latest timestamp":"2026-05-09T09:22:54.644087948Z",
-      "RX bytes":0,
+      "RX first timestamp":"2026-05-09T09:22:42.743228054Z",
+      "RX latest timestamp":"2026-05-09T09:22:54.652319436Z",
+      "RX bytes":4491,
       "TX bytes":2560,
-      "RX packets":0,
+      "RX packets":31,
       "TX packets":31,
       "RX packet loss":0,
       "TX packet loss":0,
@@ -32,443 +34,6 @@
   }
 }
 {
-  "UserIP":"2001:4860:4802:32::36",
-  "UserIMSI":"Under development",
-  "UserIMEI":"Under development",
-  "Roaming":"Unknown",
-  "Technology":"Unknown",
-  "Services":{
-    "2a01:36d:111:693e:bce4:4908:d14b:947e:51355 TCP":{
-      "RX first timestamp":"2026-05-09T09:22:50.736622249Z",
-      "RX latest timestamp":"2026-05-09T09:22:50.736622249Z",
-      "RX bytes":75,
-      "TX bytes":0,
-      "RX packets":1,
-      "TX packets":0,
-      "RX packet loss":0,
-      "TX packet loss":0
-    }
-  }
-}
-{
-  "UserIP":"::ffff:192.168.100.1",
-  "UserIMSI":"Under development",
-  "UserIMEI":"Under development",
-  "Roaming":"Unknown",
-  "Technology":"Unknown",
-  "Services":{
-    "::ffff:192.168.100.26:50362 UDP":{
-      "TX first timestamp":"2026-05-09T09:22:46.454555457Z",
-      "TX latest timestamp":"2026-05-09T09:22:46.454555457Z",
-      "RX bytes":0,
-      "TX bytes":145,
-      "RX packets":0,
-      "TX packets":1,
-      "RX packet loss":0,
-      "TX packet loss":0
-    },
-    "::ffff:192.168.100.26:64775 UDP":{
-      "TX first timestamp":"2026-05-09T09:22:42.845860329Z",
-      "TX latest timestamp":"2026-05-09T09:22:42.845860329Z",
-      "RX bytes":0,
-      "TX bytes":298,
-      "RX packets":0,
-      "TX packets":1,
-      "RX packet loss":0,
-      "TX packet loss":0
-    },
-    "::ffff:192.168.100.26:51822 UDP":{
-      "TX first timestamp":"2026-05-09T09:22:48.629112658Z",
-      "TX latest timestamp":"2026-05-09T09:22:48.629112658Z",
-      "RX bytes":0,
-      "TX bytes":133,
-      "RX packets":0,
-      "TX packets":1,
-      "RX packet loss":0,
-      "TX packet loss":0
-    },
-    "::ffff:192.168.100.26:63773 UDP":{
-      "TX first timestamp":"2026-05-09T09:22:45.471812292Z",
-      "TX latest timestamp":"2026-05-09T09:22:45.471812292Z",
-      "RX bytes":0,
-      "TX bytes":185,
-      "RX packets":0,
-      "TX packets":1,
-      "RX packet loss":0,
-      "TX packet loss":0
-    },
-    "::ffff:192.168.100.26:58559 UDP":{
-      "TX first timestamp":"2026-05-09T09:22:45.614263518Z",
-      "TX latest timestamp":"2026-05-09T09:22:45.614263518Z",
-      "RX bytes":0,
-      "TX bytes":151,
-      "RX packets":0,
-      "TX packets":1,
-      "RX packet loss":0,
-      "TX packet loss":0
-    },
-    "::ffff:192.168.100.26:61828 UDP":{
-      "TX first timestamp":"2026-05-09T09:22:42.802123839Z",
-      "TX latest timestamp":"2026-05-09T09:22:42.802123839Z",
-      "RX bytes":0,
-      "TX bytes":167,
-      "RX packets":0,
-      "TX packets":1,
-      "RX packet loss":0,
-      "TX packet loss":0
-    },
-    "::ffff:192.168.100.26:52300 UDP":{
-      "TX first timestamp":"2026-05-09T09:22:54.652319436Z",
-      "TX latest timestamp":"2026-05-09T09:22:54.652319436Z",
-      "RX bytes":0,
-      "TX bytes":94,
-      "RX packets":0,
-      "TX packets":1,
-      "RX packet loss":0,
-      "TX packet loss":0
-    },
-    "::ffff:192.168.100.26:50903 UDP":{
-      "TX first timestamp":"2026-05-09T09:22:42.801820665Z",
-      "TX latest timestamp":"2026-05-09T09:22:42.801820665Z",
-      "RX bytes":0,
-      "TX bytes":150,
-      "RX packets":0,
-      "TX packets":1,
-      "RX packet loss":0,
-      "TX packet loss":0
-    },
-    "::ffff:192.168.100.26:63579 UDP":{
-      "TX first timestamp":"2026-05-09T09:22:48.634354271Z",
-      "TX latest timestamp":"2026-05-09T09:22:48.634354271Z",
-      "RX bytes":0,
-      "TX bytes":89,
-      "RX packets":0,
-      "TX packets":1,
-      "RX packet loss":0,
-      "TX packet loss":0
-    },
-    "::ffff:192.168.100.26:63781 UDP":{
-      "TX first timestamp":"2026-05-09T09:22:42.846619772Z",
-      "TX latest timestamp":"2026-05-09T09:22:42.846619772Z",
-      "RX bytes":0,
-      "TX bytes":99,
-      "RX packets":0,
-      "TX packets":1,
-      "RX packet loss":0,
-      "TX packet loss":0
-    },
-    "::ffff:192.168.100.26:58638 UDP":{
-      "TX first timestamp":"2026-05-09T09:22:54.648748178Z",
-      "TX latest timestamp":"2026-05-09T09:22:54.648748178Z",
-      "RX bytes":0,
-      "TX bytes":135,
-      "RX packets":0,
-      "TX packets":1,
-      "RX packet loss":0,
-      "TX packet loss":0
-    },
-    "::ffff:192.168.100.26:56370 UDP":{
-      "TX first timestamp":"2026-05-09T09:22:54.605052820Z",
-      "TX latest timestamp":"2026-05-09T09:22:54.605052820Z",
-      "RX bytes":0,
-      "TX bytes":145,
-      "RX packets":0,
-      "TX packets":1,
-      "RX packet loss":0,
-      "TX packet loss":0
-    },
-    "::ffff:192.168.100.26:51114 UDP":{
-      "TX first timestamp":"2026-05-09T09:22:48.626223570Z",
-      "TX latest timestamp":"2026-05-09T09:22:48.626223570Z",
-      "RX bytes":0,
-      "TX bytes":120,
-      "RX packets":0,
-      "TX packets":1,
-      "RX packet loss":0,
-      "TX packet loss":0
-    },
-    "::ffff:192.168.100.26:65137 UDP":{
-      "TX first timestamp":"2026-05-09T09:22:42.804457149Z",
-      "TX latest timestamp":"2026-05-09T09:22:42.804457149Z",
-      "RX bytes":0,
-      "TX bytes":138,
-      "RX packets":0,
-      "TX packets":1,
-      "RX packet loss":0,
-      "TX packet loss":0
-    },
-    "::ffff:192.168.100.26:56174 UDP":{
-      "TX first timestamp":"2026-05-09T09:22:45.504946780Z",
-      "TX latest timestamp":"2026-05-09T09:22:45.504946780Z",
-      "RX bytes":0,
-      "TX bytes":249,
-      "RX packets":0,
-      "TX packets":1,
-      "RX packet loss":0,
-      "TX packet loss":0
-    },
-    "::ffff:192.168.100.26:57123 UDP":{
-      "TX first timestamp":"2026-05-09T09:22:42.851179358Z",
-      "TX latest timestamp":"2026-05-09T09:22:42.851179358Z",
-      "RX bytes":0,
-      "TX bytes":202,
-      "RX packets":0,
-      "TX packets":1,
-      "RX packet loss":0,
-      "TX packet loss":0
-    },
-    "::ffff:192.168.100.26:51688 UDP":{
-      "TX first timestamp":"2026-05-09T09:22:54.648415467Z",
-      "TX latest timestamp":"2026-05-09T09:22:54.648415467Z",
-      "RX bytes":0,
-      "TX bytes":135,
-      "RX packets":0,
-      "TX packets":1,
-      "RX packet loss":0,
-      "TX packet loss":0
-    },
-    "::ffff:192.168.100.26:61900 UDP":{
-      "TX first timestamp":"2026-05-09T09:22:42.745805224Z",
-      "TX latest timestamp":"2026-05-09T09:22:42.745805224Z",
-      "RX bytes":0,
-      "TX bytes":91,
-      "RX packets":0,
-      "TX packets":1,
-      "RX packet loss":0,
-      "TX packet loss":0
-    },
-    "::ffff:192.168.100.26:63525 UDP":{
-      "TX first timestamp":"2026-05-09T09:22:45.495568171Z",
-      "TX latest timestamp":"2026-05-09T09:22:45.495568171Z",
-      "RX bytes":0,
-      "TX bytes":249,
-      "RX packets":0,
-      "TX packets":1,
-      "RX packet loss":0,
-      "TX packet loss":0
-    },
-    "::ffff:192.168.100.26:54081 UDP":{
-      "TX first timestamp":"2026-05-09T09:22:45.622765463Z",
-      "TX latest timestamp":"2026-05-09T09:22:45.622765463Z",
-      "RX bytes":0,
-      "TX bytes":145,
-      "RX packets":0,
-      "TX packets":1,
-      "RX packet loss":0,
-      "TX packet loss":0
-    },
-    "::ffff:192.168.100.26:50925 UDP":{
-      "TX first timestamp":"2026-05-09T09:22:48.623407453Z",
-      "TX latest timestamp":"2026-05-09T09:22:48.623407453Z",
-      "RX bytes":0,
-      "TX bytes":138,
-      "RX packets":0,
-      "TX packets":1,
-      "RX packet loss":0,
-      "TX packet loss":0
-    },
-    "::ffff:192.168.100.26:50966 UDP":{
-      "TX first timestamp":"2026-05-09T09:22:54.599600860Z",
-      "TX latest timestamp":"2026-05-09T09:22:54.599600860Z",
-      "RX bytes":0,
-      "TX bytes":151,
-      "RX packets":0,
-      "TX packets":1,
-      "RX packet loss":0,
-      "TX packet loss":0
-    },
-    "::ffff:192.168.100.26:58912 UDP":{
-      "TX first timestamp":"2026-05-09T09:22:54.602647541Z",
-      "TX latest timestamp":"2026-05-09T09:22:54.602647541Z",
-      "RX bytes":0,
-      "TX bytes":157,
-      "RX packets":0,
-      "TX packets":1,
-      "RX packet loss":0,
-      "TX packet loss":0
-    },
-    "::ffff:192.168.100.26:58757 UDP":{
-      "TX first timestamp":"2026-05-09T09:22:46.447104638Z",
-      "TX latest timestamp":"2026-05-09T09:22:46.447104638Z",
-      "RX bytes":0,
-      "TX bytes":151,
-      "RX packets":0,
-      "TX packets":1,
-      "RX packet loss":0,
-      "TX packet loss":0
-    },
-    "::ffff:192.168.100.26:53215 UDP":{
-      "TX first timestamp":"2026-05-09T09:22:42.743516053Z",
-      "TX latest timestamp":"2026-05-09T09:22:42.743516053Z",
-      "RX bytes":0,
-      "TX bytes":132,
-      "RX packets":0,
-      "TX packets":1,
-      "RX packet loss":0,
-      "TX packet loss":0
-    },
-    "::ffff:192.168.100.26:57545 UDP":{
-      "TX first timestamp":"2026-05-09T09:22:48.632013959Z",
-      "TX latest timestamp":"2026-05-09T09:22:48.632013959Z",
-      "RX bytes":0,
-      "TX bytes":101,
-      "RX packets":0,
-      "TX packets":1,
-      "RX packet loss":0,
-      "TX packet loss":0
-    },
-    "::ffff:192.168.100.26:52437 UDP":{
-      "TX first timestamp":"2026-05-09T09:22:42.743228054Z",
-      "TX latest timestamp":"2026-05-09T09:22:42.743228054Z",
-      "RX bytes":0,
-      "TX bytes":103,
-      "RX packets":0,
-      "TX packets":1,
-      "RX packet loss":0,
-      "TX packet loss":0
-    },
-    "::ffff:192.168.100.26:56192 UDP":{
-      "TX first timestamp":"2026-05-09T09:22:46.451775765Z",
-      "TX latest timestamp":"2026-05-09T09:22:46.451775765Z",
-      "RX bytes":0,
-      "TX bytes":157,
-      "RX packets":0,
-      "TX packets":1,
-      "RX packet loss":0,
-      "TX packet loss":0
-    },
-    "::ffff:192.168.100.26:61893 UDP":{
-      "TX first timestamp":"2026-05-09T09:22:48.623124685Z",
-      "TX latest timestamp":"2026-05-09T09:22:48.623124685Z",
-      "RX bytes":0,
-      "TX bytes":144,
-      "RX packets":0,
-      "TX packets":1,
-      "RX packet loss":0,
-      "TX packet loss":0
-    },
-    "::ffff:192.168.100.26:59345 UDP":{
-      "TX first timestamp":"2026-05-09T09:22:45.619629490Z",
-      "TX latest timestamp":"2026-05-09T09:22:45.619629490Z",
-      "RX bytes":0,
-      "TX bytes":157,
-      "RX packets":0,
-      "TX packets":1,
-      "RX packet loss":0,
-      "TX packet loss":0
-    },
-    "::ffff:192.168.100.26:49509 UDP":{
-      "TX first timestamp":"2026-05-09T09:22:45.452669363Z",
-      "TX latest timestamp":"2026-05-09T09:22:45.452669363Z",
-      "RX bytes":0,
-      "TX bytes":130,
-      "RX packets":0,
-      "TX packets":1,
-      "RX packet loss":0,
-      "TX packet loss":0
-    }
-  }
-}
-{
-  "UserIP":"2a00:1450:400d:802::2003",
-  "UserIMSI":"Under development",
-  "UserIMEI":"Under development",
-  "Roaming":"Unknown",
-  "Technology":"Unknown",
-  "Services":{
-    "2a01:36d:111:693e:bce4:4908:d14b:947e:49465 UDP":{
-      "RX first timestamp":"2026-05-09T09:22:45.889516655Z",
-      "RX latest timestamp":"2026-05-09T09:22:45.923896128Z",
-      "RX bytes":6160,
-      "TX bytes":0,
-      "RX packets":13,
-      "TX packets":0,
-      "RX packet loss":0,
-      "TX packet loss":0,
-      "Jitter (ms)":2
-    }
-  }
-}
-{
-  "UserIP":"2a00:1450:400c:c02::bc",
-  "UserIMSI":"Under development",
-  "UserIMEI":"Under development",
-  "Roaming":"Unknown",
-  "Technology":"Unknown",
-  "Services":{
-    "2a01:36d:111:693e:bce4:4908:d14b:947e:51184 TCP":{
-      "RX first timestamp":"2026-05-09T09:22:44.455622351Z",
-      "RX latest timestamp":"2026-05-09T09:22:44.455622351Z",
-      "RX bytes":75,
-      "TX bytes":0,
-      "RX packets":1,
-      "TX packets":0,
-      "RX packet loss":0,
-      "TX packet loss":0
-    }
-  }
-}
-{
-  "UserIP":"2a00:1450:400d:808::200e",
-  "UserIMSI":"Under development",
-  "UserIMEI":"Under development",
-  "Roaming":"Unknown",
-  "Technology":"Unknown",
-  "Services":{
-    "2a01:36d:111:693e:bce4:4908:d14b:947e:60610 UDP":{
-      "RX first timestamp":"2026-05-09T09:22:43.797650338Z",
-      "RX latest timestamp":"2026-05-09T09:22:54.691801941Z",
-      "RX bytes":84137,
-      "TX bytes":0,
-      "RX packets":140,
-      "TX packets":0,
-      "RX packet loss":0,
-      "TX packet loss":0,
-      "Jitter (ms)":393
-    }
-  }
-}
-{
-  "UserIP":"2001:4860:4802:34::36",
-  "UserIMSI":"Under development",
-  "UserIMEI":"Under development",
-  "Roaming":"Unknown",
-  "Technology":"Unknown",
-  "Services":{
-    "2a01:36d:111:693e:bce4:4908:d14b:947e:49560 UDP":{
-      "RX first timestamp":"2026-05-09T09:22:48.627583043Z",
-      "RX latest timestamp":"2026-05-09T09:22:48.681917052Z",
-      "RX bytes":6164,
-      "TX bytes":0,
-      "RX packets":11,
-      "TX packets":0,
-      "RX packet loss":0,
-      "TX packet loss":0,
-      "Jitter (ms)":3
-    }
-  }
-}
-{
-  "UserIP":"2001:4860:4828:7700::",
-  "UserIMSI":"Under development",
-  "UserIMEI":"Under development",
-  "Roaming":"Unknown",
-  "Technology":"Unknown",
-  "Services":{
-    "2a01:36d:111:693e:bce4:4908:d14b:947e:54642 UDP":{
-      "RX first timestamp":"2026-05-09T09:22:43.780842658Z",
-      "RX latest timestamp":"2026-05-09T09:22:54.594399418Z",
-      "RX bytes":273,
-      "TX bytes":0,
-      "RX packets":3,
-      "TX packets":0,
-      "RX packet loss":0,
-      "TX packet loss":0,
-      "Jitter (ms)":58
-    }
-  }
-}
-{
   "UserIP":"::ffff:192.168.100.180",
   "UserIMSI":"Under development",
   "UserIMEI":"Under development",
@@ -485,339 +50,6 @@
       "RX packet loss":0,
       "TX packet loss":0,
       "Jitter (ms)":41
-    }
-  }
-}
-{
-  "UserIP":"2a00:1450:400d:80b::2003",
-  "UserIMSI":"Under development",
-  "UserIMEI":"Under development",
-  "Roaming":"Unknown",
-  "Technology":"Unknown",
-  "Services":{
-    "2a01:36d:111:693e:bce4:4908:d14b:947e:60327 UDP":{
-      "RX first timestamp":"2026-05-09T09:22:54.616353618Z",
-      "RX latest timestamp":"2026-05-09T09:22:54.670411003Z",
-      "RX bytes":2148,
-      "TX bytes":0,
-      "RX packets":4,
-      "TX packets":0,
-      "RX packet loss":0,
-      "TX packet loss":0,
-      "Jitter (ms)":1
-    },
-    "2a01:36d:111:693e:bce4:4908:d14b:947e:51850 UDP":{
-      "RX first timestamp":"2026-05-09T09:22:42.805446642Z",
-      "RX latest timestamp":"2026-05-09T09:22:42.885052285Z",
-      "RX bytes":7853,
-      "TX bytes":0,
-      "RX packets":12,
-      "TX packets":0,
-      "RX packet loss":0,
-      "TX packet loss":0,
-      "Jitter (ms)":4
-    }
-  }
-}
-{
-  "UserIP":"2a00:1450:400d:803::2001",
-  "UserIMSI":"Under development",
-  "UserIMEI":"Under development",
-  "Roaming":"Unknown",
-  "Technology":"Unknown",
-  "Services":{
-    "2a01:36d:111:693e:bce4:4908:d14b:947e:57401 UDP":{
-      "RX first timestamp":"2026-05-09T09:22:45.496934616Z",
-      "RX latest timestamp":"2026-05-09T09:22:51.044297396Z",
-      "RX bytes":8921,
-      "TX bytes":0,
-      "RX packets":23,
-      "TX packets":0,
-      "RX packet loss":0,
-      "TX packet loss":0,
-      "Jitter (ms)":484
-    }
-  }
-}
-{
-  "UserIP":"2a00:1450:400d:811::2001",
-  "UserIMSI":"Under development",
-  "UserIMEI":"Under development",
-  "Roaming":"Unknown",
-  "Technology":"Unknown",
-  "Services":{
-    "2a01:36d:111:693e:bce4:4908:d14b:947e:51352 TCP":{
-      "RX first timestamp":"2026-05-09T09:22:52.641816556Z",
-      "RX latest timestamp":"2026-05-09T09:22:52.641816556Z",
-      "RX bytes":75,
-      "TX bytes":0,
-      "RX packets":1,
-      "TX packets":0,
-      "RX packet loss":0,
-      "TX packet loss":0
-    }
-  }
-}
-{
-  "UserIP":"2a00:1450:400d:80f::2008",
-  "UserIMSI":"Under development",
-  "UserIMEI":"Under development",
-  "Roaming":"Unknown",
-  "Technology":"Unknown",
-  "Services":{
-    "2a01:36d:111:693e:bce4:4908:d14b:947e:51354 TCP":{
-      "RX first timestamp":"2026-05-09T09:22:45.460696247Z",
-      "RX latest timestamp":"2026-05-09T09:22:45.460696247Z",
-      "RX bytes":75,
-      "TX bytes":0,
-      "RX packets":1,
-      "TX packets":0,
-      "RX packet loss":0,
-      "TX packet loss":0
-    }
-  }
-}
-{
-  "UserIP":"::",
-  "UserIMSI":"Under development",
-  "UserIMEI":"Under development",
-  "Roaming":"Unknown",
-  "Technology":"Unknown",
-  "Services":{
-  }
-}
-{
-  "UserIP":"2a00:1450:400d:80f::200e",
-  "UserIMSI":"Under development",
-  "UserIMEI":"Under development",
-  "Roaming":"Unknown",
-  "Technology":"Unknown",
-  "Services":{
-    "2a01:36d:111:693e:bce4:4908:d14b:947e:59170 UDP":{
-      "RX first timestamp":"2026-05-09T09:22:45.510181717Z",
-      "RX latest timestamp":"2026-05-09T09:22:45.510181717Z",
-      "RX bytes":91,
-      "TX bytes":0,
-      "RX packets":1,
-      "TX packets":0,
-      "RX packet loss":0,
-      "TX packet loss":0
-    }
-  }
-}
-{
-  "UserIP":"2a00:1450:400d:80b::2005",
-  "UserIMSI":"Under development",
-  "UserIMEI":"Under development",
-  "Roaming":"Unknown",
-  "Technology":"Unknown",
-  "Services":{
-    "2a01:36d:111:693e:bce4:4908:d14b:947e:51363 TCP":{
-      "RX first timestamp":"2026-05-09T09:22:47.142615526Z",
-      "RX latest timestamp":"2026-05-09T09:22:47.142615526Z",
-      "RX bytes":75,
-      "TX bytes":0,
-      "RX packets":1,
-      "TX packets":0,
-      "RX packet loss":0,
-      "TX packet loss":0
-    }
-  }
-}
-{
-  "UserIP":"2a00:1450:400d:810::2003",
-  "UserIMSI":"Under development",
-  "UserIMEI":"Under development",
-  "Roaming":"Unknown",
-  "Technology":"Unknown",
-  "Services":{
-    "2a01:36d:111:693e:bce4:4908:d14b:947e:51349 TCP":{
-      "RX first timestamp":"2026-05-09T09:22:44.968123271Z",
-      "RX latest timestamp":"2026-05-09T09:22:44.970954411Z",
-      "RX bytes":148,
-      "TX bytes":0,
-      "RX packets":2,
-      "TX packets":0,
-      "RX packet loss":0,
-      "TX packet loss":0
-    },
-    "2a01:36d:111:693e:bce4:4908:d14b:947e:62877 UDP":{
-      "RX first timestamp":"2026-05-09T09:22:42.746987931Z",
-      "RX latest timestamp":"2026-05-09T09:22:42.795256156Z",
-      "RX bytes":5305,
-      "TX bytes":0,
-      "RX packets":10,
-      "TX packets":0,
-      "RX packet loss":0,
-      "TX packet loss":0,
-      "Jitter (ms)":2
-    },
-    "2a01:36d:111:693e:bce4:4908:d14b:947e:54819 UDP":{
-      "RX first timestamp":"2026-05-09T09:22:48.635538746Z",
-      "RX latest timestamp":"2026-05-09T09:22:48.715669181Z",
-      "RX bytes":6953,
-      "TX bytes":0,
-      "RX packets":11,
-      "TX packets":0,
-      "RX packet loss":0,
-      "TX packet loss":0,
-      "Jitter (ms)":3
-    }
-  }
-}
-{
-  "UserIP":"2a00:1450:400d:810::200e",
-  "UserIMSI":"Under development",
-  "UserIMEI":"Under development",
-  "Roaming":"Unknown",
-  "Technology":"Unknown",
-  "Services":{
-    "2a01:36d:111:693e:bce4:4908:d14b:947e:51359 TCP":{
-      "RX first timestamp":"2026-05-09T09:22:53.191459451Z",
-      "RX latest timestamp":"2026-05-09T09:22:53.191459451Z",
-      "RX bytes":75,
-      "TX bytes":0,
-      "RX packets":1,
-      "TX packets":0,
-      "RX packet loss":0,
-      "TX packet loss":0
-    }
-  }
-}
-{
-  "UserIP":"2001:4860:482a:7700::",
-  "UserIMSI":"Under development",
-  "UserIMEI":"Under development",
-  "Roaming":"Unknown",
-  "Technology":"Unknown",
-  "Services":{
-    "2a01:36d:111:693e:bce4:4908:d14b:947e:57131 UDP":{
-      "RX first timestamp":"2026-05-09T09:22:42.852912413Z",
-      "RX latest timestamp":"2026-05-09T09:22:43.124574277Z",
-      "RX bytes":182,
-      "TX bytes":0,
-      "RX packets":2,
-      "TX packets":0,
-      "RX packet loss":0,
-      "TX packet loss":0
-    }
-  }
-}
-{
-  "UserIP":"2a00:1450:4001:c21::9a",
-  "UserIMSI":"Under development",
-  "UserIMEI":"Under development",
-  "Roaming":"Unknown",
-  "Technology":"Unknown",
-  "Services":{
-    "2a01:36d:111:693e:bce4:4908:d14b:947e:51356 TCP":{
-      "RX first timestamp":"2026-05-09T09:22:45.840485133Z",
-      "RX latest timestamp":"2026-05-09T09:22:45.840485133Z",
-      "RX bytes":75,
-      "TX bytes":0,
-      "RX packets":1,
-      "TX packets":0,
-      "RX packet loss":0,
-      "TX packet loss":0
-    }
-  }
-}
-{
-  "UserIP":"2a00:1450:400d:812::2016",
-  "UserIMSI":"Under development",
-  "UserIMEI":"Under development",
-  "Roaming":"Unknown",
-  "Technology":"Unknown",
-  "Services":{
-    "2a01:36d:111:693e:bce4:4908:d14b:947e:49912 UDP":{
-      "RX first timestamp":"2026-05-09T09:22:45.448475597Z",
-      "RX latest timestamp":"2026-05-09T09:22:51.051804387Z",
-      "RX bytes":11462,
-      "TX bytes":0,
-      "RX packets":80,
-      "TX packets":0,
-      "RX packet loss":0,
-      "TX packet loss":0,
-      "Jitter (ms)":48
-    }
-  }
-}
-{
-  "UserIP":"2a00:1450:400d:813::200e",
-  "UserIMSI":"Under development",
-  "UserIMEI":"Under development",
-  "Roaming":"Unknown",
-  "Technology":"Unknown",
-  "Services":{
-    "2a01:36d:111:693e:bce4:4908:d14b:947e:51360 TCP":{
-      "RX first timestamp":"2026-05-09T09:22:53.802570852Z",
-      "RX latest timestamp":"2026-05-09T09:22:53.802570852Z",
-      "RX bytes":75,
-      "TX bytes":0,
-      "RX packets":1,
-      "TX packets":0,
-      "RX packet loss":0,
-      "TX packet loss":0
-    }
-  }
-}
-{
-  "UserIP":"2a01:368:b::e",
-  "UserIMSI":"Under development",
-  "UserIMEI":"Under development",
-  "Roaming":"Unknown",
-  "Technology":"Unknown",
-  "Services":{
-    "2a01:36d:111:693e:bce4:4908:d14b:947e:52369 UDP":{
-      "RX first timestamp":"2026-05-09T09:22:54.606583164Z",
-      "RX latest timestamp":"2026-05-09T09:22:54.875916592Z",
-      "RX bytes":4522,
-      "TX bytes":0,
-      "RX packets":12,
-      "TX packets":0,
-      "RX packet loss":0,
-      "TX packet loss":0,
-      "Jitter (ms)":28
-    }
-  }
-}
-{
-  "UserIP":"2a01:368:b:2::e",
-  "UserIMSI":"Under development",
-  "UserIMEI":"Under development",
-  "Roaming":"Unknown",
-  "Technology":"Unknown",
-  "Services":{
-    "2a01:36d:111:693e:bce4:4908:d14b:947e:51419 UDP":{
-      "RX first timestamp":"2026-05-09T09:22:46.456096569Z",
-      "RX latest timestamp":"2026-05-09T09:22:46.542359457Z",
-      "RX bytes":18140,
-      "TX bytes":0,
-      "RX packets":99,
-      "TX packets":0,
-      "RX packet loss":0,
-      "TX packet loss":0,
-      "Jitter (ms)":1
-    }
-  }
-}
-{
-  "UserIP":"2a01:368:115:900d::d",
-  "UserIMSI":"Under development",
-  "UserIMEI":"Under development",
-  "Roaming":"Unknown",
-  "Technology":"Unknown",
-  "Services":{
-    "2a01:36d:111:693e:bce4:4908:d14b:947e:60764 UDP":{
-      "RX first timestamp":"2026-05-09T09:22:45.623974138Z",
-      "RX latest timestamp":"2026-05-09T09:22:46.900923306Z",
-      "RX bytes":48821,
-      "TX bytes":0,
-      "RX packets":326,
-      "TX packets":0,
-      "RX packet loss":0,
-      "TX packet loss":0,
-      "Jitter (ms)":0
     }
   }
 }
@@ -851,10 +83,12 @@
     "2001:4860:4802:34::36:443 UDP":{
       "RX first timestamp":"2026-05-09T09:22:48.629965479Z",
       "RX latest timestamp":"2026-05-09T09:22:48.710439405Z",
+      "TX first timestamp":"2026-05-09T09:22:48.627583043Z",
+      "TX latest timestamp":"2026-05-09T09:22:48.681917052Z",
       "RX bytes":6505,
-      "TX bytes":0,
+      "TX bytes":6164,
       "RX packets":12,
-      "TX packets":0,
+      "TX packets":11,
       "RX packet loss":0,
       "TX packet loss":0,
       "Jitter (ms)":5
@@ -862,10 +96,12 @@
     "2a01:368:115:900d::d:443 UDP":{
       "RX first timestamp":"2026-05-09T09:22:45.626642211Z",
       "RX latest timestamp":"2026-05-09T09:22:46.896040504Z",
+      "TX first timestamp":"2026-05-09T09:22:45.623974138Z",
+      "TX latest timestamp":"2026-05-09T09:22:46.900923306Z",
       "RX bytes":3110787,
-      "TX bytes":0,
+      "TX bytes":48821,
       "RX packets":2425,
-      "TX packets":0,
+      "TX packets":326,
       "RX packet loss":0,
       "TX packet loss":0,
       "Jitter (ms)":0
@@ -873,20 +109,24 @@
     "2a00:1450:400d:80b::2005:443 TCP":{
       "RX first timestamp":"2026-05-09T09:22:47.144522730Z",
       "RX latest timestamp":"2026-05-09T09:22:47.144522730Z",
+      "TX first timestamp":"2026-05-09T09:22:47.142615526Z",
+      "TX latest timestamp":"2026-05-09T09:22:47.142615526Z",
       "RX bytes":86,
-      "TX bytes":0,
+      "TX bytes":75,
       "RX packets":1,
-      "TX packets":0,
+      "TX packets":1,
       "RX packet loss":0,
       "TX packet loss":0
     },
     "2001:4860:4828:7700:::443 UDP":{
       "RX first timestamp":"2026-05-09T09:22:43.807848057Z",
       "RX latest timestamp":"2026-05-09T09:22:54.621647705Z",
+      "TX first timestamp":"2026-05-09T09:22:43.780842658Z",
+      "TX latest timestamp":"2026-05-09T09:22:54.594399418Z",
       "RX bytes":264,
-      "TX bytes":0,
+      "TX bytes":273,
       "RX packets":3,
-      "TX packets":0,
+      "TX packets":3,
       "RX packet loss":0,
       "TX packet loss":0,
       "Jitter (ms)":58
@@ -894,10 +134,12 @@
     "2a00:1450:400d:808::200e:443 UDP":{
       "RX first timestamp":"2026-05-09T09:22:43.801556120Z",
       "RX latest timestamp":"2026-05-09T09:22:54.691555283Z",
+      "TX first timestamp":"2026-05-09T09:22:43.797650338Z",
+      "TX latest timestamp":"2026-05-09T09:22:54.691801941Z",
       "RX bytes":194279,
-      "TX bytes":0,
+      "TX bytes":84137,
       "RX packets":251,
-      "TX packets":0,
+      "TX packets":140,
       "RX packet loss":0,
       "TX packet loss":0,
       "Jitter (ms)":225
@@ -905,40 +147,48 @@
     "2a00:1450:400d:80f::200e:443 UDP":{
       "RX first timestamp":"2026-05-09T09:22:45.514370941Z",
       "RX latest timestamp":"2026-05-09T09:22:45.514370941Z",
+      "TX first timestamp":"2026-05-09T09:22:45.510181717Z",
+      "TX latest timestamp":"2026-05-09T09:22:45.510181717Z",
       "RX bytes":88,
-      "TX bytes":0,
+      "TX bytes":91,
       "RX packets":1,
-      "TX packets":0,
+      "TX packets":1,
       "RX packet loss":0,
       "TX packet loss":0
     },
     "2a00:1450:400d:810::2003:443 TCP":{
       "RX first timestamp":"2026-05-09T09:22:44.967899012Z",
       "RX latest timestamp":"2026-05-09T09:22:44.970845643Z",
+      "TX first timestamp":"2026-05-09T09:22:44.968123271Z",
+      "TX latest timestamp":"2026-05-09T09:22:44.970954411Z",
       "RX bytes":221,
-      "TX bytes":0,
+      "TX bytes":148,
       "RX packets":2,
-      "TX packets":0,
+      "TX packets":2,
       "RX packet loss":0,
       "TX packet loss":0
     },
     "2a00:1450:4001:c21::9a:443 TCP":{
       "RX first timestamp":"2026-05-09T09:22:45.856333923Z",
       "RX latest timestamp":"2026-05-09T09:22:45.856333923Z",
+      "TX first timestamp":"2026-05-09T09:22:45.840485133Z",
+      "TX latest timestamp":"2026-05-09T09:22:45.840485133Z",
       "RX bytes":86,
-      "TX bytes":0,
+      "TX bytes":75,
       "RX packets":1,
-      "TX packets":0,
+      "TX packets":1,
       "RX packet loss":0,
       "TX packet loss":0
     },
     "2a00:1450:400d:803::2001:443 UDP":{
       "RX first timestamp":"2026-05-09T09:22:45.504951288Z",
       "RX latest timestamp":"2026-05-09T09:22:51.047651025Z",
+      "TX first timestamp":"2026-05-09T09:22:45.496934616Z",
+      "TX latest timestamp":"2026-05-09T09:22:51.044297396Z",
       "RX bytes":23269,
-      "TX bytes":0,
+      "TX bytes":8921,
       "RX packets":31,
-      "TX packets":0,
+      "TX packets":23,
       "RX packet loss":0,
       "TX packet loss":0,
       "Jitter (ms)":424
@@ -946,10 +196,12 @@
     "2a00:1450:400d:802::2003:443 UDP":{
       "RX first timestamp":"2026-05-09T09:22:45.901983797Z",
       "RX latest timestamp":"2026-05-09T09:22:45.923666462Z",
+      "TX first timestamp":"2026-05-09T09:22:45.889516655Z",
+      "TX latest timestamp":"2026-05-09T09:22:45.923896128Z",
       "RX bytes":9001,
-      "TX bytes":0,
+      "TX bytes":6160,
       "RX packets":12,
-      "TX packets":0,
+      "TX packets":13,
       "RX packet loss":0,
       "TX packet loss":0,
       "Jitter (ms)":1
@@ -957,30 +209,36 @@
     "2001:4860:4802:32::36:443 TCP":{
       "RX first timestamp":"2026-05-09T09:22:50.738660491Z",
       "RX latest timestamp":"2026-05-09T09:22:50.738660491Z",
+      "TX first timestamp":"2026-05-09T09:22:50.736622249Z",
+      "TX latest timestamp":"2026-05-09T09:22:50.736622249Z",
       "RX bytes":86,
-      "TX bytes":0,
+      "TX bytes":75,
       "RX packets":1,
-      "TX packets":0,
+      "TX packets":1,
       "RX packet loss":0,
       "TX packet loss":0
     },
     "2a00:1450:400c:c02::bc:5228 TCP":{
       "RX first timestamp":"2026-05-09T09:22:44.477596132Z",
       "RX latest timestamp":"2026-05-09T09:22:44.477596132Z",
+      "TX first timestamp":"2026-05-09T09:22:44.455622351Z",
+      "TX latest timestamp":"2026-05-09T09:22:44.455622351Z",
       "RX bytes":86,
-      "TX bytes":0,
+      "TX bytes":75,
       "RX packets":1,
-      "TX packets":0,
+      "TX packets":1,
       "RX packet loss":0,
       "TX packet loss":0
     },
     "2a00:1450:400d:812::2016:443 UDP":{
       "RX first timestamp":"2026-05-09T09:22:45.452673914Z",
       "RX latest timestamp":"2026-05-09T09:22:51.051127647Z",
+      "TX first timestamp":"2026-05-09T09:22:45.448475597Z",
+      "TX latest timestamp":"2026-05-09T09:22:51.051804387Z",
       "RX bytes":642297,
-      "TX bytes":0,
+      "TX bytes":11462,
       "RX packets":512,
-      "TX packets":0,
+      "TX packets":80,
       "RX packet loss":0,
       "TX packet loss":0,
       "Jitter (ms)":0
@@ -988,10 +246,12 @@
     "2a01:368:b::e:443 UDP":{
       "RX first timestamp":"2026-05-09T09:22:54.608122608Z",
       "RX latest timestamp":"2026-05-09T09:22:54.875657858Z",
+      "TX first timestamp":"2026-05-09T09:22:54.606583164Z",
+      "TX latest timestamp":"2026-05-09T09:22:54.875916592Z",
       "RX bytes":7902,
-      "TX bytes":0,
+      "TX bytes":4522,
       "RX packets":14,
-      "TX packets":0,
+      "TX packets":12,
       "RX packet loss":0,
       "TX packet loss":0,
       "Jitter (ms)":28
@@ -999,20 +259,24 @@
     "2a00:1450:400d:811::2001:443 TCP":{
       "RX first timestamp":"2026-05-09T09:22:52.643693671Z",
       "RX latest timestamp":"2026-05-09T09:22:52.643693671Z",
+      "TX first timestamp":"2026-05-09T09:22:52.641816556Z",
+      "TX latest timestamp":"2026-05-09T09:22:52.641816556Z",
       "RX bytes":86,
-      "TX bytes":0,
+      "TX bytes":75,
       "RX packets":1,
-      "TX packets":0,
+      "TX packets":1,
       "RX packet loss":0,
       "TX packet loss":0
     },
     "2a00:1450:400d:80b::2003:443 UDP":{
       "RX first timestamp":"2026-05-09T09:22:42.811663982Z",
       "RX latest timestamp":"2026-05-09T09:22:54.670177487Z",
+      "TX first timestamp":"2026-05-09T09:22:42.805446642Z",
+      "TX latest timestamp":"2026-05-09T09:22:54.670411003Z",
       "RX bytes":9611,
-      "TX bytes":0,
+      "TX bytes":10001,
       "RX packets":19,
-      "TX packets":0,
+      "TX packets":16,
       "RX packet loss":0,
       "TX packet loss":0,
       "Jitter (ms)":1253
@@ -1020,10 +284,12 @@
     "2a01:368:b:2::e:443 UDP":{
       "RX first timestamp":"2026-05-09T09:22:46.459004456Z",
       "RX latest timestamp":"2026-05-09T09:22:46.569606801Z",
+      "TX first timestamp":"2026-05-09T09:22:46.456096569Z",
+      "TX latest timestamp":"2026-05-09T09:22:46.542359457Z",
       "RX bytes":569110,
-      "TX bytes":0,
+      "TX bytes":18140,
       "RX packets":453,
-      "TX packets":0,
+      "TX packets":99,
       "RX packet loss":0,
       "TX packet loss":0,
       "Jitter (ms)":3
@@ -1031,20 +297,24 @@
     "2a00:1450:400d:813::200e:443 TCP":{
       "RX first timestamp":"2026-05-09T09:22:53.804455612Z",
       "RX latest timestamp":"2026-05-09T09:22:53.804455612Z",
+      "TX first timestamp":"2026-05-09T09:22:53.802570852Z",
+      "TX latest timestamp":"2026-05-09T09:22:53.802570852Z",
       "RX bytes":86,
-      "TX bytes":0,
+      "TX bytes":75,
       "RX packets":1,
-      "TX packets":0,
+      "TX packets":1,
       "RX packet loss":0,
       "TX packet loss":0
     },
     "2a00:1450:400d:810::2003:443 UDP":{
       "RX first timestamp":"2026-05-09T09:22:42.749210241Z",
       "RX latest timestamp":"2026-05-09T09:22:48.715450810Z",
+      "TX first timestamp":"2026-05-09T09:22:42.746987931Z",
+      "TX latest timestamp":"2026-05-09T09:22:48.715669181Z",
       "RX bytes":14314,
-      "TX bytes":0,
+      "TX bytes":12258,
       "RX packets":28,
-      "TX packets":0,
+      "TX packets":21,
       "RX packet loss":0,
       "TX packet loss":0,
       "Jitter (ms)":292
@@ -1052,30 +322,36 @@
     "2a00:1450:400d:810::200e:443 TCP":{
       "RX first timestamp":"2026-05-09T09:22:53.193409977Z",
       "RX latest timestamp":"2026-05-09T09:22:53.193409977Z",
+      "TX first timestamp":"2026-05-09T09:22:53.191459451Z",
+      "TX latest timestamp":"2026-05-09T09:22:53.191459451Z",
       "RX bytes":86,
-      "TX bytes":0,
+      "TX bytes":75,
       "RX packets":1,
-      "TX packets":0,
+      "TX packets":1,
       "RX packet loss":0,
       "TX packet loss":0
     },
     "2a00:1450:400d:80f::2008:443 TCP":{
       "RX first timestamp":"2026-05-09T09:22:45.503794497Z",
       "RX latest timestamp":"2026-05-09T09:22:45.503794497Z",
+      "TX first timestamp":"2026-05-09T09:22:45.460696247Z",
+      "TX latest timestamp":"2026-05-09T09:22:45.460696247Z",
       "RX bytes":86,
-      "TX bytes":0,
+      "TX bytes":75,
       "RX packets":1,
-      "TX packets":0,
+      "TX packets":1,
       "RX packet loss":0,
       "TX packet loss":0
     },
     "2001:4860:482a:7700:::443 UDP":{
       "RX first timestamp":"2026-05-09T09:22:42.856207829Z",
       "RX latest timestamp":"2026-05-09T09:22:43.127838554Z",
+      "TX first timestamp":"2026-05-09T09:22:42.852912413Z",
+      "TX latest timestamp":"2026-05-09T09:22:43.124574277Z",
       "RX bytes":176,
-      "TX bytes":0,
+      "TX bytes":182,
       "RX packets":2,
-      "TX packets":0,
+      "TX packets":2,
       "RX packet loss":0,
       "TX packet loss":0
     }

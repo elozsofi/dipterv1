@@ -43,12 +43,12 @@
 #define ENABLE_KERNEL   31
 
 //Program related defines
-#define MAX_USERS       20000 // 1048576 (=2^20)
+#define MAX_USERS       10 // 1048576 (=2^20)
 #define MAX_NODE_IPS    20000
-#define MAX_SERVICES    100
+#define MAX_SERVICES    1000
 #define SNI_SIZE        20
 #define ARRAY_MAP_MAX_ENTRIES 32
-#define MAPID_THREADS   20 // GC threads
+#define MAPID_THREADS   1 // GC threads
 #define AGGR_TIME       6000 // clear users every 20 seconds
 
 //Misc

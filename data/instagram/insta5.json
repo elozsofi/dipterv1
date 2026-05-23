@@ -1,13 +1,4 @@
 {
-  "UserIP":"::",
-  "UserIMSI":"Under development",
-  "UserIMEI":"Under development",
-  "Roaming":"Unknown",
-  "Technology":"Unknown",
-  "Services":{
-  }
-}
-{
   "UserIP":"fe80::cc6:b68f:2017:fd46",
   "UserIMSI":"Under development",
   "UserIMEI":"Under development",
@@ -35,59 +26,25 @@
   "Services":{
     "2a03:2880:f207:c4:face:b00c:0:43fe:443 TCP":{
       "RX first timestamp":"2026-05-09T09:01:31.741529966Z",
-      "RX latest timestamp":"2026-05-09T09:01:31.741529966Z",
+      "RX latest timestamp":"2026-05-09T09:01:31.781954065Z",
+      "TX first timestamp":"2026-05-09T09:01:31.704168758Z",
+      "TX latest timestamp":"2026-05-09T09:01:31.781954065Z",
       "RX bytes":145,
-      "TX bytes":0,
+      "TX bytes":217,
       "RX packets":1,
-      "TX packets":0,
+      "TX packets":2,
       "RX packet loss":0,
       "TX packet loss":0
     },
     "2a03:2880:f007:7:face:b00c:0:6206:443 TCP":{
       "RX first timestamp":"2026-05-09T09:01:32.277969194Z",
-      "RX latest timestamp":"2026-05-09T09:01:32.309644651Z",
-      "RX bytes":173,
-      "TX bytes":0,
-      "RX packets":2,
-      "TX packets":0,
-      "RX packet loss":0,
-      "TX packet loss":0
-    }
-  }
-}
-{
-  "UserIP":"2a03:2880:f007:7:face:b00c:0:6206",
-  "UserIMSI":"Under development",
-  "UserIMEI":"Under development",
-  "Roaming":"Unknown",
-  "Technology":"Unknown",
-  "Services":{
-    "2a01:36d:111:693e:bce4:4908:d14b:947e:51639 TCP":{
-      "RX first timestamp":"2026-05-09T09:01:32.272753983Z",
       "RX latest timestamp":"2026-05-09T09:01:32.363274397Z",
-      "RX bytes":177,
-      "TX bytes":0,
+      "TX first timestamp":"2026-05-09T09:01:32.272753983Z",
+      "TX latest timestamp":"2026-05-09T09:01:32.363274397Z",
+      "RX bytes":173,
+      "TX bytes":177,
       "RX packets":2,
-      "TX packets":0,
-      "RX packet loss":0,
-      "TX packet loss":0
-    }
-  }
-}
-{
-  "UserIP":"2a03:2880:f207:c4:face:b00c:0:43fe",
-  "UserIMSI":"Under development",
-  "UserIMEI":"Under development",
-  "Roaming":"Unknown",
-  "Technology":"Unknown",
-  "Services":{
-    "2a01:36d:111:693e:bce4:4908:d14b:947e:51642 TCP":{
-      "RX first timestamp":"2026-05-09T09:01:31.704168758Z",
-      "RX latest timestamp":"2026-05-09T09:01:31.781954065Z",
-      "RX bytes":217,
-      "TX bytes":0,
-      "RX packets":2,
-      "TX packets":0,
+      "TX packets":2,
       "RX packet loss":0,
       "TX packet loss":0
     }
